@@ -1,0 +1,196 @@
+{
+  "slug": "safe-coach",
+  "company": "Your Organization",
+  "role": "Sr. SAFe Scrum Master / Team Coach",
+  "subtitle": "SAFe · ADO · AI-Enhanced Delivery · Consultative Coaching",
+  "hero_title": "Solutions first.<br>Outcomes always.<br><em>Never waiting.</em>",
+  "hero_sub": "Ten years of coaching Agile teams in SAFe environments — consultative, flexible, AI-fluent, and action-oriented when the information is still incomplete.",
+
+  "the_case": [
+    {
+      "need": "2+ years working in a SAFe environment",
+      "answer": "Eptura (2022–2023): 2 years in a PI-aligned SAFe environment across ~10 distributed engineering teams. DigitasLBI/SunTrust (2014): SAFe enterprise, PI-aligned, SOX-compliant financial services.",
+      "detail": "At Eptura I ran inside a SAFe cadence for two years — PI Planning cycles, ART coordination, Scrum-of-Scroms, and system demos across ~10 teams (India and California). At DigitasLBI I was embedded on-site at SunTrust in a SAFe enterprise program, coordinating PI-aligned dependencies across two teams and an offshore QA group. The SAFe delivery experience is documented and direct."
+    },
+    {
+      "need": "1+ year hands-on ADO — facilitating Agile team practices in Azure DevOps",
+      "answer": "Direct ADO experience at Crocs (2026), Eptura (2022–2023), and Understood.org (2019–2020). Board configuration, workflow management, sprint tracking, flow metrics, and delivery dashboards.",
+      "detail": "ADO is a tool I configure and maintain, not just use. At Eptura I was the ADO configuration owner for the PMO — standardizing boards, workflows, and delivery health dashboards across ~10 teams. At Crocs I maintained ADO boards throughout a full release lifecycle and built real-time dashboards for leadership. At Understood.org I used ADO for delivery tracking in a regulated program with a globally distributed team."
+    },
+    {
+      "need": "Consultative approach — coaches to outcomes, leads with solutions, project-centric",
+      "answer": "This is the operating mode, not an aspiration. Every engagement described: here is the problem, here is the solution, here is the plan. Not: let us form a working group and discuss Agile values.",
+      "detail": "At Crocs I inherited a release mid-cycle and delivered it on time — no waiting for a perfect handoff, no process debate. At Understood.org I took over a distressed program in its final months and shipped clean. At Eptura I coached ~10 teams toward self-organization by giving them structure, not more meetings. Consultative and solutions-oriented is not a style I adopt — it is how delivery actually works."
+    },
+    {
+      "need": "Build and maintain ADO dashboards — flow metrics, KPIs, schedule and cost performance",
+      "answer": "Eptura: built standardized ADO dashboards for ~10 teams (velocity, flow, predictability, team health). Crocs: real-time release readiness dashboards giving leadership visibility before they asked for it.",
+      "detail": "I build the monitoring infrastructure — not just the reports. At Eptura I created the ADO and Smartsheet dashboards that became the PMO standard across all teams. At Crocs I built Release Radar, a real-time tracking framework that surfaced cross-environment dependencies and schedule risks before they threatened go-live. At Understood.org I administered ADO for a globally distributed program. Dashboards that tell a story leadership can act on, not just data exports."
+    },
+    {
+      "need": "AI tools applied within the SM role — backlog generation, documentation, analytics, reporting",
+      "answer": "Jira AI embedded in backlog management and sprint summaries at Crocs. Microsoft Copilot in documentation and reporting. ~30% administrative overhead reduction with improved output quality. Active daily Claude and Copilot use.",
+      "detail": "The requirement is 'familiarity with AI tools and demonstrated ability to apply them within the Scrum Master role.' At Crocs I did exactly this: embedded Jira AI into backlog grooming and sprint summary workflows, used Copilot for stakeholder documentation and reporting automation. The administrative overhead dropped ~30% and the output got sharper. I use these tools to compress the administrative side of SM work so coaching time goes to actual coaching."
+    },
+    {
+      "need": "Navigate ambiguity, create structure, be action-oriented without complete information",
+      "answer": "Distressed program recovery at Understood.org. Greenfield platform build at OVRSTCH. AI startup delivery at Stealth-Mode AI. SAFe program coordination across ~10 teams at Eptura. All ambiguous. All shipped.",
+      "detail": "Navigating ambiguity is a skill I have exercised repeatedly: taking over a distressed program in its final months (Understood.org), running delivery for an AI startup with shifting requirements and no prior process (Stealth-Mode AI), building a platform from scratch with concurrent unknown workstreams (OVRSTCH), and coordinating PI delivery across teams that had never operated in a scaled environment before (Eptura Marketing adoption). In each case: create structure, move toward the outcome, resolve information gaps in motion — not in a planning cycle."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The SAFe delivery ecosystem.",
+    "subhead": "The tools and cadences I operate in daily.",
+    "nodes": [
+      {
+        "label": "Azure DevOps (ADO)",
+        "desc": "Primary SAFe delivery tool — board configuration, sprint tracking, flow metrics, delivery dashboards, KPI reporting",
+        "pm_role": "ADO configuration owner at Eptura PMO (~10 teams). Real-time release dashboards at Crocs. Program-level delivery tracking at Understood.org. Not a user — a configurator."
+      },
+      {
+        "label": "SAFe / PI Planning",
+        "desc": "Scaled Agile Framework — Program Increment planning, ART coordination, Scrum-of-Scroms, system demos, cross-team dependency management",
+        "pm_role": "Ran inside SAFe PI cadences at Eptura (2 years, ~10 teams) and DigitasLBI (SAFe enterprise, SOX-compliant financial services). PI Planning, ART syncs, dependency mapping are established practice."
+      },
+      {
+        "label": "Jira & Jira AI",
+        "desc": "Team-level delivery tracking — sprint boards, backlogs, velocity, burndown — plus AI-assisted backlog synthesis and reporting",
+        "pm_role": "Built Jira from scratch at A&E (10+ teams). Used Jira AI at Crocs for backlog management and sprint summaries — compressed administrative work, improved output quality."
+      },
+      {
+        "label": "Microsoft Copilot",
+        "desc": "AI-assisted documentation, stakeholder communication, and reporting",
+        "pm_role": "Embedded at Crocs for SM documentation and reporting workflows. Reduces time on administrative output so coaching time goes to actual coaching."
+      },
+      {
+        "label": "Confluence & Smartsheet",
+        "desc": "Documentation, working agreements, program-level reporting",
+        "pm_role": "Standardized Jira/Confluence at Eptura. Built leadership-level Smartsheet reporting synthesizing delivery health across ~10 teams into a single dashboard view."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "PI objectives are at risk mid-increment — multiple teams tracking yellow",
+      "response": [
+        "Call an unscheduled ART sync within 24 hours — not at the next PI cadence",
+        "Triage: which objectives are recoverable, which need de-scoping, which need escalation?",
+        "Partner with Product Management on scope trade-offs — scope/time/quality — someone decides",
+        "Build a recovery plan with named owners and dates; publish to leadership immediately",
+        "Post-PI retrospective supplement: what planning assumptions were wrong?"
+      ]
+    },
+    {
+      "scenario": "Team is resisting the consultative coaching approach — wants prescriptive process",
+      "response": [
+        "Separate the resistance from the request: are they asking for clarity, or avoiding ownership?",
+        "Give them a structured starting point — a working agreement, a sprint goal template, a DoD — then coach toward owning it",
+        "Name the outcome we're trying to reach and ask the team how to get there",
+        "Adjust the coaching style to where the team is, not where you want them to be",
+        "Escalate if the resistance is structural (leadership behavior undercutting the coaching)"
+      ]
+    },
+    {
+      "scenario": "ADO board is out of sync — sprint items not updated, backlog not groomed, dashboards stale",
+      "response": [
+        "Fix it immediately — stale ADO is a signal problem before it is a delivery problem",
+        "Run a 30-minute board hygiene session with the team to reset current state",
+        "Identify the root cause: is the team updating verbally and not in ADO, or is work happening outside the board?",
+        "Add a board review to the standup format until hygiene is habitual",
+        "Build a lightweight ADO automation rule to flag items with no updates after 2 days"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Ceremonies end with committed actions and named owners — not 'we'll follow up'",
+    "ADO boards are current before every standup — not updated after",
+    "Blockers surface in the standup and have owners within the hour — not at the next ceremony",
+    "PI Planning produces objectives the teams actually believe in, not ones that were imposed",
+    "AI tools compress my administrative time so coaching time goes to coaching",
+    "Stakeholder updates lead with the thing they need to act on — not background context",
+    "Conflict is addressed directly and quickly — it does not wait for a retrospective"
+  ],
+
+  "track_record": [
+    {
+      "company": "Eptura",
+      "role": "Agile Coach & Senior Scrum Master — SAFe PMO",
+      "period": "2022–2023",
+      "points": [
+        "2 years in PI-aligned SAFe environment — ~10 teams (India and California)",
+        "ADO configuration owner: standardized boards, workflows, and dashboards across all teams",
+        "35%+ delivery efficiency gain; 20% sprint carryover reduction through consultative coaching",
+        "Spearheaded Agile adoption in Marketing (zero prior practice); mentored junior SMs"
+      ]
+    },
+    {
+      "company": "Crocs, Inc.",
+      "role": "Scrum Master & PM — Release Governance (Contract)",
+      "period": "2026",
+      "points": [
+        "ADO delivery tracking throughout a full release lifecycle under hard deadline pressure",
+        "Jira AI embedded in backlog and reporting — ~30% overhead reduction",
+        "Solutions-first delivery: took ownership, moved toward go-live, shipped on time",
+        "SOX-compliant change control in a regulated, governance-conscious environment"
+      ]
+    },
+    {
+      "company": "Understood.org",
+      "role": "Digital Producer & Scrum Master",
+      "period": "2019–2020",
+      "points": [
+        "Took over a distressed program mid-flight — created structure, coached to outcomes",
+        "ADO delivery tracking across a globally distributed team (12+ countries)",
+        "Delivered on-time replatform with no critical regressions — action-oriented, not waiting",
+        "Compliance-conscious, regulated environment — discipline under real stakes"
+      ]
+    },
+    {
+      "company": "DigitasLBI / SunTrust",
+      "role": "Scrum Master (CSM) — SAFe Enterprise",
+      "period": "2014",
+      "points": [
+        "Operated in a SAFe PI-aligned enterprise environment at SunTrust (agency embedded on-site)",
+        "SOX-compliant, governance-aware — disciplined reporting and audit-conscious transparency",
+        "Coordinated PI-aligned dependencies and release timing across 2 teams and offshore QA"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "ADO boards are stale — the data exists but nobody trusts it",
+      "PI objectives are aspirational — teams committed to them in the room but don't believe them",
+      "Blockers surface at retrospectives instead of standups — too late to protect the sprint",
+      "Coaching is about Agile values; outcomes are someone else's problem"
+    ],
+    "after": [
+      "ADO is the source of truth — boards are current, dashboards are accurate, leadership trusts the data",
+      "PI objectives are realistic and owned — teams built them and believe in them",
+      "Blockers surface in standups and have owners within the hour",
+      "Coaching is outcome-first — the team gets better at delivery, not just better at Agile"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Week 1",
+      "deliverable": "ADO audit across assigned teams — current board health, workflow gaps, dashboard accuracy. Meet every team member, PO, and key stakeholder. Identify top 3 blockers and coaching priorities."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "First full PI-aligned ceremony cycle facilitated. ADO improvement proposed. AI tools embedded in at least one SM workflow."
+    },
+    {
+      "timeframe": "Week 3–4",
+      "deliverable": "ADO dashboards reliable and publishing regularly. First retrospective with documented, tracked output. Direct coaching conversations underway where needed."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Teams running cleanly. ADO trusted by leadership. Coaching producing behavioral change. No handholding needed — clear escalation paths established."
+    }
+  ]
+}
