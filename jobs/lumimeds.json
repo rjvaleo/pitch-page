@@ -1,0 +1,197 @@
+{
+  "slug": "lumimeds",
+  "company": "LumiMeds",
+  "role": "Project Manager — AI-First, Cross-Functional Delivery",
+  "subtitle": "Telehealth · AI-Augmented Delivery · Engineering + Clinical + Ops",
+  "hero_title": "I don't color-code Jira<br>and call it a day.",
+  "hero_sub": "I ship using Claude Code. I automate recurring PM tasks. I write specs that AI coding agents execute. I surface blockers before they become incidents and escalate with proposed solutions. This is how I work — not how I aspire to work.",
+
+  "the_case": [
+    {
+      "need": "Hands-on AI tooling use — automated your own work, built a workflow, or written prompts that replaced a recurring task",
+      "answer": "Jira AI and Copilot embedded in enterprise release governance at Crocs (~30% overhead reduction). Six production applications shipped this year using Claude Code. Prompt engineering and agent-executable spec writing across multiple engagements.",
+      "detail": "At Crocs I embedded Jira AI into backlog management, sprint summaries, and stakeholder documentation — compressing multi-hour recurring tasks into minutes. I used Microsoft Copilot for async communication drafts that went directly to leadership. At the same time I shipped six production applications using Claude Code: audio DSP, real-time 3D, game systems, a React/TypeScript platformer with live Gemini API integration, and a secure Next.js portfolio. The AI tools are not something I plan to use — they are how the work gets done."
+    },
+    {
+      "need": "Write specs and project briefs that AI agents and engineers can execute with minimal back-and-forth",
+      "answer": "Every production application this year started with a spec I wrote for Claude Code to execute. Every sprint at Eptura and Crocs had task breakdowns structured for autonomous execution. This is the core of how I work.",
+      "detail": "Writing specs that are executable — by engineers, by AI agents, or by junior team members without synchronous clarification — requires precision, structure, and understanding of what information an executor actually needs. I have been writing these specs for ten years. The difference now is that the executor is sometimes an AI coding agent, which has made my spec quality noticeably better because AI agents surface every ambiguity immediately. At Understood.org I wrote specs that a globally distributed team (12+ countries) executed asynchronously across time zones — the same discipline, the same stakes."
+    },
+    {
+      "need": "Own cross-functional delivery across Engineering, Product, Clinical, and Ops",
+      "answer": "Eptura: owned delivery across ~10 distributed teams spanning Engineering, Product, UX, Data, and Marketing. Crocs: held the seam between Engineering, QA, Change Management, and Business under a hard deadline. Understood.org: Engineering, QA, Content, and Compliance in a regulated environment.",
+      "detail": "Holding the cross-functional seam is not a metaphor — it is a structural role. At Eptura I was the organizational connective tissue that maintained alignment across teams with competing priorities and different operating norms. At Crocs I translated compliance requirements into engineering tasks and engineering constraints into executive updates — without losing fidelity in either direction. At Understood.org I held the thread between global engineering teams, healthcare-adjacent compliance requirements, and executive stakeholders who needed clear answers on a program that was at risk."
+    },
+    {
+      "need": "Use AI to remove work — automate recurring status updates, meeting notes, reporting",
+      "answer": "Jira AI: automated sprint summaries, backlog health reports, and retrospective theme synthesis at Crocs. Microsoft Copilot: automated stakeholder communication drafts and meeting documentation. Claude: automated spec generation and delivery analysis across multiple engagements.",
+      "detail": "The framing I use for AI in PM work is: what is the recurring task that takes 2 hours and produces something a decision-maker reads in 2 minutes? Those are the tasks I automate first. At Crocs I automated the weekly release readiness report — Jira AI pulled the data, I reviewed the output, stakeholders received it. The output was better than what I would have written manually because I had time to review rather than generate. The ~30% overhead reduction at Crocs was not from one automation — it was from systematically identifying and replacing every recurring low-value task."
+    },
+    {
+      "need": "Healthcare-adjacent, HIPAA-adjacent workflow constraints",
+      "answer": "Understood.org (2019–2020): regulated, healthcare-adjacent delivery environment. Privacy and confidentiality standards enforced throughout. WCAG 2.1 AA compliance as core Definition of Done. Global distribution with data handling requirements.",
+      "detail": "At Understood.org I delivered a platform serving users with learning and attention differences — a healthcare-adjacent, regulated context with real compliance accountability. I enforced privacy and confidentiality standards in the delivery process, embedded WCAG 2.1 AA as a non-negotiable Definition of Done requirement, and navigated the same tension LumiMeds faces: moving fast while maintaining compliance. I did not have to learn that tension from scratch — I have operated inside it."
+    },
+    {
+      "need": "High agency — identify problems, propose solutions, execute without waiting to be managed",
+      "answer": "Founded OVRSTCH and Transelectronic Labs — no manager, no direction, no waiting. Shipped six production applications this year independently. Took over a distressed program at Understood.org and delivered it. The agency is not an aspiration; it is the operating mode.",
+      "detail": "High agency is demonstrated, not claimed. I founded two companies. I shipped six production applications this year across domains I had not previously worked in (audio DSP, real-time 3D graphics, game physics, AI integration) because I identified a problem (I wanted to build things) and executed on it without external direction. At Understood.org I was handed a distressed program with 12 weeks left, a globally distributed team, and no established rhythm — and I built one. Agency under pressure, with real stakes, is different from agency when conditions are favorable."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The AI-augmented delivery stack.",
+    "subhead": "Not aspirational — operational.",
+    "nodes": [
+      {
+        "label": "Claude Code",
+        "desc": "AI coding agent used across six production applications — architecture, implementation, debugging, and spec execution",
+        "pm_role": "Write executable specs that Claude Code implements. Review and validate output. Ship. This is the workflow — not a pilot program."
+      },
+      {
+        "label": "Jira & Jira AI",
+        "desc": "Primary delivery tracking with AI-assisted backlog synthesis, sprint summaries, and reporting automation",
+        "pm_role": "Embedded at Crocs for sprint documentation and backlog management. ~30% overhead reduction. The output got sharper because I had time to review instead of generate."
+      },
+      {
+        "label": "GitHub & GitHub Actions",
+        "desc": "Version control and CI/CD pipelines — six production applications deployed via GitHub Actions",
+        "pm_role": "Hands-on CI/CD experience. Can read a PR, understand a deployment pipeline, and hold my own in an engineering infrastructure conversation."
+      },
+      {
+        "label": "Microsoft Copilot",
+        "desc": "AI-assisted async stakeholder communication, meeting documentation, and reporting",
+        "pm_role": "Automated recurring stakeholder communication drafts and meeting synthesis at Crocs. Frees capacity from administrative output to actual delivery work."
+      },
+      {
+        "label": "Azure DevOps (ADO) / Asana / Jira",
+        "desc": "Project tracking, dependency management, sprint boards, delivery dashboards, risk registers",
+        "pm_role": "ADO configuration owner at Eptura PMO (~10 teams). Deep Jira administration. Fluent in Linear, Asana, Notion equivalents — the tool is a minor variable."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "Scope creep is eating the sprint — engineering is building things product mentioned once in a Slack thread",
+      "response": [
+        "Stop the work before the next standup, not after the sprint review",
+        "Pull the original initiative brief and the current task list side by side — show the delta explicitly",
+        "Facilitate a 30-minute scope triage with Product and Engineering leads: what is committed, what is new, who approved the change?",
+        "Add a scope change log to the project documentation — every change gets a decision owner and a date",
+        "Version-control the sprint goal so 'what we agreed to' is not a memory exercise"
+      ]
+    },
+    {
+      "scenario": "Clinical and Engineering are misaligned on a compliance requirement mid-sprint",
+      "response": [
+        "Stop the build that is at risk — the cost of shipping non-compliant is higher than the cost of pausing",
+        "Get the specific clinical requirement in writing before any engineering decision is made",
+        "Translate the compliance constraint into engineering language — what exactly needs to change and why",
+        "Escalate to leadership with a concrete decision request: do we accept the delay, de-scope, or accept the risk?",
+        "Document the decision and who made it before work resumes"
+      ]
+    },
+    {
+      "scenario": "A recurring status update is taking 3 hours every week and nobody reads it",
+      "response": [
+        "Stop writing it — send a 3-sentence version and see if anyone notices",
+        "If nobody notices, the 3-sentence version is the new format",
+        "If someone does notice, find out what they actually need and build that instead",
+        "Automate the data collection using Jira AI or ADO reporting so the output generates itself",
+        "Version-control the format so it can be improved without losing institutional memory"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Every meeting has a stated decision or output — if it doesn't, it doesn't happen",
+    "Status updates are async, written, and structured for skimming — not oral reports",
+    "AI tools compress the administrative side of delivery so the human time goes to judgment calls",
+    "Specs are written before implementation starts — not after the engineer asks what they're building",
+    "Risk registers are live documents, not quarterly deliverables",
+    "Blockers surface in standups with proposed solutions, not just problem statements",
+    "Every initiative has a baseline, a target, and a definition of done before the first task is assigned"
+  ],
+
+  "track_record": [
+    {
+      "company": "AI-Assisted Production — 6 Apps",
+      "role": "Creative Coder / Solo Developer",
+      "period": "2026",
+      "points": [
+        "Six production applications shipped using Claude Code — audio DSP, 3D graphics, game systems, AI integration",
+        "Wrote specs that Claude Code executed; reviewed, tested, and shipped the output",
+        "Full CI/CD via GitHub Actions; all publicly live on GitHub Pages",
+        "Proved the workflow: spec → agent execution → human review → production"
+      ]
+    },
+    {
+      "company": "Crocs, Inc.",
+      "role": "Project Manager — Release Governance (Contract)",
+      "period": "2026",
+      "points": [
+        "Owned cross-functional delivery across Engineering, QA, Change Management, and Business",
+        "Jira AI + Copilot automated recurring PM tasks — ~30% overhead reduction",
+        "Risk register and Release Radar tracking framework built and maintained",
+        "On-time go-live with clean post-launch stabilization under hard deadline pressure"
+      ]
+    },
+    {
+      "company": "Eptura",
+      "role": "Senior PM / Agile Coach — Enterprise PMO",
+      "period": "2022–2023",
+      "points": [
+        "~10 distributed teams — held the cross-functional seam across Engineering, Product, UX, Data, Marketing",
+        "Audited and killed unnecessary rituals — teams shipped more because they met less",
+        "35%+ delivery efficiency gain; 20% sprint carryover reduction",
+        "Built ADO/Jira/Smartsheet dashboards — every initiative had a baseline, target, and definition of done"
+      ]
+    },
+    {
+      "company": "Understood.org",
+      "role": "PM — Healthcare-Adjacent, Regulated Delivery",
+      "period": "2019–2020",
+      "points": [
+        "HIPAA-adjacent workflow constraints; privacy and confidentiality standards enforced throughout",
+        "Wrote specs executed by a globally distributed team (12+ countries) without synchronous clarification",
+        "On-time launch, no critical regressions — distressed program, final crucial months",
+        "WCAG 2.1 AA compliance as hard Definition of Done requirement"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "AI tools are in the roadmap but nobody has automated their own workflow yet",
+      "Specs are written after engineers ask what they're building — the back-and-forth is the bottleneck",
+      "Status updates take 3 hours to write and nobody reads them",
+      "Blockers surface at retrospectives instead of standups — too late to protect the sprint"
+    ],
+    "after": [
+      "Recurring PM admin is automated — status updates generate themselves, meeting notes are structured and searchable",
+      "Specs are written before implementation starts — engineers and AI agents execute with minimal clarification",
+      "Every initiative has a baseline, a target, and a definition of done before the first task is assigned",
+      "Blockers surface in standups with proposed solutions — not just problem statements that wait for someone else to solve"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Week 1",
+      "deliverable": "Map the full initiative landscape. Understand what is in flight, what is blocked, and what definition of done looks like for each. Identify the first three things that need a spec and don't have one."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Own one active initiative end to end. Write the first spec structured for agent or engineer execution. Identify the first recurring PM task to automate."
+    },
+    {
+      "timeframe": "Week 3–4",
+      "deliverable": "First automation live. Delivery dashboard publishing reliably. Clinical/Engineering/Ops seam owned and documented. First risk escalated with a proposed solution."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Cross-functional delivery running without over-communication. AI tools embedded in at least three recurring PM workflows. Team can see whether an initiative shipped successfully — because the spec was complete."
+    }
+  ]
+}

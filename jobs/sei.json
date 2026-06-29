@@ -1,0 +1,194 @@
+{
+  "slug": "sei",
+  "company": "Systems Evolution, Inc.",
+  "role": "Concept to Delivery Consultant",
+  "subtitle": "Solution Delivery · Change Management · Design Thinking",
+  "hero_title": "Curious. Connected.<br><em>Concept to delivery.</em>",
+  "hero_sub": "Twenty years of turning complex problems into tangible results — across agency, enterprise, startup, and product environments. Genuinely excited about learning, building, and connecting things others haven't connected yet.",
+
+  "the_case": [
+    {
+      "need": "Master communicator who navigates audiences",
+      "answer": "Engineers, C-suite executives, distributed global teams, skeptical stakeholders, and startup founders — all in the same career. The communication adjusts; the clarity does not.",
+      "detail": "At Crocs I translated complex release governance into executive-ready updates for a publicly traded retailer while simultaneously coaching engineers on Definition of Done discipline — different registers, same meeting. At Meta I coordinated delivery across 14+ countries, adjusting communication style for every cultural and functional context. At Eptura I moved between coaching a junior developer on story sizing and presenting delivery health to senior leadership in the same day. Navigating audiences is not a skill I practice — it is how I spend most of my time."
+    },
+    {
+      "need": "Super-connector who connects people, data, trends, and experiences",
+      "answer": "Eptura: connected ~10 distributed teams across product, engineering, UX, data, and business to a shared delivery cadence. A&E: connected Engineering, QA, Content, Marketing, and Product across ~10 concurrent SVOD workstreams. Career: connected agency, startup, enterprise, and product contexts into one continuous thread.",
+      "detail": "The connecting is not metaphorical — it is structural. At Eptura I was the organizational connective tissue that maintained alignment across teams that had no natural reason to stay aligned. At A&E I created the dependency maps, the Scrum-of-Scrums, and the stakeholder communication that kept 10 concurrent workstreams shipping on time. The data connecting: at Crocs I used delivery metrics to surface a cross-environment dependency pattern that nobody had yet noticed. The trends: I was using AI tools in delivery workflows before most organizations had policies about them."
+    },
+    {
+      "need": "Proven delivery of large-scale, complex initiatives with stakeholder alignment",
+      "answer": "35%+ delivery efficiency gain across ~10 distributed teams at Eptura. On-time, no-regret platform replatform at Understood.org (distressed program). ~10 concurrent SVOD product launches at A&E. Enterprise SaaS transformation in 16 weeks at Underline.",
+      "detail": "Complex means different things in different contexts. At Eptura it meant coordinating PI-aligned delivery across offshore and onshore teams in a fast-moving SaaS company. At Understood.org it meant taking over a distressed program in its final months with a globally distributed team and real compliance stakes. At A&E it meant shipping Web, iOS, tvOS, Android, and Roku workstreams simultaneously. At Underline it meant establishing Agile from scratch in an organization that had never used it and delivering in 16 weeks. All different problems. All solved."
+    },
+    {
+      "need": "Tech savvy, early adopter, insatiable curiosity",
+      "answer": "Using AI tools since August 2022. Six production applications shipped this year using Claude Code — audio DSP, real-time 3D graphics, a game with custom physics, a React/TypeScript platformer with live AI integration. This is not resume material; it is what happens when there is a free weekend.",
+      "detail": "I was using Stable Diffusion in August 2022 and ChatGPT in December 2022 — near their public launches. I published a Medium article on Stable Diffusion that drew 10,000+ reads. This year I built a browser-based microtonal step sequencer on raw Web Audio API, a real-time 3D star-tunnel visualization in Three.js/WebGL, and a platformer with custom tile-based physics and live Google Gemini API integration. These are not proofs of concept — they are live, publicly accessible production software. The curiosity is not performed; it produces things."
+    },
+    {
+      "need": "Change management — enable organizations to embrace and adopt new solutions",
+      "answer": "Spearheaded Agile adoption in the Marketing department at Eptura (zero prior practice). Two-year cultural transformation at A&E — Post-it notes to structured delivery. Sold Scrum to skeptical leadership at Underline and delivered in 16 weeks. Distressed program recovery at Understood.org.",
+      "detail": "Change management is not a methodology I apply — it is the work I do when technical change is easy and human change is hard. At Eptura the Marketing department resisted Agile adoption until the pain of not having it became visible. I coached them through the resistance, not around it. At A&E I changed how ~10 teams thought about delivery over two years. At Underline I had to convince leadership that the change was worth making before any delivery could happen. The sustainable changes I have driven did not require me to stay — the teams owned them."
+    },
+    {
+      "need": "Fail-fast mentality, nimble decision making, adaptable to ambiguity",
+      "answer": "Founded OVRSTCH with no product-market certainty — iterated until something worked. Took over a distressed program mid-flight at Understood.org. Ran delivery for an AI startup in conditions of high ambiguity at every level. Shipped six production applications this year using rapid iteration with AI tools.",
+      "detail": "The fail-fast mentality is not something I endorse in workshops — it is how I actually work. At OVRSTCH I iterated on product, production process, and fulfillment simultaneously, failing quickly on things that did not work and doubling down on things that did. At Stealth AI I built structure where none existed and moved toward delivery without waiting for complete information. At Understood.org I made decisions under time pressure with incomplete data and protected the outcome. I am comfortable in ambiguity because I have learned that the information you need usually becomes available once you start moving."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The practice areas.",
+    "subhead": "Where the work lives and how it gets done.",
+    "nodes": [
+      {
+        "label": "Solution Delivery",
+        "desc": "End-to-end delivery leadership — Agile facilitation, stakeholder alignment, risk management, dependency mapping, outcome ownership",
+        "pm_role": "This is the core. Ten years of owning delivery outcomes across enterprise, startup, and consulting contexts — planning through production, not just facilitation."
+      },
+      {
+        "label": "Change Management",
+        "desc": "Enabling organizations and people to embrace, adopt, and champion new solutions through coaching, training, and facilitation",
+        "pm_role": "Agile adoption at Eptura (Marketing dept, zero prior practice). Two-year transformation at A&E. Sold Scrum to skeptical leadership at Underline. Distressed program recovery at Understood.org."
+      },
+      {
+        "label": "Design Thinking & Rapid Prototyping",
+        "desc": "Problem definition, solution design, rapid iteration — from ambiguous concept to concrete, testable output",
+        "pm_role": "OVRSTCH: concept-to-delivery for a digital commerce platform from zero. Six AI-assisted production apps: each started with a problem definition and ended with live, usable software."
+      },
+      {
+        "label": "Product Management",
+        "desc": "Roadmap alignment, backlog management, vision translation, cross-functional product delivery",
+        "pm_role": "PO partnership throughout: coached Product Owners on backlog health, acceptance criteria, and value delivery at Eptura, Paperless Post, A&E, and Crocs. Product delivery ownership at OVRSTCH."
+      },
+      {
+        "label": "AI-Enhanced Delivery",
+        "desc": "Active daily use of Claude Code, GitHub Copilot, Jira AI, Microsoft Copilot — as delivery instruments, not experiments",
+        "pm_role": "Jira AI and Copilot reduced delivery overhead ~30% at Crocs. Six production applications built with Claude Code. This is how the work gets done now — not how it might get done someday."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "Client stakeholders cannot agree on what problem they are actually solving",
+      "response": [
+        "Stop the solution conversation — you cannot design your way to alignment on the wrong problem",
+        "Facilitate a structured problem definition session: 5 Whys, HMW framing, or impact mapping",
+        "Surface the underlying tensions explicitly — they are driving the disagreement",
+        "Document the agreed problem statement with everyone in the room before leaving",
+        "Return to the solution only after the problem statement has been signed off"
+      ]
+    },
+    {
+      "scenario": "Delivery is stalling because an organization is resisting the change it asked for",
+      "response": [
+        "Name the resistance explicitly — it does not go away by being politely ignored",
+        "Identify whether the resistance is about the change, the pace, or the people driving it",
+        "Find the people who want the change to work and build the visible wins through them",
+        "Adjust the communication to the audience's actual concerns — not the benefits you think they should see",
+        "Escalate to leadership with specific asks, not just problem descriptions"
+      ]
+    },
+    {
+      "scenario": "A complex initiative has no clear owner and everyone thinks it belongs to someone else",
+      "response": [
+        "Do not wait for the org chart to solve it — create the ownership structure you need",
+        "Facilitate a RACI conversation with the people who need to be in it",
+        "Document who owns what and who needs to be consulted — get it signed off",
+        "Make the absence of ownership visible to leadership as a delivery risk",
+        "Step into the coordination gap until the structural fix is in place"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Ask the question nobody else asked — and wait for the real answer",
+    "Turn technical complexity into a sentence a business leader can act on",
+    "Adjust the communication register to the audience in real time — not after the meeting",
+    "Surface the thing everyone is thinking but nobody has said",
+    "Connect the data point from last week to the pattern everyone is seeing this week",
+    "Make decisions when the information is 70% complete — and course-correct when the rest arrives",
+    "Coach the team to own the outcome, not just follow the process"
+  ],
+
+  "track_record": [
+    {
+      "company": "Eptura",
+      "role": "Agile Coach & Senior Delivery Consultant — Enterprise PMO",
+      "period": "2022–2023",
+      "points": [
+        "~10 distributed cross-functional teams — connected people, data, and delivery across all of them",
+        "Spearheaded Agile adoption in Marketing (zero prior practice) — sustainable change, not compliance",
+        "35%+ delivery efficiency gain; 20% sprint carryover reduction through coaching and organizational change",
+        "Mentored junior delivery professionals; contributed to team capability beyond the immediate engagement"
+      ]
+    },
+    {
+      "company": "OVRSTCH",
+      "role": "Founder / Concept to Delivery Lead",
+      "period": "2024–2026",
+      "points": [
+        "Turned a concept into a live digital commerce platform — alone, from scratch, in ambiguity",
+        "Applied fail-fast mentality in practice: iterated on product, production, and fulfillment simultaneously",
+        "Demonstrated the entrepreneurial, ownership-driven approach SEI describes in its culture"
+      ]
+    },
+    {
+      "company": "A&E Television Networks",
+      "role": "Delivery Coach & Change Lead — Multi-Team Transformation",
+      "period": "2016–2018",
+      "points": [
+        "Two-year concept-to-delivery transformation across ~10 teams",
+        "Connected Engineering, QA, UX, Content, and Marketing around shared delivery outcomes",
+        "Cultural change that outlasted the engagement — teams owned the new way of working"
+      ]
+    },
+    {
+      "company": "Understood.org",
+      "role": "Delivery Consultant — Distressed Program Recovery",
+      "period": "2019–2020",
+      "points": [
+        "Took over a distressed program in its final months — created clarity, built confidence, delivered",
+        "Navigated a 12+ country distributed team through the most ambiguous phase of a complex program",
+        "On-time, no-regret launch in a regulated, healthcare-adjacent environment"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "The problem is clear but nobody agrees on what it is",
+      "The solution is designed but the organization is not ready to adopt it",
+      "The initiative has owners on paper and no accountability in practice",
+      "The technical work is done but the business cannot explain the value to stakeholders"
+    ],
+    "after": [
+      "The problem is defined, documented, and agreed — the solution conversation can start",
+      "Change is designed for adoption, not just implementation — people champion it",
+      "Ownership is explicit, documented, and enforced — delivery moves",
+      "Technical outcomes are translated into business impact — leadership can act on what they hear"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Week 1",
+      "deliverable": "Understand the client, the problem, and the stakeholder landscape. Ask the questions nobody else asked. Do not propose solutions yet."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Facilitate the first structured problem definition or delivery planning session. Surface the real tensions. Document agreements before leaving the room."
+    },
+    {
+      "timeframe": "Week 3–4",
+      "deliverable": "First visible delivery milestone. Stakeholders aligned around a shared view of progress and risk. Coaching conversations underway where change resistance is emerging."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Client is delivering. Team is coaching itself forward. The work I started no longer requires me to run it."
+    }
+  ]
+}
