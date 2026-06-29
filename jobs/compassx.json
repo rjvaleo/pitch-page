@@ -1,0 +1,197 @@
+{
+  "slug": "compassx",
+  "company": "CompassX",
+  "role": "Scrum Master & Agile Coach — Pharmaceuticals",
+  "subtitle": "Player-Coach · Consulting · Regulated Delivery · Biotech",
+  "hero_title": "Player-coach.<br><em>Twelve years in.</em>",
+  "hero_sub": "SM and PM at the same time, embedded at the client, accountable to both the firm and the stakeholder. That's not a new mode for me — it's the only mode I've ever operated in.",
+
+  "the_case": [
+    {
+      "need": "5+ years SM/Agile Coach — proven delivery track record",
+      "answer": "10+ years. DigitasLBI/SunTrust (2014), Underline (2015), A&E ~10 teams (2016–2018), Paperless Post (2018–2019), Understood.org (2019–2020), Stealth AI (2024), OVRSTCH (2024–2026), Crocs (2026).",
+      "detail": "The SM track record is not a line item — it is the consistent pattern across the entire career. Each engagement has a different client, a different domain, a different team, and the same outcomes: ceremonies running cleanly, blockers surfacing before they become delivery misses, and teams that own their process by the time the engagement ends. The 10+ years figure is conservative — the first client-embedded delivery work was in 2006."
+    },
+    {
+      "need": "Player-coach: SM + PM/program coordinator simultaneously",
+      "answer": "Crocs: player-coach SM and PM for a SOX-compliant release program. Eptura: Agile Coach + PMO lead across ~10 teams. Stealth AI: SM + delivery consultant + BA. This is the consistent pattern, not a capability I'm adding.",
+      "detail": "The player-coach model requires holding two simultaneous frames: at the team level (ceremonies, coaching, blockers, velocity) and at the program level (dependencies, risks, stakeholder reporting, milestone coordination). At Crocs I ran ceremony cadence and go/no-go governance simultaneously. At Eptura I facilitated team-level retrospectives and reported to senior leadership in the same week. The two frames are not in conflict — the program-level view makes the team-level coaching more accurate, and the team-level depth makes the program reporting more credible."
+    },
+    {
+      "need": "Deep, practical Jira expertise — backlog, reporting, portfolio tracking",
+      "answer": "Built Jira from scratch at A&E (~10 teams, zero prior practice). Standardized across Eptura PMO (~10 teams). Daily use for backlog management, velocity, burndown, and executive dashboards at every role since 2014.",
+      "detail": "Jira depth means different things at different levels. At A&E I set up the entire instance from zero — workflows, user groups, boards, and all artifacts — for ~10 teams that had been using Post-it notes. At Eptura I standardized Jira across a multi-team PMO, creating governance-aligned dashboards that senior leadership used for portfolio health. At Crocs I embedded Jira AI into daily delivery workflows, automating sprint summaries and decision documentation. The tool is not the skill — the skill is knowing what to build in Jira so that the delivery visibility it creates is actually useful to the people who need it."
+    },
+    {
+      "need": "Consulting pedigree — client-facing, boutique firm track record",
+      "answer": "Every major role in this career was a client-embedded consulting engagement: Crocs (via Creative Circle), Meta (contract), Eptura (contract), SunTrust/DigitasLBI (agency on-site at a bank), A&E, Understood.org, SapientNitro, THINK Inc, 22squared. This is not a transition — it's the model.",
+      "detail": "Boutique consulting is a different operating mode than in-house employment. The consultant's reputation is the firm's reputation. There is no institutional backstop if the engagement goes sideways — the SM is the engagement. I have operated in that mode for twelve years. At DigitasLBI I was one of seven consultants on-site daily at SunTrust. At SapientNitro I represented the firm to Unilever across multiple brand platforms. At Crocs I was the sole delivery point of contact between a staffing firm and a global retailer's technology organization. Client-facing under pressure is the baseline, not a differentiator."
+    },
+    {
+      "need": "Hybrid Waterfall/Agile delivery environments",
+      "answer": "THINK Inc (2012–2013): applied Waterfall or Agile based on project scope. 22squared/Toyota: Agile methods in an agency waterfall context. Crocs: hybrid release governance (Scrum + CAB-style change approval). Multiple regulated environments requiring both.",
+      "detail": "Hybrid means different things depending on who's asking. In some contexts it means using Waterfall for fixed-scope compliance deliverables while running Agile for the surrounding software work — that's Crocs. In other contexts it means using Agile methods inside a fundamentally Waterfall organization — that's most of the agency work from 2011 onward. The skill is reading which method fits which workstream and not evangelizing a framework where the constraint is actually the client's regulatory requirement."
+    },
+    {
+      "need": "Pharma/life sciences or regulated delivery domain",
+      "answer": "Understood.org (2019–2020): regulated, healthcare-adjacent delivery. Privacy and confidentiality standards enforced throughout. WCAG 2.1 AA as non-negotiable Definition of Done. Distressed program recovery under genuine compliance stakes.",
+      "detail": "At Understood.org I delivered a platform serving users with learning and attention differences — a regulated, healthcare-adjacent context where the compliance requirement was not optional and the wrong decision had downstream consequences. I enforced privacy and confidentiality standards throughout the delivery process and embedded WCAG 2.1 AA as a hard Definition of Done requirement. I have not delivered in a pharma regulatory context specifically. What I can tell you is that regulated delivery — where 'we'll fix it in the next sprint' is not an acceptable answer to a compliance failure — is a discipline I have practiced, not a domain I'm entering cold."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The delivery toolkit.",
+    "subhead": "The tools I use to make delivery visible and sustainable.",
+    "nodes": [
+      {
+        "label": "Jira & Jira AI",
+        "desc": "Primary delivery tracking — built from scratch at A&E, standardized at Eptura, embedded Jira AI at Crocs for sprint automation and reporting",
+        "pm_role": "Built, standardized, and coached Jira at every major engagement since 2014. Jira AI reduced administrative overhead ~30% at Crocs without sacrificing reporting quality."
+      },
+      {
+        "label": "Azure DevOps",
+        "desc": "Program-level delivery tracking, dependency management, sprint boards, and leadership dashboards",
+        "pm_role": "ADO configuration owner at Eptura PMO (~10 teams). Built real-time release dashboards at Crocs. Fluent in switching between Jira and ADO depending on client environment."
+      },
+      {
+        "label": "Confluence & Smartsheet",
+        "desc": "Documentation, agile education materials, and program-level reporting across multi-team PMOs",
+        "pm_role": "Standardized agile documentation across Eptura PMO. Built Smartsheet leadership dashboards synthesizing delivery health across ~10 teams for executive stakeholders."
+      },
+      {
+        "label": "Microsoft Copilot",
+        "desc": "AI-assisted documentation, stakeholder communication drafts, and meeting synthesis",
+        "pm_role": "Embedded at Crocs for delivery documentation and stakeholder communication. Frees time from administrative output to actual delivery work and coaching."
+      },
+      {
+        "label": "GitHub & CI/CD",
+        "desc": "Version control and CI/CD pipeline awareness; hands-on via six production applications deployed via GitHub Actions",
+        "pm_role": "Can read a PR, understand a deployment pipeline, and hold my own in a technical infrastructure conversation — not as an operator, but as a credible delivery partner to engineering teams."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "Clinical and engineering teams are misaligned on a compliance requirement mid-sprint — engineering built to the wrong spec",
+      "response": [
+        "Stop the build at risk before any more work compounds the problem",
+        "Get the specific compliance requirement in writing from the clinical SME before any engineering decision is made",
+        "Translate the compliance constraint into engineering language — what exactly needs to change, why, and what the acceptance criteria are",
+        "Facilitate a decision meeting with the right stakeholders: delay the sprint, de-scope, or accept a documented risk — no ambiguity about who made the call",
+        "Document the decision, the owner, and the rationale before work resumes — this is the audit record"
+      ]
+    },
+    {
+      "scenario": "Scope is expanding mid-sprint — stakeholders are adding requirements without going through governance",
+      "response": [
+        "Name the pattern explicitly in the next standup — scope additions outside governance are a delivery risk, not a favor",
+        "Pull the sprint goal and the current task list side by side and show the delta to the team and the stakeholder",
+        "Facilitate a scope triage with Product and the requester: what is committed, what is new, who approved the change?",
+        "Add a scope change log — every new requirement gets a decision owner, a date, and a disposition",
+        "If the pattern persists, escalate to program leadership with data: here is what uncontrolled scope is doing to delivery predictability"
+      ]
+    },
+    {
+      "scenario": "A team is resisting agile coaching — 'we already do Scrum, we don't need someone telling us how to do ceremonies'",
+      "response": [
+        "Validate before pushing back — sometimes the team is right and the process is actually fine",
+        "Use their own delivery data: velocity trends, sprint carryover, cycle time — let the metrics open the conversation",
+        "Find the pain point they actually have (the one they're not calling an agile problem) and connect the coaching to solving that specific thing",
+        "Run one small experiment rather than a framework adoption — one ceremony change with a measurable outcome",
+        "If the resistance is leadership-driven, escalate with data and a specific ask: here is what the metrics show, here is the intervention, here is the expected outcome"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Every ceremony has a stated outcome — if it doesn't, it doesn't happen",
+    "Blockers surface at standup with a proposed path forward — not at retrospective as a postmortem",
+    "Sprint goals are written before planning starts — the team commits to an outcome, not a list of tasks",
+    "Scope changes go through governance — not Slack at 4pm the day before sprint end",
+    "Compliance requirements are Definition of Done items — not post-launch fixes",
+    "Status updates are written and structured for skimming — not verbal reports that require attendance",
+    "The client always knows where delivery stands — not because they asked, but because the reporting is proactive"
+  ],
+
+  "track_record": [
+    {
+      "company": "Crocs, Inc.",
+      "role": "Player-Coach SM & PM — Release Governance (Contract)",
+      "period": "2026",
+      "points": [
+        "SOX-compliant release governance across Engineering, QA, Change Management, and Business",
+        "Built Release Radar tracking framework — real-time visibility for leadership across environments",
+        "Jira AI + Copilot embedded in delivery: ~30% administrative overhead reduction",
+        "On-time go-live with clean post-launch stabilization under hard deadline pressure"
+      ]
+    },
+    {
+      "company": "Eptura",
+      "role": "Agile Coach & Senior Scrum Master — Enterprise PMO",
+      "period": "2022–2023",
+      "points": [
+        "~10 distributed cross-functional teams (India + California) — Engineering, Product, UX, Data, Marketing",
+        "35%+ delivery efficiency gain; 20% sprint carryover reduction through coaching and process discipline",
+        "Spearheaded Agile adoption in Marketing department from zero to independent self-run ceremonies",
+        "Standardized Jira and built Smartsheet executive dashboards synthesizing portfolio health"
+      ]
+    },
+    {
+      "company": "Understood.org",
+      "role": "SM & Delivery Lead — Regulated, Healthcare-Adjacent Program",
+      "period": "2019–2020",
+      "points": [
+        "Regulated, compliance-conscious delivery environment — privacy and WCAG 2.1 AA as non-negotiable DoD",
+        "12+ country distributed team — NY, CA, UK, Australia, Poland, Germany, France, Belgium, South America, Japan",
+        "On-time launch, no critical regressions — distressed program recovery, final crucial months",
+        "Advised VP Engineering on Agile practices, PMO structure, and SDLC methodology"
+      ]
+    },
+    {
+      "company": "A&E Television Networks",
+      "role": "SM & Agile Coach — Scaled Multi-Team Delivery",
+      "period": "2016–2018",
+      "points": [
+        "~10 concurrent SVOD workstreams (Web, iOS, tvOS, Android, Roku) — Scrum-of-Scrums across ~6 teams",
+        "Built Jira from scratch: workflows, boards, user groups, reporting — zero prior practice on intake",
+        "Two-year cultural transformation: Post-it notes to structured, data-driven delivery",
+        "Shipped all platforms against externally committed launch windows"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "Ceremonies happen but nobody's sure what they're for — standup is a status meeting, retro is a complaint session",
+      "Scope is expanding mid-sprint because stakeholders haven't been told no through a documented process",
+      "Compliance requirements surface at QA instead of Definition of Done — the sprint is done but the build isn't shippable",
+      "Blockers reach the program manager after they've already delayed the sprint"
+    ],
+    "after": [
+      "Every ceremony has a stated outcome and ends with clear next owners — teams leave knowing what changed",
+      "Scope changes go through governance: documented, owned, and dispositioned before work starts",
+      "Compliance requirements are DoD items — built to spec the first time, not retrofitted under deadline pressure",
+      "Blockers surface in standup with proposed paths forward — the program manager hears about risks, not failures"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Week 1",
+      "deliverable": "Meet every team member, PO, data scientist, and automation engineer. Audit current ceremony cadence, Jira setup, and delivery metrics. Understand what the client considers a successful sprint before changing anything."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Facilitate first full ceremony cycle. Identify the top 3 delivery gaps — not what the team says the problems are, but what the flow metrics show. Propose the first coaching intervention."
+    },
+    {
+      "timeframe": "Week 3–4",
+      "deliverable": "Jira dashboards publishing reliably for client leadership. First dependency map complete. Coaching conversations underway with POs and engineers where story quality is the bottleneck."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Client stakeholders have real-time delivery visibility without asking for it. Team is running ceremonies independently. First measurable delivery improvement is documented — not estimated."
+    }
+  ]
+}
