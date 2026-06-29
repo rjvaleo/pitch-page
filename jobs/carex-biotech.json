@@ -1,0 +1,192 @@
+{
+  "slug": "carex-biotech",
+  "company": "Carex / BioTech Industry Leader",
+  "role": "Scrum Master — AI Teams",
+  "subtitle": "Agile Coach · AI Team Delivery · Regulated Environments",
+  "hero_title": "I've coached this team<br><em>before.</em>",
+  "hero_sub": "Most Scrum Masters have used an AI tool. I've run the ceremonies for a team building one — Scrum and Kanban delivery for an AI automation and data pipeline initiative, end to end. That's not a new context. It's the most recent team type I've coached.",
+
+  "the_case": [
+    {
+      "need": "Scrum Master experience specifically with AI teams",
+      "answer": "Embedded Scrum Master for an AI automation and data pipeline initiative at a stealth-mode AI startup — full SDLC facilitation, requirements elicitation, and ~30% throughput improvement through bottleneck diagnosis.",
+      "detail": "The team was building AI automation and data pipeline capability. My job was to facilitate Scrum and Kanban ceremonies, translate ambiguous research and product needs into testable user stories, and keep delivery moving in a fast-changing, high-ambiguity environment. I diagnosed bottlenecks in the data processing pipeline and re-sequenced the workflow — throughput improved roughly 30%. This is the team type your posting describes, not an adjacent one."
+    },
+    {
+      "need": "5+ years Scrum Master in enterprise or complex initiatives",
+      "answer": "10+ years — Crocs, Eptura (~10 distributed teams), A&E (~10 concurrent SVOD workstreams), Understood.org, DigitasLBI (SAFe/SOX financial services).",
+      "detail": "The five-year ask is exceeded by double. At Eptura I coached and facilitated across ~10 distributed teams spanning India and California in an enterprise SaaS PMO. At A&E I held ceremonies and Scrum-of-Scrums across ~10 concurrent technical workstreams simultaneously. Scale and complexity are not new territory."
+    },
+    {
+      "need": "Lead, coach, and influence cross-functional teams without direct authority",
+      "answer": "Every major engagement has been client-embedded consulting — Crocs, Eptura, Meta, Understood.org, A&E, DigitasLBI. The authority was never organizational.",
+      "detail": "Influence without authority is the default operating condition, not a special skill demonstrated once. At Crocs I was a contract resource driving Go/No-Go decisions across a permanent organization where Engineering, QA, and Business all outranked me organizationally. The releases shipped on time because I built the information environment that made the right call also the obvious one."
+    },
+    {
+      "need": "Jira, Azure DevOps, or similar Agile tools",
+      "answer": "Built Jira from scratch at A&E (zero prior practice, ~10 teams). Standardized Jira across the Eptura PMO. ADO configuration owner at Eptura. Jira AI embedded at Crocs.",
+      "detail": "Jira fluency at the administration level, not just daily use: workflow design, board configuration, dashboard building, and governance reporting. I've taken teams from Post-it notes to fully administered Jira instances and built the executive dashboards that make portfolio health visible to leadership."
+    },
+    {
+      "need": "Regulated or highly structured environments",
+      "answer": "SOX-compliant release governance at Crocs and DigitasLBI/SunTrust. Regulated, healthcare-adjacent delivery at Understood.org — privacy and WCAG 2.1 AA as non-negotiable Definition of Done.",
+      "detail": "Not biotech specifically, but I've delivered inside SOX-compliant financial services and a regulated, healthcare-adjacent program where compliance was a hard gate, not a checkbox. I designed and enforced Segregation of Duties controls via Jira workflow configuration at Crocs to meet SOX audit requirements. The discipline of regulated delivery — where the wrong call has downstream consequences — transfers directly."
+    },
+    {
+      "need": "Mentor junior Scrum Masters, drive Agile maturity org-wide",
+      "answer": "Facilitated org-wide Agile mentorship and global alignment meetings at Eptura, mentoring junior Scrum Masters across a multi-team PMO.",
+      "detail": "Coaching the coaches is a different skill than coaching a team. At Eptura I contributed to the agile mentorship structure that supported junior Scrum Masters across the PMO, facilitating global alignment meetings that kept onshore and offshore practice consistent."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The delivery toolkit.",
+    "subhead": "Including the AI tools the team is actually building with.",
+    "nodes": [
+      {
+        "label": "Claude Code & Generative AI",
+        "desc": "Daily AI-assisted development — six production applications shipped in 2026, early adopter since August 2022",
+        "pm_role": "I don't just coach teams using AI tools — I build with them daily. That fluency means I can speak credibly to what the engineering team is actually doing, not just track their tickets."
+      },
+      {
+        "label": "Jira & Jira AI",
+        "desc": "Administration-level fluency — workflows, dashboards, sprint health, AI-assisted reporting and backlog synthesis",
+        "pm_role": "Built from scratch at A&E. Standardized at Eptura. Jira AI embedded at Crocs for sprint summaries and decision documentation — ~30% overhead reduction."
+      },
+      {
+        "label": "Azure DevOps",
+        "desc": "Board configuration, sprint tracking, dependency management, delivery dashboards",
+        "pm_role": "ADO configuration owner at Eptura PMO. Comfortable switching between Jira and ADO depending on team preference."
+      },
+      {
+        "label": "Microsoft Copilot",
+        "desc": "AI-assisted stakeholder communication, documentation, and meeting synthesis",
+        "pm_role": "Embedded at Crocs for delivery reporting. Frees coaching time from administrative output to actual team facilitation."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "The AI team is moving fast on a model or pipeline change and the backlog can't keep up — stories are stale before sprint planning",
+      "response": [
+        "Stop planning against a stale backlog — pull the actual current state from engineering before the ceremony",
+        "Facilitate a rapid backlog triage: what's still real, what's obsolete, what's net new since last grooming",
+        "Tighten the grooming cadence temporarily — twice a week instead of once — until the pace of change stabilizes",
+        "Coach the team to write stories that describe outcomes, not implementation details that go stale fast",
+        "Build a lightweight change log so the team can see what shifted and why, without re-litigating every sprint"
+      ]
+    },
+    {
+      "scenario": "A data pipeline bottleneck is silently degrading delivery — velocity looks fine but cycle time is creeping up",
+      "response": [
+        "Don't trust velocity alone — pull cycle time and throughput data to see what velocity is hiding",
+        "Map the pipeline stage by stage to find exactly where work is queuing",
+        "Bring the bottleneck to the team with the data, not a guess — let them diagnose the root cause with you",
+        "Re-sequence the workflow around the actual constraint, not the perceived one",
+        "Re-measure after the change — confirm the fix worked before declaring it solved"
+      ]
+    },
+    {
+      "scenario": "Compliance flags a concern about how the AI team's data is being used — mid-sprint, mid-build",
+      "response": [
+        "Stop the build at risk — the cost of shipping non-compliant is higher than the cost of pausing",
+        "Get the specific compliance concern in writing before any engineering decision is made",
+        "Translate the compliance constraint into engineering language — what exactly needs to change and why",
+        "Escalate to leadership with a concrete decision request: delay, de-scope, or accept a documented risk",
+        "Document the decision and the owner before work resumes — this is the audit trail"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Every ceremony has a stated outcome — if it doesn't, it doesn't happen",
+    "Blockers surface at standup with a proposed path forward — not at retrospective as a postmortem",
+    "Compliance requirements are Definition of Done items — not retrofitted under deadline pressure",
+    "AI tools compress the administrative side of delivery so coaching time goes to actual team facilitation",
+    "Velocity is a planning input, not a performance score — cycle time and throughput tell the real story",
+    "Status updates are written and structured for skimming — not oral reports that require attendance",
+    "Every initiative has a baseline, a target, and a Definition of Done before the first task is assigned"
+  ],
+
+  "track_record": [
+    {
+      "company": "Stealth-Mode AI Startup",
+      "role": "Strategic Project Lead / Scrum Master — AI Data & Automation",
+      "period": "2024",
+      "points": [
+        "Scrum Master across Scrum and Kanban workstreams for AI automation and data pipeline initiatives",
+        "Full SDLC facilitation from requirements through production delivery",
+        "Diagnosed pipeline bottlenecks; re-sequenced workflow for ~30% throughput improvement",
+        "Maintained RAID logs and Agile metrics; escalated impediments with proposed mitigations"
+      ]
+    },
+    {
+      "company": "Crocs, Inc.",
+      "role": "Scrum Master & PM — Release Governance (Contract)",
+      "period": "2026",
+      "points": [
+        "SOX-compliant release governance with Jira AI and Microsoft Copilot embedded in delivery",
+        "~30% administrative overhead reduction through AI-assisted reporting",
+        "Built Release Radar — real-time release-readiness tracking framework",
+        "On-time go-live with clean post-launch stabilization"
+      ]
+    },
+    {
+      "company": "Eptura",
+      "role": "Agile Coach & Senior Scrum Master — Enterprise PMO",
+      "period": "2022–2023",
+      "points": [
+        "~10 distributed teams (India and California) — coaching and facilitation across all functions",
+        "35%+ delivery efficiency gain; 20% sprint carryover reduction",
+        "Org-wide Agile mentorship program; mentored junior Scrum Masters",
+        "Standardized Jira workflows and dashboards across the full PMO"
+      ]
+    },
+    {
+      "company": "Understood.org",
+      "role": "Digital Producer & Scrum Master — Regulated Delivery",
+      "period": "2019–2020",
+      "points": [
+        "Regulated, healthcare-adjacent delivery — privacy and WCAG 2.1 AA as hard Definition of Done",
+        "Took over a distressed program in its final months; on-time launch, no critical regressions",
+        "Led a 12+ country distributed engineering team through full Scrum cadence",
+        "Advised VP of Engineering on Agile practices and SDLC methodology"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "The AI team's backlog is stale before sprint planning because nobody's keeping pace with the model changes",
+      "Velocity looks healthy but cycle time is quietly creeping up — nobody's looking at the right metric",
+      "Compliance concerns surface after the build, not before — expensive rework instead of a planning conversation",
+      "Junior Scrum Masters are coaching teams without anyone coaching them"
+    ],
+    "after": [
+      "Backlog grooming keeps pace with engineering reality — stories describe outcomes, not stale implementation details",
+      "Cycle time and throughput drive the conversation — velocity is a planning input, not a vanity metric",
+      "Compliance requirements are Definition of Done items — built right the first time",
+      "Junior Scrum Masters have a mentor and a maturity program — coaching capability scales with the team"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Week 1",
+      "deliverable": "Meet the AI team, the engineers, and the stakeholders. Audit current ceremony cadence, Jira/ADO setup, and delivery metrics. Understand what 'done' actually means for an AI feature on this team."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Facilitate the first full ceremony cycle. Identify the top 2–3 delivery gaps using flow metrics, not assumptions. Propose the first coaching intervention."
+    },
+    {
+      "timeframe": "Week 3–4",
+      "deliverable": "Backlog grooming cadence matched to the pace of model/pipeline change. Cycle time and throughput visible to the team, not just leadership. First impediment resolved end to end."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Team running ceremonies independently with measurable improvement in delivery predictability. Compliance requirements embedded in Definition of Done. Leadership has real-time delivery visibility without asking."
+    }
+  ]
+}
