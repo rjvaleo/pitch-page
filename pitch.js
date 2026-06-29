@@ -221,16 +221,7 @@
 
   // Get job slug from URL param
   const params = new URLSearchParams(window.location.search);
-  const job = params.get('job');
-
-  if (!job) {
-    // No job param — show index of available jobs
-    document.getElementById('hero-eyebrow').textContent = 'RJ Valeo · CSM · Georgetown, CO';
-    document.getElementById('hero-title').innerHTML = 'Select a<br><em>pitch page</em>.';
-    document.getElementById('hero-sub').textContent =
-      'Add ?job=[slug] to the URL to load a specific pitch. Available: crocs, octave, davita, capgemini, akkodis, agile-coach';
-    return;
-  }
+  const job = params.get('job') || 'agile-coach';
 
   fetch(`jobs/${job}.json`)
     .then(r => {
