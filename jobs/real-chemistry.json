@@ -1,0 +1,197 @@
+{
+  "slug": "real-chemistry",
+  "company": "Real Chemistry / 21GRAMS / ROOM42",
+  "role": "Technical Delivery Manager",
+  "subtitle": "Digital Agency Production · Healthcare-Adjacent · AI-Assisted Delivery",
+  "hero_title": "Production company.<br><em>That's the environment I was built in.</em>",
+  "hero_sub": "A decade of agency digital production — @radical.media, SapientNitro, Jack Morton, Momentum — before moving into delivery leadership. The instincts compound. Ten to twenty-five concurrent projects is a normal operating condition, not a stretch.",
+
+  "the_case": [
+    {
+      "need": "Manage 10–25 concurrent digital projects across creative, UX, development, and QA teams",
+      "answer": "Managed the entire Digital Interactive Department workload at @radical.media simultaneously. Coordinated ~10 concurrent SVOD platform workstreams at A&E. Multi-concurrent project management has been the default condition for fifteen years.",
+      "detail": "At @radical.media I managed and scheduled the entire workload for the Digital Interactive Department — Tommy Hilfiger, Gray Goose, Tarsem — concurrently, while simultaneously establishing the departmental production standards (SOWs, work orders, schedules, cost estimates) that the team used after I left. At A&E I coordinated ten concurrent SVOD workstreams (Web, iOS, tvOS, Android, Roku) across Engineering, QA, UX, Content, and Marketing simultaneously against externally committed public launch dates. The volume is not intimidating. It is the baseline."
+    },
+    {
+      "need": "WCAG / ADA web accessibility compliance across digital deliverables",
+      "answer": "Championed and enforced WCAG 2.1 AA compliance as a non-negotiable Definition of Done requirement at Understood.org — embedded throughout the production lifecycle, not reviewed at launch.",
+      "detail": "At Understood.org I delivered a platform serving users with learning and attention differences in a regulated, healthcare-adjacent environment. WCAG 2.1 AA was not a QA checkbox at the end — I embedded it as a hard gate at every production stage. I collaborated with developers, designers, and accessibility SMEs to make accessibility a core product requirement, not an afterthought. That discipline transfers directly to the accessibility standards requirement in this role."
+    },
+    {
+      "need": "Healthcare or pharmaceutical client experience",
+      "answer": "Understood.org: regulated, healthcare-adjacent delivery environment. Privacy and confidentiality standards enforced throughout. WCAG 2.1 AA as a non-negotiable gate. The same compliance-conscious production discipline pharma clients require.",
+      "detail": "Understood.org was healthcare-adjacent — a platform serving users with learning and attention differences with real data handling requirements and accessibility compliance accountability. I navigated the same tension ROOM42 faces: moving fast on digital deliverables while maintaining the compliance rigor pharma clients require. I did not have to learn that tension from scratch. I operated inside it."
+    },
+    {
+      "need": "Solid web technology understanding — HTML, CSS, JS, CMS, responsive design, Git, deployment",
+      "answer": "Former front-end developer (Organic Inc., Flavorpill). Current production of React, Next.js, TypeScript, Three.js, Web Audio API, WordPress/WooCommerce, Sitecore→Contentful replatform, CI/CD via GitHub Actions.",
+      "detail": "The web tech background is not borrowed — I started as an Interface Engineer hand-coding HTML, JSP, PHP, JavaScript, and CSS for Bloomingdale's e-commerce at Organic Inc. This year I shipped six production web applications using Claude Code across React, Next.js, TypeScript, Three.js, WebGL, and raw Web Audio API. I can read a developer's code, review a QA test case, understand what a Git conflict means for a deployment, and translate a creative brief into a technical task list without losing anything in translation."
+    },
+    {
+      "need": "Jira, Asana, Workfront, or similar project management tools",
+      "answer": "Jira at admin level — built from scratch at A&E (~10 teams), standardized across Eptura PMO, configured SOD compliance controls at Crocs. Asana in master profile. Jira AI embedded at Crocs for reporting automation.",
+      "detail": "Jira fluency at the administration level: workflow design, board configuration, dashboard building, reporting. At A&E I took teams from Post-it notes to a fully administered Jira instance. At Understood.org I configured Jira Service Desk to optimize the QA ticket management workflow. At Crocs I embedded Jira AI into delivery reporting, reducing administrative overhead ~30%. The tool is not the skill — the skill is knowing what to build in Jira so that the delivery visibility it creates is actually useful."
+    },
+    {
+      "need": "AI development tools and project management automation — eagerness to adopt",
+      "answer": "Claude Code (six production apps shipped in 2026), Jira AI (embedded at Crocs, documented 30% overhead reduction), GitHub Copilot (adjacent), GitHub Actions CI/CD. Early AI adopter since August 2022.",
+      "detail": "The eagerness the JD describes is not aspirational here — it is the current operating mode. I began using Stable Diffusion in August 2022 and ChatGPT in December 2022, near their public launches. This year I shipped six production applications using Claude Code as the AI coding agent. Jira AI reduced administrative overhead ~30% at Crocs. GitHub Actions CI/CD is how all six production apps are deployed. AI tools are not experiments I'm planning to run — they are how I currently work."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The production toolkit.",
+    "subhead": "Agency-native. Current-generation. No gaps between the tools and the work.",
+    "nodes": [
+      {
+        "label": "Jira & Jira AI",
+        "desc": "Administration-level Jira fluency — workflows, boards, dashboards, QA ticket management, and AI-assisted reporting",
+        "pm_role": "Built from scratch at A&E. Standardized at Eptura PMO. Jira Service Desk at Understood.org. Jira AI at Crocs — ~30% overhead reduction. Admin fluency, not just daily use."
+      },
+      {
+        "label": "CMS Platforms",
+        "desc": "WordPress/WooCommerce, Contentful, Sitecore — build and migration coordination",
+        "pm_role": "Built and deployed a full WordPress e-commerce platform at OVRSTCH. Coordinated a Sitecore→Contentful replatform at Understood.org through QA and launch. Can manage CMS deployments end to end."
+      },
+      {
+        "label": "GitHub & CI/CD",
+        "desc": "Git version control, GitHub Actions CI/CD pipeline, deployment coordination",
+        "pm_role": "Owned CI/CD pipelines for six production apps via GitHub Actions. Can read a PR, understand a deployment pipeline, and coordinate a release without losing anything in translation to the dev team."
+      },
+      {
+        "label": "Claude Code & AI Tools",
+        "desc": "Claude Code, Jira AI, Microsoft Copilot — AI-assisted production and delivery automation",
+        "pm_role": "Daily use, not pilot. Six production apps shipped via Claude Code. Jira AI embedded in delivery workflows. Microsoft Copilot for documentation and communication at Crocs."
+      },
+      {
+        "label": "Web Technologies",
+        "desc": "React, Next.js, TypeScript, HTML, CSS, JavaScript, Three.js — hands-on build and review capability",
+        "pm_role": "Former front-end engineer. Current production across the full modern web stack. Can review technical deliverables, catch QA issues, and translate creative briefs into accurate technical task lists."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "A pharma client's legal/regulatory review delays an asset that's blocking three downstream deliverables",
+      "response": [
+        "Map the dependency chain immediately — identify which assets are blocked and by how long",
+        "Resequence the sprint/project schedule around the delay — move unblocked work forward",
+        "Communicate the impact to the account manager and client with a concrete revised timeline",
+        "Flag the regulatory review as a standard risk in future project planning for this client",
+        "Document the pattern so the next similar project builds regulatory review time into the baseline schedule"
+      ]
+    },
+    {
+      "scenario": "A developer delivers a component that does not meet WCAG accessibility standards — the client has a compliance requirement",
+      "response": [
+        "Catch it in QA before it reaches the client — accessibility is a Definition of Done gate, not a launch review",
+        "Document the specific failure against the WCAG criterion — give the developer an exact fix, not a general note",
+        "Hold the deliverable until the fix is confirmed in a cross-browser/cross-device accessibility test",
+        "Add the accessibility check to the QA test plan template so it does not get skipped on the next project",
+        "Brief the team on the standard if this is a pattern — accessibility compliance is not optional for this client"
+      ]
+    },
+    {
+      "scenario": "Fifteen concurrent projects are all marked high priority and three deadlines are landing in the same week",
+      "response": [
+        "Pull all three project timelines and identify which tasks are truly on the critical path vs. which have float",
+        "Stack-rank the three deadlines with the account leads — confirm which is the hard client commitment",
+        "Reallocate developer and QA capacity to the hardest deadline first; brief the other two clients proactively",
+        "Build a forward-looking capacity view — if this conflict is predictable, flag it in the next resource planning conversation",
+        "Document the prioritization decision so the team is aligned and there are no surprises at delivery"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Every project has a milestone schedule, a QA gate, and a client approval step — before the first task is assigned",
+    "Accessibility compliance is a Definition of Done requirement — not a launch checklist item",
+    "Jira AI handles recurring status reporting — human review before it leaves the building",
+    "Regulatory and legal review timelines are built into the project plan, not added when they appear",
+    "Scope changes get a change order before work starts — not negotiated after the invoice",
+    "Offshore and nearshore teams get written, structured documentation — async clarity over sync dependency",
+    "Client communication is proactive on risk — they hear about a problem and its resolution at the same time"
+  ],
+
+  "track_record": [
+    {
+      "company": "Understood.org",
+      "role": "Digital Producer — Healthcare-Adjacent, WCAG-Compliant Delivery",
+      "period": "2019–2020",
+      "points": [
+        "Regulated, healthcare-adjacent delivery — WCAG 2.1 AA enforced as a hard production gate",
+        "Coordinated Engineering, QA, Content, UX, and Compliance through a full website replatform",
+        "On-time launch after taking over a distressed program — no critical regressions",
+        "Jira Service Desk configured and administered for QA workflow optimization"
+      ]
+    },
+    {
+      "company": "A&E Television Networks",
+      "role": "Senior Digital Producer — Multi-Platform Concurrent Delivery",
+      "period": "2016–2018",
+      "points": [
+        "~10 concurrent SVOD workstreams (Web, iOS, tvOS, Android, Roku) managed simultaneously",
+        "Coordinated Engineering, QA, UX, Content, and Marketing across all platforms",
+        "Built and administered Jira from scratch for all teams — zero prior practice on intake",
+        "Shipped all platforms against externally committed, publicly visible launch windows"
+      ]
+    },
+    {
+      "company": "Crocs, Inc.",
+      "role": "Technical Delivery Manager — Release Governance (Contract)",
+      "period": "2026",
+      "points": [
+        "Managed end-to-end technical delivery for a global platform rollout",
+        "Embedded Jira AI and Copilot — ~30% administrative overhead reduction",
+        "SOX-compliant change control and release governance",
+        "On-time go-live with clean post-launch stabilization"
+      ]
+    },
+    {
+      "company": "SapientNitro / @radical.media",
+      "role": "Senior Digital Producer — Agency Production",
+      "period": "2008–2011",
+      "points": [
+        "Managed entire Digital Interactive Department at @radical.media — Tommy Hilfiger, Gray Goose, Tarsem",
+        "Fortune 500 digital platform delivery for Unilever (Bertolli, Suave, Hellmann's) at SapientNitro",
+        "Established departmental production standards — SOWs, schedules, work orders, estimates",
+        "Agency production fluency built across boutique, mid-size, and global agency environments"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "Accessibility review happens at launch — findings require rework after client approval",
+      "Concurrent project conflicts are discovered at the deadline, not in the resource plan",
+      "Regulatory review timelines surface mid-sprint as surprises rather than planned dependencies",
+      "Offshore team documentation is informal — deliverables arrive misaligned to the brief"
+    ],
+    "after": [
+      "WCAG compliance is a Definition of Done gate — enforced at every production stage, not at launch",
+      "Concurrent project capacity is visible two weeks out — conflicts surface in planning, not at delivery",
+      "Regulatory and legal review is a named dependency in every pharma project schedule from day one",
+      "Offshore teams receive written, structured documentation — deliverables arrive aligned to spec"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Week 1",
+      "deliverable": "Audit all active projects — timeline status, QA stage, upcoming client deadlines, and current resource allocation. Understand the production process and tool stack ROOM42 uses before proposing anything."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Own one or two active projects end to end. Identify the first accessibility or documentation gap. Produce the first proactive client status update."
+    },
+    {
+      "timeframe": "Week 3–4",
+      "deliverable": "Jira workflows and QA gates documented for active projects. Accessibility checkpoint added to the QA test plan template. First concurrent resource conflict flagged in planning rather than at delivery."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Consistent delivery across all assigned projects. Pharma regulatory review built into baseline project schedules. Team knows the accessibility standard is enforced — because it has been enforced."
+    }
+  ]
+}
