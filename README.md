@@ -8,7 +8,7 @@
 
 A single-template, JSON-driven pitch page system for job applications. One HTML template. One CSS file. One JS renderer. One JSON config per job. The result: a custom, evidence-dense pitch page for every application — built in ~30 minutes per role, not from scratch each time.
 
-**Live:** [rjvaleo.github.io/pitch-page/?job=crocs](https://rjvaleo.github.io/pitch-page/?job=crocs)
+**Live:** [rjvaleo.github.io/pitch-page/?job=agile-coach](https://rjvaleo.github.io/pitch-page/?job=agile-coach)
 
 ---
 
