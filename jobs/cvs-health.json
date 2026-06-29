@@ -1,0 +1,202 @@
+{
+  "slug": "cvs-health",
+  "company": "CVS Health",
+  "role": "Senior Manager, Scrum Master",
+  "subtitle": "Agile Delivery · Healthcare · Continuous Improvement",
+  "hero_title": "The SM who plans,<br>directs, and <em>measures</em>.",
+  "hero_sub": "Ten years of coordinating teams, removing obstacles, coaching toward self-organization, and producing measurable operating gains. In regulated environments. At scale.",
+
+  "the_case": [
+    {
+      "need": "Plan, coordinate, and direct project team activities",
+      "answer": "Eptura: directed Agile delivery across ~10 distributed teams. A&E: coordinated ~10 concurrent product workstreams. Crocs: planned and directed multi-function teams through a full release lifecycle.",
+      "detail": "Planning, coordinating, and directing is the core of every SM role I've held. At Eptura I owned delivery coordination across ~10 teams — PI planning cycles, sprint execution, cross-team dependency management, and leadership reporting. At Crocs I directed Engineering, QA, Change Management, and Business teams through a hard go-live deadline with no misses. At A&E I coordinated ~10 concurrent SVOD product workstreams simultaneously across a globally distributed team."
+    },
+    {
+      "need": "Identify and address obstacles hindering team progress",
+      "answer": "Proactive impediment identification and removal is the documented pattern across every role — surfaced early, escalated with context, resolved before they stall delivery.",
+      "detail": "At Eptura I managed cross-team dependencies and impediments across ~10 teams — escalating quickly when a blocker needed leadership attention and resolving the rest without escalation. At Understood.org I took over a distressed program in its final months and unblocked delivery by resetting scope, communication, and team dynamics simultaneously. At Crocs I maintained RAID logs and surfaced risks early enough to protect go-live."
+    },
+    {
+      "need": "Coach and mentor team members and stakeholders on Agile methodologies",
+      "answer": "Eptura: 35%+ efficiency gain through coaching, not just process. Underline: established Agile from scratch in an organization that had never used it. A&E: two-year cultural transformation from Post-it notes to structured delivery.",
+      "detail": "Coaching that produces measurable operating gains is the track record. At Eptura I coached ~10 teams through varying maturity levels, mentored junior Scrum Masters, and spearheaded Agile adoption in a Marketing department with zero prior practice. At Underline I sold Scrum to skeptical leadership, recruited and ran a distributed development team, and delivered on time in 16 weeks. The efficiency gains at Eptura did not come from process enforcement — they came from sustained behavioral coaching."
+    },
+    {
+      "need": "Support Product Owner in product backlog management and prioritization",
+      "answer": "PO partnership is the consistent pattern: Eptura (10 POs, execution-ready backlogs), Crocs (scope and prioritization governance), Paperless Post (Optimizely-tied backlog outcomes), A&E (roadmap alignment).",
+      "detail": "I partner with Product Owners on more than grooming — I coach them on what makes a story execution-ready vs. aspirational, enforce Definition of Ready/Done discipline, and align backlog priorities to delivery capacity and business objectives. At Paperless Post I tied Jira backlog management directly to Optimizely A/B testing outcomes so delivery was connected to measurable product results."
+    },
+    {
+      "need": "Develop strategies to monitor and measure team progress",
+      "answer": "Eptura: built standardized BI dashboards for ~10 teams in ADO, Jira, and Smartsheet. Crocs: real-time release readiness dashboards. A&E: Jira metrics infrastructure built from scratch for all teams.",
+      "detail": "I build the monitoring and measurement infrastructure — not just use it. At Eptura I created the standardized delivery health dashboards (velocity, burndown, cycle time, team health) that became the PMO standard across all ~10 teams. At Crocs I built Release Radar, a real-time tracking framework that surfaced cross-environment dependencies before they threatened go-live. At A&E I built Jira from scratch for all teams after they were tracking delivery on Post-it notes."
+    },
+    {
+      "need": "Promote self-organization and continuous improvement",
+      "answer": "35%+ efficiency gain at Eptura through retrospective-driven improvement. 20% sprint carryover reduction. Agile adoption from scratch at Underline and in the Marketing department at Eptura. Cultural transformation at A&E over two years.",
+      "detail": "Self-organization is the goal; the ceremonies and coaching are the mechanism. At Eptura I drove continuous improvement through structured retrospective-to-action cycles, process standardization, and data-driven coaching interventions. The 35%+ efficiency gain and 20% carryover reduction are outcomes of teams that improved their own delivery, not just teams that followed a process I imposed."
+    },
+    {
+      "need": "Manage multiple assignments concurrently in a fast-paced environment",
+      "answer": "Managing multiple concurrent teams and workstreams is the standard operating mode: Eptura (~10 teams), A&E (~10 workstreams), Crocs (multi-function concurrent tracks), Paperless Post (2 teams simultaneously).",
+      "detail": "I have never held a role that managed a single team. The standard has been 2-10 concurrent teams or workstreams across every significant engagement. At Eptura I owned delivery coordination across ~10 teams while maintaining individual coaching relationships with each PO and tech lead. At A&E I shipped ~10 concurrent workstreams simultaneously while holding high-visibility, externally committed launch windows."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The delivery ecosystem.",
+    "subhead": "The tools and practices that make progress visible to leadership.",
+    "nodes": [
+      {
+        "label": "Jira & Jira AI",
+        "desc": "Primary delivery tracking — sprint boards, workflows, velocity dashboards, burndown, team health, Jira AI for backlog synthesis and reporting",
+        "pm_role": "Built Jira from scratch at A&E (from Post-it notes). Standardized Jira workflows and dashboards across ~10 teams at Eptura. Used Jira AI at Crocs to reduce reporting overhead ~30% while improving output quality."
+      },
+      {
+        "label": "Azure DevOps (ADO)",
+        "desc": "Enterprise delivery tracking and release management — board configuration, sprint dashboards, delivery health reporting",
+        "pm_role": "Maintained ADO delivery dashboards at Eptura and Crocs; used alongside Jira for cross-platform leadership visibility."
+      },
+      {
+        "label": "Smartsheet",
+        "desc": "Program-level reporting, capacity planning, leadership dashboards, dependency tracking",
+        "pm_role": "Built leadership-level delivery health reports at Eptura synthesizing across all ~10 teams into a single view for executive stakeholders."
+      },
+      {
+        "label": "Microsoft Copilot",
+        "desc": "AI-assisted stakeholder communication, meeting synthesis, and administrative overhead reduction",
+        "pm_role": "Embedded at Crocs — reduced administrative overhead ~30% while improving the quality and timeliness of leadership reporting."
+      },
+      {
+        "label": "Confluence",
+        "desc": "Team documentation, working agreements, retrospective tracking, Definition of Done",
+        "pm_role": "Standardized Jira/Confluence configuration across teams so delivery artifacts are organized, current, and accessible without a PM intermediary."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "Sprint carryover is increasing across three consecutive sprints",
+      "response": [
+        "Diagnose before acting: capacity issue, story readiness issue, or accountability issue?",
+        "Pull Jira burndown and story completion data — find the pattern, not just the symptom",
+        "Partner with PO on backlog readiness — are stories entering sprint execution-ready?",
+        "Retrospective with explicit framing: 'Three sprints of this — what changed and what haven't we named?'",
+        "Introduce WIP limits or readiness gates if context-switching or unready stories are the driver"
+      ]
+    },
+    {
+      "scenario": "Team is going through the motions — ceremonies happening, nothing improving",
+      "response": [
+        "Name the pattern directly: 'We've been doing this for N sprints and nothing has changed'",
+        "Change the retrospective format completely — if the same structure produces no results, the structure is the problem",
+        "1:1s with team members before the next ceremony — not after",
+        "Introduce a concrete, small experiment: one change, measurable in one sprint",
+        "If the team cannot identify what needs to change, that IS the finding — escalate to leadership"
+      ]
+    },
+    {
+      "scenario": "Stakeholder introduces scope change mid-sprint with executive pressure behind it",
+      "response": [
+        "Stop the conversation — assess actual impact before responding to the pressure",
+        "Map the trade-off explicitly: what comes out if this goes in, or does the sprint goal change?",
+        "Bring the trade-off to Product Owner for the decision — not the stakeholder",
+        "Communicate the decision to all parties with the reasoning documented",
+        "Post-mortem: what process gap allowed a mid-sprint scope request to get executive backing?"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Sprint planning ends with committed goals and owned action items — not aspirational lists",
+    "Retrospectives produce at least one measurable improvement per sprint, tracked to resolution",
+    "Obstacles are identified and addressed within 24 hours — leadership hears about the ones that need them",
+    "Business intelligence dashboards give leadership an honest picture before they ask for one",
+    "PO partnership is continuous — I know what is in the next two sprints and why",
+    "Team coaching is individualized, not uniform — different maturity levels get different approaches",
+    "Multiple concurrent teams stay aligned without each requiring a separate management layer"
+  ],
+
+  "track_record": [
+    {
+      "company": "Eptura",
+      "role": "Agile Coach & Senior Scrum Master — Agile PMO",
+      "period": "2022–2023",
+      "points": [
+        "~10 distributed teams building commercial SaaS — onshore (California) and offshore (India)",
+        "Built standardized BI dashboards in ADO, Jira, and Smartsheet for all teams",
+        "35%+ delivery efficiency gain; 20% sprint carryover reduction — measurable operating gains",
+        "Coached and mentored ~10 POs and teams; mentored junior Scrum Masters org-wide"
+      ]
+    },
+    {
+      "company": "Understood.org",
+      "role": "Digital Producer & Scrum Master",
+      "period": "2019–2020",
+      "points": [
+        "Healthcare-adjacent, regulated environment — WCAG 2.1 AA compliance as core delivery requirement",
+        "Distressed program recovery: took over in final months, delivered on time with no critical regressions",
+        "Globally distributed team across 12+ countries — coordination and progress monitoring at scale",
+        "Compliance-conscious delivery discipline directly applicable to healthcare environment"
+      ]
+    },
+    {
+      "company": "Crocs, Inc.",
+      "role": "Scrum Master & PM — Release Governance (Contract)",
+      "period": "2026",
+      "points": [
+        "Planned and directed multi-function teams through a full release lifecycle under hard deadline",
+        "Built real-time delivery visibility dashboards (Release Radar) for leadership",
+        "Jira AI + Copilot reduced administrative overhead ~30%; protected on-time go-live",
+        "SOX-compliant change control in a regulated, governance-conscious environment"
+      ]
+    },
+    {
+      "company": "A&E Television Networks",
+      "role": "Scrum Master & Agile Coach",
+      "period": "2016–2018",
+      "points": [
+        "Coordinated ~10 concurrent SVOD workstreams (Web, iOS, tvOS, Android, Roku) simultaneously",
+        "Built Jira metrics infrastructure from scratch — teams were on Post-it notes on arrival",
+        "Two-year cultural transformation producing measurable improvement in execution quality",
+        "Shipped all platforms against externally committed, high-visibility launch windows"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "Teams are meeting but not improving — ceremonies without measurable operating gains",
+      "Progress monitoring is reactive — leadership only hears about problems after they've impacted delivery",
+      "Multiple concurrent teams require constant senior management oversight to stay aligned",
+      "Coaching is inconsistent — some teams mature, others stay stuck"
+    ],
+    "after": [
+      "Retrospectives produce documented, tracked improvements every sprint",
+      "Business intelligence dashboards give leadership an honest view before they ask for one",
+      "Multiple concurrent teams stay aligned without requiring a separate management layer for each",
+      "Coaching is individualized to maturity level and produces measurable behavioral change"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Week 1",
+      "deliverable": "Audit current team health, metrics, and delivery cadence across all assigned teams. Meet every team member, PO, and key stakeholder. No changes yet — understand the current state first."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Facilitate first full ceremony cycle. Identify top 3 obstacles and process gaps per team. Propose first metrics improvement to leadership."
+    },
+    {
+      "timeframe": "Week 3–4",
+      "deliverable": "Business intelligence dashboards baseline established. First retrospective with documented, tracked output. Direct coaching conversations underway where needed."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Running all assigned teams cleanly. Leadership has honest visibility into progress, risk, and productivity. First measurable operating gain documented."
+    }
+  ]
+}
