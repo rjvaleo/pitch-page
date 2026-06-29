@@ -1,0 +1,196 @@
+{
+  "slug": "heartcentrix",
+  "company": "HeartCentrix Solutions",
+  "role": "Scrum Master",
+  "subtitle": "Agile Coach · Jira AI & Copilot · AI-Assisted Delivery",
+  "hero_title": "Not a Jira user.<br><em>A Jira AI practitioner.</em>",
+  "hero_sub": "Most Scrum Masters have Jira on their resume. Fewer have embedded Jira AI and Microsoft Copilot into a live enterprise delivery workflow and measured a 30% overhead reduction from it. That is the distinction your posting is looking for. That is this resume.",
+
+  "the_case": [
+    {
+      "need": "Hands-on Jira AI experience for backlog refinement, forecasting, and reporting",
+      "answer": "Embedded Jira AI at Crocs into backlog refinement, sprint summaries, and stakeholder reporting — reducing administrative overhead roughly 30% while improving output quality and decision traceability.",
+      "detail": "The specific outcome at Crocs: Jira AI automated the weekly release readiness report, sprint outcome summaries, and backlog hygiene checks. I reviewed the output; stakeholders received it. The quality went up because I had time to review instead of generate. The 30% overhead reduction was not from one automation — it was from systematically identifying and replacing every recurring low-value task with AI-assisted output and human review. That is the model the role describes."
+    },
+    {
+      "need": "Leverage Copilot for sprint summaries, insights, and communication efficiency",
+      "answer": "Used Microsoft Copilot at Crocs for stakeholder communication drafts, meeting documentation, and decision logs — directly parallel to the Copilot use this role describes.",
+      "detail": "Copilot at Crocs handled async communication drafts to Engineering and Business stakeholders, structured meeting recaps, and decision documentation. The value was not the tool — it was the freed capacity. Every hour not spent formatting a status update was an hour spent on delivery risk, coaching, or cross-team alignment. That is what 'communication efficiency' means in practice."
+    },
+    {
+      "need": "5+ years Scrum Master, software/product development teams, Agile environments",
+      "answer": "10+ years — Crocs, Eptura (~10 distributed teams), A&E (~10 concurrent SVOD workstreams), Understood.org, Stealth AI, DigitasLBI, Paperless Post, Underline.",
+      "detail": "The five-year ask is exceeded by double. Each engagement has a different scale, domain, and team composition — and the consistent outcomes are: ceremonies running cleanly, POs with execution-ready backlogs, blockers surfacing before they stall a sprint, and delivery metrics that actually inform decisions."
+    },
+    {
+      "need": "Coach teams, Product Owners, and stakeholders on Agile best practices",
+      "answer": "Coached POs at Eptura (~10 teams), A&E (~10 concurrent workstreams), and Paperless Post on backlog readiness, story quality, and acceptance-criteria discipline. Coached stakeholders at Crocs, Understood.org, and Eptura on delivery cadence and Agile operating norms.",
+      "detail": "Coaching in three directions simultaneously is a different skill than coaching one direction. At Eptura I was coaching POs on story readiness in the morning and presenting delivery health to senior leadership in the afternoon. At Crocs I was coaching Engineering on Definition of Done discipline while translating compliance requirements into engineering tasks for the Business team. The communication adjusts to the audience; the clarity does not."
+    },
+    {
+      "need": "DevOps practices and CI/CD pipelines — aligned with Agile delivery",
+      "answer": "Owned full CI/CD pipelines via GitHub Actions for six production applications this year. Coordinated Crocs build→test→UAT→cutover lifecycle. Delivered within Azure/Kubernetes environments at Eptura and Understood.org.",
+      "detail": "CI/CD familiarity for a Scrum Master means: knowing where in the pipeline a release is at any given moment, understanding what a failed build means for the sprint commitment, and coordinating the ceremony cadence around deployment windows rather than against them. I can read a pipeline, ask the right questions, and hold a substantive conversation with a DevOps engineer about what is actually blocking the release."
+    },
+    {
+      "need": "Track and analyze Agile delivery metrics — velocity, cycle time, predictability",
+      "answer": "Tracked velocity, cycle time, burndown, and predictability as operational instruments at every major engagement. Built Jira and ADO delivery dashboards at Eptura for leadership reporting across ~10 teams. Drove 35%+ efficiency gain and 20% carryover reduction from data-driven coaching interventions.",
+      "detail": "Velocity is a planning input, not a performance score. Cycle time tells you where work is actually stalling. Predictability tells you whether the team's commitments are trustworthy. These three metrics together give you the actual picture of delivery health. At Eptura I used them to identify systemic bottlenecks across ~10 teams and drive targeted coaching interventions. The 35% efficiency gain was measured before it was claimed."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The AI-augmented Agile toolkit.",
+    "subhead": "Not aspirational — operational. Used in production delivery, not in demos.",
+    "nodes": [
+      {
+        "label": "Jira AI",
+        "desc": "Backlog refinement assistance, sprint summary generation, forecasting, and reporting automation",
+        "pm_role": "Embedded at Crocs into weekly release governance workflows — ~30% overhead reduction. The output got sharper because I had time to review instead of generate."
+      },
+      {
+        "label": "Microsoft Copilot",
+        "desc": "Sprint summaries, stakeholder communication drafts, meeting documentation, and decision logging",
+        "pm_role": "Embedded at Crocs for async stakeholder communication and structured meeting recaps. Frees SM capacity from administrative output to actual coaching and delivery risk management."
+      },
+      {
+        "label": "Jira (admin-level)",
+        "desc": "Workflows, boards, dashboards, velocity and burndown reporting, sprint health, portfolio visibility",
+        "pm_role": "Built from scratch at A&E (~10 teams). Standardized across Eptura PMO. Configured SOD compliance controls at Crocs. Admin-level fluency — not just daily use."
+      },
+      {
+        "label": "GitHub Actions / CI/CD",
+        "desc": "CI/CD pipeline management across six production applications; release lifecycle coordination",
+        "pm_role": "Owned CI/CD pipeline for six production apps via GitHub Actions. Coordinated build→test→UAT→cutover lifecycle at Crocs. Can engage substantively with DevOps on pipeline blockers."
+      },
+      {
+        "label": "Azure DevOps / Confluence",
+        "desc": "ADO configuration and board management; Confluence for team documentation and Agile standards",
+        "pm_role": "ADO configuration owner at Eptura PMO. Confluence documentation standardized across teams. Fluent switching between Jira and ADO depending on team environment."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "A team is using Jira AI outputs without reviewing them — a sprint summary with an error reaches a stakeholder",
+      "response": [
+        "Acknowledge the error to the stakeholder directly and immediately — do not let it sit",
+        "Correct the summary with verified data and re-send with a clear note on what changed",
+        "Identify where the human review step failed: was the output skipped, rushed, or not understood?",
+        "Add an explicit AI output review checkpoint to the sprint reporting workflow",
+        "Coach the team: AI generates, humans validate — this is the standard, not the exception"
+      ]
+    },
+    {
+      "scenario": "Velocity is trending down for three sprints and the team insists everything is fine",
+      "response": [
+        "Pull cycle time and throughput data alongside velocity — find what the team is not seeing",
+        "Bring the data to the retrospective with a specific question: what is taking longer than it used to?",
+        "Separate the noise (sprint size variance) from the signal (genuine throughput decline)",
+        "Facilitate a structured root cause conversation — not a blame session, a diagnosis",
+        "Introduce one targeted intervention, measure the effect, and report the result to the team"
+      ]
+    },
+    {
+      "scenario": "A Product Owner is writing stories so vague the team cannot estimate or build against them",
+      "response": [
+        "Name the pattern in private first — not at sprint planning in front of the team",
+        "Coach the PO on the INVEST model and what 'ready' actually means for this team",
+        "Run a story-writing workshop using real examples from the backlog — not theory",
+        "Introduce a Definition of Ready checklist the team owns, not the SM",
+        "Give the PO a safe sprint to practice — protect the relationship while the skill builds"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Every ceremony has a stated outcome — if it doesn't, it doesn't happen",
+    "Jira AI and Copilot handle the administrative output — human judgment owns every output before it ships",
+    "Blockers surface at standup with a proposed path forward — not at retrospective as a postmortem",
+    "Velocity is a planning input; cycle time and predictability tell the real delivery story",
+    "POs get coaching before the planning meeting, not during it — readiness is built in grooming",
+    "Retrospective action items become the first agenda item for the next retro — not archived notes",
+    "DevOps alignment happens before sprint planning, not after the sprint ends"
+  ],
+
+  "track_record": [
+    {
+      "company": "Crocs, Inc.",
+      "role": "Scrum Master & PM — Release Governance (Contract)",
+      "period": "2026",
+      "points": [
+        "Embedded Jira AI and Microsoft Copilot into sprint reporting and stakeholder communication",
+        "~30% administrative overhead reduction — documented, not estimated",
+        "SOX-compliant release governance with Go/No-Go cadence and CAB-style change approval",
+        "On-time go-live with clean post-launch stabilization"
+      ]
+    },
+    {
+      "company": "Eptura",
+      "role": "Agile Coach & Senior Scrum Master — Enterprise PMO",
+      "period": "2022–2023",
+      "points": [
+        "~10 distributed teams (India and California) — ceremonies, coaching, and Scrum-of-Scrums",
+        "35%+ delivery efficiency gain; 20% sprint carryover reduction — data-driven interventions",
+        "Coached POs on backlog readiness; mentored junior Scrum Masters org-wide",
+        "Standardized Jira and ADO across the PMO; built leadership delivery dashboards"
+      ]
+    },
+    {
+      "company": "A&E Television Networks",
+      "role": "Scrum Master & Agile Coach — Multi-Platform Delivery",
+      "period": "2016–2018",
+      "points": [
+        "~10 concurrent SVOD workstreams — Web, iOS, tvOS, Android, Roku — simultaneously",
+        "Built and administered Jira from scratch; two-year cultural transformation",
+        "Shipped all platforms against externally committed public launch windows",
+        "Coached POs on acceptance-criteria-complete stories sized to a single sprint"
+      ]
+    },
+    {
+      "company": "Stealth-Mode AI Startup",
+      "role": "Scrum Master — AI Data & Automation Workstreams",
+      "period": "2024",
+      "points": [
+        "SM for AI automation and data pipeline teams — Scrum and Kanban delivery",
+        "Diagnosed pipeline bottlenecks; ~30% throughput improvement through workflow re-sequencing",
+        "Maintained velocity, cycle time, and burndown metrics; escalated impediments proactively"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "Jira AI outputs go out unreviewed — stakeholders receive errors nobody caught",
+      "Velocity is reported but nobody acts on it — it is a metric, not a management tool",
+      "POs write stories too late and too vague — sprint planning becomes a clarification session",
+      "Copilot is available but nobody is using it systematically — recurring tasks still take hours"
+    ],
+    "after": [
+      "AI output goes through human review before it ships — quality improves, errors surface before stakeholders",
+      "Velocity, cycle time, and predictability drive coaching decisions — the team sees what the data shows",
+      "Stories arrive at planning ready to build — Definition of Ready is owned by the team, not the SM",
+      "Copilot handles recurring documentation and communication — SM time goes to coaching and delivery risk"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Week 1",
+      "deliverable": "Meet the teams, POs, and stakeholders. Audit current Jira setup, ceremony cadence, and delivery metrics. Understand which AI tools are available and how they are currently being used — or not used."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Facilitate first full ceremony cycle. Identify the top 3 gaps in AI tool adoption and backlog readiness. Propose the first Jira AI workflow improvement with a measurable baseline."
+    },
+    {
+      "timeframe": "Week 3–4",
+      "deliverable": "First Jira AI automation live and reviewed. Copilot embedded in at least one recurring SM workflow. Delivery metrics dashboard publishing reliably for team and leadership visibility."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Teams running ceremonies independently with improved delivery predictability. AI tools embedded in at least three recurring delivery workflows. First retrospective improvement documented and implemented."
+    }
+  ]
+}
