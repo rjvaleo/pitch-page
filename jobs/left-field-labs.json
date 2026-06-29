@@ -1,0 +1,197 @@
+{
+  "slug": "left-field-labs",
+  "company": "Left Field Labs",
+  "role": "Senior Digital Producer",
+  "subtitle": "Creative Technology · Agency Delivery · Cross-Functional Production",
+  "hero_title": "Creative and technical.<br><em>Always both.</em>",
+  "hero_sub": "Fifteen years at the intersection of creative and technology — from boutique interactive agencies to Fortune 500 brand platforms to Meta. The agency-native, client-facing digital producer who also ran Agile delivery for a decade. That combination is not common.",
+
+  "the_case": [
+    {
+      "need": "5–7 years Digital Producer in a digital design agency",
+      "answer": "@radical.media, SapientNitro, Momentum Worldwide, Jack Morton, Hanft Raboy, Mass Transmit, 22squared — 10+ years of agency digital production. Most recent producer title: Understood.org (2019–2020).",
+      "detail": "The agency roots are deep. At @radical.media I managed the entire Digital Interactive Department workload — Tommy Hilfiger, Gray Goose, Tarsem — simultaneously, while establishing the departmental production standards (SOWs, schedules, work orders, estimates) the team still used after I left. At SapientNitro I owned project documentation, staffing plans, and delivery for multiple Fortune 500 Unilever brand platforms through a coordinated offshore team. The last decade of Agile delivery work was built on top of that foundation — not instead of it."
+    },
+    {
+      "need": "Coordinate interconnected workflows across UX, UI Design, Development, and QA",
+      "answer": "A&E: coordinated Engineering, UX, UI Design, QA, Content, and Marketing across ~10 concurrent SVOD workstreams. Understood.org: coordinated UX, Engineering, QA, Content, and Compliance. Meta: coordinated Creative, Engineering, and QA across 14 countries.",
+      "detail": "The cross-discipline coordination is the job, and it's been the job across every major engagement. At A&E I held the dependencies between UX, Design, Engineering, QA, Content, and Marketing simultaneously for five platforms (Web, iOS, tvOS, Android, Roku) — each on its own workstream, each with externally committed launch dates. The skill isn't just keeping everyone informed. It's knowing which discipline's blocker will cascade into the others before it does, and intervening at the right point."
+    },
+    {
+      "need": "Jira or project management tool experience",
+      "answer": "Deep Jira practitioner: built from scratch at A&E, administered Jira Service Desk at Understood.org, standardized across PMOs at Eptura, used daily for ticket creation, workflow configuration, sprint tracking, and reporting.",
+      "detail": "Jira fluency at the administration level — not just ticket creation, but workflow design, board configuration, dashboard building, and reporting. At A&E I took teams from Post-it notes to a fully administered Jira instance across all workstreams simultaneously. At Understood.org I configured Jira Service Desk to optimize the QA ticket management workflow. At Eptura I standardized Jira across ~10 distributed teams and built dashboards that senior leadership used for portfolio-level delivery visibility."
+    },
+    {
+      "need": "Manage project schedules, budgets, resource management, vendor invoicing",
+      "answer": "SOW development, estimating, staffing plans, and change orders at SapientNitro. Budget development and resource allocation at 22squared/Toyota. Freelancer and vendor management across multiple engagements. Schedule ownership throughout the career.",
+      "detail": "Project schedule ownership and budget management have been constants across the agency career. At SapientNitro I owned top-down and bottom-up estimates, staffing plans, and change orders for multi-platform Fortune 500 builds. At 22squared I developed and approved budgets for new digital projects and assigned production teams by workload. The vendor and freelancer management — invoicing, contracting, onboarding — is embedded in how agency production actually works."
+    },
+    {
+      "need": "Client-facing experience — internal and external",
+      "answer": "Every major role was client-embedded or agency-on-site: SapientNitro at Unilever, 22squared at Toyota/Publix, Jack Morton at J&J/Citibank/American Airlines, Meta as internal client for audio products, Understood.org as delivery lead to the VP of Engineering.",
+      "detail": "Client-facing is the default mode, not a skill I practiced occasionally. At Jack Morton I presented concepts directly to client teams for Citibank, American Airlines, and Johnson & Johnson. At SapientNitro I was the primary liaison between agency and Unilever brand teams through development, UAT, and launch. At Understood.org I was the primary point of contact for engineering leadership and executive stakeholders. The communication adjusts to the audience; the clarity and ownership stay constant."
+    },
+    {
+      "need": "Self-starter, solutions-focused, thrives in fast-paced environment",
+      "answer": "Founded and operated two independent ventures (OVRSTCH, Transelectronic Labs). Took over a distressed program at Understood.org with no ramp time. Shipped six production AI applications this year independently. The self-direction is demonstrated, not claimed.",
+      "detail": "At Understood.org I was handed a distressed program in its final months — distributed team across 12 countries, no established rhythm, real compliance stakes — and built one. At @radical.media I showed up and became the organizational infrastructure the Digital Interactive Department didn't have, establishing the standards and processes that made the work deliverable. The Applied AI work this year is the same pattern: identified a capability gap, built the workflow, shipped six live products. No external direction required."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The production toolkit.",
+    "subhead": "Agency-native and current-generation simultaneously.",
+    "nodes": [
+      {
+        "label": "Jira & Jira AI",
+        "desc": "Ticket creation, workflow administration, sprint boards, dashboards, QA tracking, and AI-assisted delivery reporting",
+        "pm_role": "Built from scratch at A&E. Configured Jira Service Desk at Understood.org. Standardized across Eptura PMO. Jira AI embedded at Crocs for documentation and reporting. Deep administration fluency."
+      },
+      {
+        "label": "Google Workspace",
+        "desc": "Google Drive, Docs, Sheets, Calendar, Gmail, Slides — standard production operating environment",
+        "pm_role": "Used across all remote and hybrid engagements. Client presentation preparation, meeting coordination, and document management throughout the career."
+      },
+      {
+        "label": "Claude Code & GitHub Actions",
+        "desc": "AI-assisted production and CI/CD pipeline management across six live production applications",
+        "pm_role": "Building with Claude Code and deploying via GitHub Actions is how I'm working right now. Directly relevant to Left Field Labs' Applied AI practice — not aspirational, operational."
+      },
+      {
+        "label": "Confluence & Smartsheet",
+        "desc": "Production documentation, project plans, process standards, and leadership reporting",
+        "pm_role": "Production documentation standardized at Eptura. Smartsheet used for milestone tracking and leadership dashboards. Confluence for team knowledge management and process documentation."
+      },
+      {
+        "label": "Adobe Creative Suite & Production Tools",
+        "desc": "Photoshop, Illustrator, Audition, Pro Tools — production asset management and review",
+        "pm_role": "Hands-on creative tools fluency means credible production reviews — not just approvals, but informed creative feedback. Useful when working with UX, Design, and creative teams."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "A client deliverable is ready to present but the design and development teams are misaligned on the final direction",
+      "response": [
+        "Pull the brief and the client approval trail — find the last documented agreement on scope and direction",
+        "Facilitate a 30-minute alignment session with design and dev leads: what is approved, what changed, and who made the call",
+        "Surface the gap to the client honestly — better to manage expectations before the presentation than after",
+        "Document the resolution and version-control the decision so the next deliverable has a clean baseline",
+        "Add a pre-presentation review checkpoint to the production schedule for the rest of the engagement"
+      ]
+    },
+    {
+      "scenario": "Jira is full of stale tickets — nobody knows what's actually in progress and the client is asking for a status update",
+      "response": [
+        "Do a rapid triage of the board before the status call — not a full cleanup, enough to know what's real",
+        "Send the client a structured written update with: what's in review, what's blocked and why, what ships this week",
+        "Schedule a 30-minute Jira cleanup session with the team — stale tickets get closed, in-progress gets current owners",
+        "Introduce a weekly board hygiene habit: 15 minutes before standup, every team member updates their tickets",
+        "Build a filtered dashboard for the client so they have a live view and stop relying on status calls for basic information"
+      ]
+    },
+    {
+      "scenario": "A freelancer invoices for work outside the original scope — the client is on a fixed budget",
+      "response": [
+        "Pull the original SOW and the freelancer's contract before responding to anything",
+        "Determine whether the out-of-scope work was actually requested, and by whom",
+        "If requested by the team without approval: internal conversation first, then client disclosure with a clear remediation path",
+        "If freelancer overreach: hold the invoice, document the discrepancy, renegotiate with the freelancer",
+        "Update the SOW for the remainder of the engagement and add an approval gate for any scope additions going forward"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Every meeting has a stated output — if it doesn't, it's an email",
+    "Client-facing decks are reviewed by the team before they leave the building — no surprises in the room",
+    "Jira is the single source of truth — if it's not in the board, it's not being tracked",
+    "Vendor and freelancer scope is documented before work starts — not negotiated after the invoice arrives",
+    "Status updates are written and skimmable — not oral reports that require attendance",
+    "Blockers get named at standup with a proposed path forward — not surfaced at the end of the sprint",
+    "The client relationship is built on what ships, not what's promised"
+  ],
+
+  "track_record": [
+    {
+      "company": "Meta Platforms",
+      "role": "Senior Audio Producer — Facebook, Instagram, Oculus, Portal",
+      "period": "2021–2022",
+      "points": [
+        "Production coordination across Meta surfaces with a 14-country distributed team",
+        "Ray-Ban Stories AR launch — QA lead and release readiness for embedded voice systems",
+        "Built custom internal PM tool for Voice Product builds across all platforms",
+        "Directed recording sessions and wrote production briefs for voice talent"
+      ]
+    },
+    {
+      "company": "Understood.org",
+      "role": "Digital Producer & Scrum Master",
+      "period": "2019–2020",
+      "points": [
+        "Sitecore → Contentful replatform delivered on time — distressed program, final crucial months",
+        "Coordinated UX, Engineering, QA, Content, and Compliance across 12+ countries",
+        "Jira Service Desk configured and administered for QA workflow optimization",
+        "WCAG 2.1 AA compliance enforced as non-negotiable Definition of Done throughout"
+      ]
+    },
+    {
+      "company": "SapientNitro (Sapient)",
+      "role": "Senior Digital Producer — Unilever Brand Platforms",
+      "period": "2011",
+      "points": [
+        "Fortune 500 digital platforms delivered for Unilever: Bertolli, Suave, Hellmann's",
+        "Owned SOWs, staffing plans, estimates, and change orders — on time, on budget",
+        "Primary liaison between agency and Unilever brand teams through dev, UAT, and launch",
+        "Analytics platform implemented across all Unilever properties"
+      ]
+    },
+    {
+      "company": "@radical.media",
+      "role": "Senior Digital Producer — Interactive Department",
+      "period": "2008–2009",
+      "points": [
+        "Managed entire Digital Interactive Department workload: Tommy Hilfiger, Gray Goose, Tarsem",
+        "Established departmental production standards — SOWs, schedules, work orders, estimates",
+        "Multiple concurrent brand builds delivered on time and on budget",
+        "Built the organizational infrastructure the department didn't have before I arrived"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "Jira has open tickets from three sprints ago and nobody knows what's actually in progress",
+      "The client gets status updates only when they ask — and the answers are verbal and unverifiable",
+      "Freelancers invoice for work outside scope because nobody documented the boundaries",
+      "Cross-discipline blockers surface at the retrospective instead of standup — too late to protect the deadline"
+    ],
+    "after": [
+      "Jira is current — every ticket has an owner, a status, and an estimate the team stands behind",
+      "The client has a live dashboard and structured written updates — they stop asking because they already know",
+      "Freelancer scope is documented before work starts; invoices match the SOW",
+      "Blockers get named in standup with proposed paths forward — the deadline is protected, not recovered"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Week 1",
+      "deliverable": "Learn the client, the codebase rhythm, and the team's working style. Audit Jira for staleness. Understand how status gets communicated today and what the client actually reads."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Own one active workstream end to end. Produce the first structured client status update. Identify the first three workflow inefficiencies and propose improvements."
+    },
+    {
+      "timeframe": "Week 3–4",
+      "deliverable": "Production schedule current and visible to all disciplines. Jira hygiene established as a team habit. Freelancer/vendor scope documented for all active relationships."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Cross-functional production running without over-communication. Client relationship built on what's shipped, not what's been promised. Team knows I have the schedule — they can focus on the work."
+    }
+  ]
+}
