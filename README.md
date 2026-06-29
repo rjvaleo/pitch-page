@@ -8,7 +8,7 @@
 
 A single-template, JSON-driven pitch page system for job applications. One HTML template. One CSS file. One JS renderer. One JSON config per job. The result: a custom, evidence-dense pitch page for every application — built in ~30 minutes per role, not from scratch each time.
 
-**Live:** [rjvaleo.github.io/pitch-page/?job=crocs](https://rjvaleo.github.io/pitch-page/?job=crocs)
+**Live:** [rjvaleo.github.io/pitch-page/?job=agile-coach](https://rjvaleo.github.io/pitch-page/?job=agile-coach)
 
 ---
 
@@ -37,12 +37,12 @@ index.html     ← single template (structure only, no content)
 style.css      ← design system (dark theme, teal/gold palette, responsive)
 pitch.js       ← renderer (reads ?job= param, fetches config, builds page)
 jobs/
-  crocs.json             → /pitch/?job=crocs
-  network-to-code.json   → /pitch/?job=network-to-code
-  akkodis.json           → /pitch/?job=akkodis
-  davita.json            → /pitch/?job=davita
-  capgemini.json         → /pitch/?job=capgemini
-  agile-coach.json       → /pitch/?job=agile-coach
+  agile-coach.json       → /pitch-page/?job=agile-coach
+  scrum-master.json      → /pitch-page/?job=scrum-master
+  release-manager.json   → /pitch-page/?job=release-manager
+  senior-pm.json         → /pitch-page/?job=senior-pm
+  technical-pm.json      → /pitch-page/?job=technical-pm
+  digital-producer.json  → /pitch-page/?job=digital-producer
 ```
 
 The renderer fetches the JSON config and populates the template. Everything in the HTML is a placeholder. Everything in the JSON is the substance. The design never changes; only the content does.
