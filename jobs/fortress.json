@@ -1,0 +1,197 @@
+{
+  "slug": "fortress",
+  "company": "Fortress Information Security",
+  "role": "Release Manager — Multi-Platform Software Delivery",
+  "subtitle": "Release Governance · Go/No-Go · CI/CD · AI-Assisted Delivery",
+  "hero_title": "The release shipped.<br><em>On time. No regressions.</em>",
+  "hero_sub": "Go/No-Go governance, release calendars, readiness criteria, CAB-style change control, RAID logs, post-release retrospectives. At Crocs I ran exactly what this role describes. I use Claude daily — not as a pilot, as a delivery instrument.",
+
+  "the_case": [
+    {
+      "need": "3+ years release management coordinating software deployments",
+      "answer": "10+ years. Crocs (release governance, end-to-end lifecycle), Eptura (~10 distributed teams, enterprise SaaS PMO), Understood.org (regulated replatform), A&E (~10 concurrent SVOD workstreams), plus OVRSTCH and Stealth AI.",
+      "detail": "At Crocs I owned the full release lifecycle — planning through post-launch stabilization — for a global platform rollout at a publicly traded retailer. At Eptura I coordinated release scheduling and dependency management across ~10 distributed teams in an enterprise SaaS PMO. At A&E I held release windows across ~10 concurrent SVOD platform workstreams simultaneously. Ten years of release coordination across regulated, compliance-aware, and high-velocity environments."
+    },
+    {
+      "need": "AI tools proficiency (Claude named explicitly) for planning, documentation, risk analysis",
+      "answer": "Claude Code daily — shipped six production applications this year. Jira AI and Microsoft Copilot embedded in release governance at Crocs: documentation generated, risks analyzed, readiness summaries produced. ~30% overhead reduction with improved output quality.",
+      "detail": "When your JD names Claude by name, I am not the typical applicant reading that line. I use Claude to write executable specs, analyze release risks, generate documentation, and summarize readiness status. At Crocs I embedded Claude and Jira AI into weekly release governance workflows — the outputs went directly to leadership. This year I shipped six production web applications using Claude Code as the AI delivery agent, with full CI/CD pipelines via GitHub Actions. The AI tools are not something I plan to use — they are how the work gets done."
+    },
+    {
+      "need": "Go/No-Go meetings, release calendar, readiness criteria across multiple apps",
+      "answer": "Built the Go/No-Go cadence and release calendar at Crocs from scratch. Built Release Radar — the readiness tracking framework that gave leadership real-time cross-environment dependency visibility. Same function at Eptura across ~10 teams.",
+      "detail": "The Go/No-Go meeting is not a bureaucratic checkpoint — it is the moment where every dependent team has to confirm their piece of the release is actually ready, or surface the problem before it becomes a production incident. At Crocs I owned that cadence: assembled the dependent teams, ran the readiness checklist, issued the go/no-go decision, and documented it. I built Release Radar specifically to make the incoming signal visible before the meeting, so the Go/No-Go was an informed decision, not a status report."
+    },
+    {
+      "need": "Cross-team dependency and risk management across multiple pods/applications",
+      "answer": "Eptura: dependency management across ~10 distributed teams (India and California). A&E: dependency mapping across Engineering, QA, Content, and Marketing simultaneously across ~10 workstreams. RAID logs at every major engagement.",
+      "detail": "Managing cross-team dependencies across five separate Pods is the exact problem I solved at scale at Eptura and A&E. The discipline is: map the dependencies before the sprint starts, surface the conflicts before they stall a release, and own the escalation when a dependency owner is non-responsive. At Crocs I maintained the RAID log and the Release Radar simultaneously — so leadership always knew what was at risk and what the mitigation was."
+    },
+    {
+      "need": "CI/CD pipeline understanding and modern deployment practices",
+      "answer": "Built and owned CI/CD pipelines via GitHub Actions for six production applications this year — build, test, deploy, and live hosting. Coordinated Crocs build→test→UAT→cutover lifecycle. Supported Azure/Kubernetes delivery environments at Eptura and Understood.org.",
+      "detail": "I can read a deployment pipeline, understand what a failed build means for a release timeline, and hold a substantive conversation with a DevOps engineer about what's blocking the cutover. At Crocs I coordinated the full build→test→UAT→cutover lifecycle. This year I built and maintained GitHub Actions pipelines for six production applications — architecture, implementation, and deployment all owned end to end."
+    },
+    {
+      "need": "Influence without authority — drive decisions across teams",
+      "answer": "All major roles were client-embedded consulting engagements. The authority was never organizational — it was earned through credibility, preparation, and having the right information at the right time.",
+      "detail": "At Crocs I was a contract resource coordinating release decisions across the permanent organization — Engineering, QA, Change Management, and Business all had more organizational standing than I did. The Go/No-Go decisions got made because I built the framework that made the risk visible to everyone simultaneously, and nobody wanted to be the team that held up the release without a documented reason. That is influence without authority: create the information environment where the right decision is also the obvious one."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The release delivery stack.",
+    "subhead": "Tools used daily — not aspirational.",
+    "nodes": [
+      {
+        "label": "Claude & Jira AI",
+        "desc": "AI-assisted release planning, documentation generation, risk analysis, and readiness summaries",
+        "pm_role": "Embedded in release governance at Crocs — ~30% overhead reduction. Claude Code used daily to ship production software. When your JD names Claude, this is the answer."
+      },
+      {
+        "label": "Jira & Azure DevOps",
+        "desc": "Release tracking, dependency management, sprint boards, RAID logs, and executive dashboards",
+        "pm_role": "Jira built from scratch at A&E. Standardized across Eptura PMO (~10 teams). Release Radar built in Jira at Crocs. ADO configuration owner at Eptura."
+      },
+      {
+        "label": "GitHub Actions / CI/CD",
+        "desc": "CI/CD pipelines — build, test, deploy — for six production applications; coordinated release lifecycle at Crocs",
+        "pm_role": "Hands-on CI/CD via GitHub Actions across six live production apps this year. Coordinated Crocs build→test→UAT→cutover lifecycle. Can engage substantively with DevOps on pipeline blockers."
+      },
+      {
+        "label": "Confluence & Smartsheet",
+        "desc": "Release documentation, readiness criteria, leadership dashboards, and program-level reporting",
+        "pm_role": "Release documentation standardized at Eptura PMO. Smartsheet leadership dashboards synthesizing delivery health across ~10 teams. Release calendar and readiness criteria maintained throughout."
+      },
+      {
+        "label": "Microsoft Copilot",
+        "desc": "AI-assisted async stakeholder communication, meeting documentation, and release status reporting",
+        "pm_role": "Embedded at Crocs for release reporting and stakeholder communication. Frees release management capacity from document generation to actual coordination and risk management."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "A dependent team signals Not Ready at the Go/No-Go meeting — release is 48 hours out",
+      "response": [
+        "Get the specific blocker in writing before the meeting ends — what exactly is not ready and who owns it",
+        "Determine if it's a hard blocker (release cannot proceed) or a mitigable risk (proceed with documented acceptance)",
+        "Escalate to leadership immediately with a concrete decision request: delay, de-scope, or accept the risk with owner sign-off",
+        "If delay: revise the release calendar, notify all dependent teams with the new timeline, document who made the call",
+        "If proceed: document the risk, the mitigation, and the acceptance decision before the deployment window opens"
+      ]
+    },
+    {
+      "scenario": "A cross-Pod dependency is undocumented and surfaces mid-release cycle — two Pods are now blocked on each other",
+      "response": [
+        "Stop assuming the dependency will resolve itself — convene the two Pod leads immediately",
+        "Map the exact dependency: what does Pod A need from Pod B, by when, and what happens to the release timeline if it slips",
+        "Add it to the RAID log and the release calendar with an explicit owner and resolution date",
+        "Build a lightweight synchronization checkpoint between the two Pods for the remainder of this release cycle",
+        "Document the gap in the post-release retrospective so the dependency gets captured before the next cycle starts"
+      ]
+    },
+    {
+      "scenario": "AI tool output is used to generate a release risk summary — the output contains an error that reaches a stakeholder",
+      "response": [
+        "Pull the output back immediately — acknowledge the error to the stakeholder directly, don't let it sit",
+        "Identify where validation failed: was the AI output reviewed before it went out, or did it bypass the human check?",
+        "Correct the summary with verified information and re-send with a clear note on what changed",
+        "Add a validation step to the AI workflow — every AI-generated output gets a human review pass before distribution",
+        "Apply appropriate judgment and validation to every AI output — that's the standard, not the exception"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Go/No-Go is a decision, not a status meeting — every team confirms ready or surfaces the blocker, on the record",
+    "RAID log is live — risks get owners and timelines within 24 hours, not at the next retrospective",
+    "Release calendar is visible to all dependent teams, not just the release manager",
+    "AI tools compress documentation and risk analysis — human judgment owns every output before it ships",
+    "Post-release retrospective findings become the next release's process improvements, not archived notes",
+    "Dependency conflicts surface through the release manager before they stall a Pod — not after",
+    "Status updates are written, structured, and proactive — not oral reports that require attendance"
+  ],
+
+  "track_record": [
+    {
+      "company": "Crocs, Inc.",
+      "role": "Release Manager — Release Governance (Contract)",
+      "period": "2026",
+      "points": [
+        "Go/No-Go governance, CAB-style change approval, and SOX-compliant SOD controls",
+        "Built Release Radar — release calendar and readiness tracking framework for leadership visibility",
+        "Claude and Jira AI embedded in release workflows — ~30% overhead reduction",
+        "On-time go-live with clean post-launch stabilization under hard deadline pressure"
+      ]
+    },
+    {
+      "company": "Eptura",
+      "role": "Senior Delivery Lead — Enterprise SaaS PMO",
+      "period": "2022–2023",
+      "points": [
+        "~10 distributed teams — release scheduling, dependency management, readiness criteria",
+        "ADO and Jira dashboards for portfolio-level release health and leadership visibility",
+        "35%+ delivery efficiency gain; 20% carryover reduction through release discipline",
+        "Post-release retrospectives driving measurable process improvement across the portfolio"
+      ]
+    },
+    {
+      "company": "A&E Television Networks",
+      "role": "Scrum Master & Release Coordinator — Multi-Platform",
+      "period": "2016–2018",
+      "points": [
+        "~10 concurrent SVOD workstreams (Web, iOS, tvOS, Android, Roku) — simultaneous release coordination",
+        "Cross-team dependency management across Engineering, QA, Content, and Marketing",
+        "Shipped all platforms against externally committed, publicly visible launch windows",
+        "Built Jira release tracking from scratch — zero prior practice across all teams"
+      ]
+    },
+    {
+      "company": "AI-Assisted Production — 6 Apps",
+      "role": "Creative Coder / Solo Developer",
+      "period": "2026",
+      "points": [
+        "Six production applications shipped using Claude Code — audio DSP, 3D graphics, game systems, secure Next.js",
+        "Full CI/CD via GitHub Actions — build, test, deploy, production hosting for all six",
+        "Claude used daily for planning, spec writing, risk analysis, documentation — the workflow this role requires",
+        "Proved the AI-assisted delivery model: spec → agent execution → human review → production"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "Go/No-Go meetings surface blockers for the first time — after the release window is already committed",
+      "Cross-Pod dependencies are undocumented until they cause a delay",
+      "Release documentation takes hours to produce and stakeholders don't read it",
+      "Post-release retrospectives happen once — findings go into a doc nobody opens again"
+    ],
+    "after": [
+      "Go/No-Go decisions are informed, documented, and owned — readiness is visible before the meeting starts",
+      "Cross-Pod dependencies are mapped, tracked, and owned with resolution dates before they become blockers",
+      "AI tools generate release documentation and risk summaries — human review validates, stakeholders receive",
+      "Post-release retrospective findings are the first agenda item for the next release planning cycle"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Week 1",
+      "deliverable": "Map the five Pods — current release cadence, dependency structure, and existing readiness criteria for each. Meet every engineering lead, QA lead, and DevOps contact. Understand what a release actually looks like today before proposing anything."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Audit the current Go/No-Go process and release calendar. Identify the first three cross-Pod dependency risks that aren't currently tracked. Propose the release tracking framework that gives leadership visibility across all five Pods."
+    },
+    {
+      "timeframe": "Week 3–4",
+      "deliverable": "Release calendar published and visible to all Pods. RAID log live. First Go/No-Go meeting run under the new process. AI tools embedded in at least two recurring release documentation workflows."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Consistent release process running across all five Pods. Leadership has real-time visibility into readiness and risk without asking. First post-release retrospective completed with documented process improvements for the next cycle."
+    }
+  ]
+}
