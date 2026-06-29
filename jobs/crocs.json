@@ -1,0 +1,206 @@
+{
+  "slug": "crocs",
+  "company": "Crocs, Inc.",
+  "role": "Digital Project Manager",
+  "subtitle": "eCommerce & Agile Delivery",
+  "hero_title": "The PM who owns<br>the <em>whole</em> play.",
+  "hero_sub": "End-to-end delivery. Release governance. Marketplace operations. Twenty years of doing exactly this.",
+
+  "the_case": [
+    {
+      "need": "End-to-end digital initiative ownership",
+      "answer": "20+ years owning scope, timelines, dependencies, and outcomes across eCommerce and platform delivery",
+      "detail": "Every role I've held for two decades has been end-to-end ownership. Not coordination support — full accountability for scope, schedule, risk, and outcome. Eptura, Meta, Understood.org, A&E. Same job, different scale."
+    },
+    {
+      "need": "Marketplace operations experience",
+      "answer": "Onboarded Amazon FBA for a boutique publisher. Feed errors, listing misconfigs, inventory sync failures — firsthand.",
+      "detail": "Every failure mode in the Rithum playbook — wrong-language listings appearing in markets where the product wasn't available, oversells from inventory sync lag, feed formatting rejections — I navigated all of it in a real production environment with real business consequences."
+    },
+    {
+      "need": "SFCC and Rithum fluency",
+      "answer": "Deep familiarity with how data moves across the ecosystem, where it breaks, and what the PM does when it does.",
+      "detail": "I know the stack end-to-end: SAP as source of truth, OIC as the translation layer, SFCC for DTC, Rithum for marketplace syndication, OMS for order routing. I know which node owns which failure and how to sequence the fix."
+    },
+    {
+      "need": "Cross-functional coordination: Engineering, QA, Product, IT, vendors, regional teams",
+      "answer": "This is the job I've done for 20 years. Eptura: ~10 distributed teams. A&E: 12-15 concurrent release streams.",
+      "detail": "I don't just attend cross-functional meetings — I run them. At Meta I coordinated across creative, engineering, and QA across 14+ countries. At A&E I kept 10+ concurrent workstreams aligned across Engineering, QA, UX, Content, and Marketing."
+    },
+    {
+      "need": "RAID logs, release artifacts, delivery documentation",
+      "answer": "Built RAID logs, release runbooks, deployment checklists, and status dashboards from scratch across every engagement.",
+      "detail": "The deliverables are the job. RAID logs updated daily, not at retrospective. Status reports that go out before anyone has to ask. Release artifacts that the QA team can run without a PM in the room."
+    },
+    {
+      "need": "QA coordination, defect triage, post-launch stabilization",
+      "answer": "Led QA coordination and post-launch stabilization across platform releases at Understood.org, Meta, and A&E.",
+      "detail": "QA is where releases are won or lost. I've run defect triage bridges, managed release readiness gates, and owned post-launch stabilization sprints. At Understood.org I landed a complex replatform with no critical regressions. At Crocs I'll bring the same discipline."
+    },
+    {
+      "need": "Agile delivery in a fast-paced environment",
+      "answer": "CSM certified. 10+ years running Agile ceremonies for delivery teams in high-pressure environments.",
+      "detail": "Agile isn't a process I follow — it's how I think. I run clean standups, maintain healthy backlogs, and use retrospectives to actually improve the process. At Eptura I drove 35%+ delivery efficiency gains through process standardization. I don't just certify Agile — I produce results with it."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The eCommerce ecosystem.",
+    "subhead": "I know where data moves, where it breaks, and who owns the fix.",
+    "nodes": [
+      {
+        "label": "SAP",
+        "desc": "Source of truth for inventory, pricing, and order data across the enterprise",
+        "pm_role": "Coordinates timing for data pushes across downstream platforms; first escalation point for sync failures that originate in ERP"
+      },
+      {
+        "label": "OIC Middleware",
+        "desc": "Translation and routing layer between SAP and downstream platforms",
+        "pm_role": "Manages deployment sequencing and monitors for integration errors during releases; owns the dependency map between SAP and SFCC/Rithum"
+      },
+      {
+        "label": "Salesforce Commerce Cloud (SFCC)",
+        "desc": "DTC storefront and digital experience platform for global and regional markets",
+        "pm_role": "Release coordination for storefront deployments; QA gate ownership through UAT and cutover; post-launch stabilization point of contact"
+      },
+      {
+        "label": "Rithum (ChannelAdvisor)",
+        "desc": "Marketplace syndication platform managing product feeds to Amazon, regional marketplaces, and third-party channels",
+        "pm_role": "Monitors feed health, coordinates feed failure response, sequences marketplace launches with ops and content teams"
+      },
+      {
+        "label": "OMS / Order Management",
+        "desc": "Order routing, fulfillment coordination, and inventory allocation across channels",
+        "pm_role": "Coordinates OMS-impacting releases with fulfillment and ops; manages rollback sequencing when order flow is at risk"
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "Rithum feed failure → Amazon listing suppression",
+      "response": [
+        "Pull Rithum feed logs within 15 minutes of alert",
+        "Identify failure mode: format error, auth issue, or data problem at source",
+        "Coordinate with Integration and Marketplace Ops simultaneously — not sequentially",
+        "Draft stakeholder update with diagnosis and ETA before anyone asks for one",
+        "Own the resolution timeline; close the loop with a post-mortem within 24 hours"
+      ]
+    },
+    {
+      "scenario": "SFCC checkout defect discovered post-deploy in regional market",
+      "response": [
+        "Confirm scope: single market or multi-region; quantify revenue impact",
+        "Convene defect triage bridge with Engineering and QA — not a status call, a war room",
+        "Assess rollback feasibility vs. hotfix timeline; make the recommendation, don't defer it",
+        "Brief regional stakeholder immediately with facts, not speculation",
+        "Hold the team to the fix timeline; own the go/no-go for any remediation deploy"
+      ]
+    },
+    {
+      "scenario": "SAP → OIC integration failure mid-release cycle",
+      "response": [
+        "Stop downstream releases until the integration root cause is confirmed",
+        "Coordinate with SAP team, OIC team, and impacted platform owners in parallel",
+        "Maintain a live dependency map — who is blocked, for how long, what unblocks them",
+        "Keep leadership informed with a single source of truth, not competing updates",
+        "Sequence the restart once the fix is validated — not before"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Every meeting has a stated purpose and ends with owner, action, and date — no exceptions",
+    "Daily standup with written recap and action items distributed same day",
+    "RAID log updated proactively — risks surface before they become problems",
+    "Stakeholder updates go out before anyone has to ask for one",
+    "Defect triage bridges are war rooms, not status calls — I come with a diagnosis, not just data",
+    "Release readiness is a gate I enforce, not a checkbox I collect",
+    "Post-mortems happen within 48 hours of any significant incident — not when schedules allow"
+  ],
+
+  "track_record": [
+    {
+      "company": "OVRSTCH",
+      "role": "Digital PM / Founder",
+      "period": "2024–Present",
+      "points": [
+        "End-to-end commerce platform build from zero: WordPress, WooCommerce, Stripe, ApplePay, Printify API",
+        "Vendor coordination across design, development, and fulfillment",
+        "AI-assisted delivery workflows embedded throughout the build-to-ship pipeline",
+        "Reduced order-to-fulfillment cycle time 25% through workflow redesign"
+      ]
+    },
+    {
+      "company": "Eptura",
+      "role": "Senior Scrum Master / Agile PMO",
+      "period": "2022–2023",
+      "points": [
+        "~10 distributed teams across India and California; PI-aligned SAFe environment",
+        "35%+ delivery efficiency gain through process standardization and coaching",
+        "20% sprint carryover reduction through readiness checks and WIP discipline",
+        "ADO and Jira delivery dashboards maintained for leadership visibility"
+      ]
+    },
+    {
+      "company": "Understood.org",
+      "role": "Senior Project Manager / Digital Producer",
+      "period": "2019–2020",
+      "points": [
+        "Distressed program recovery: Sitecore-to-Contentful replatform, final crucial months",
+        "Globally distributed team across 12+ countries; regulated, healthcare-adjacent environment",
+        "On-time launch with no critical release regressions",
+        "WCAG 2.1 AA compliance enforced as a core production requirement"
+      ]
+    },
+    {
+      "company": "A&E Television Networks",
+      "role": "Scrum Master & Delivery Lead (SVOD)",
+      "period": "2016–2018",
+      "points": [
+        "12–15 concurrent release streams across Web, iOS, tvOS, Android, Roku",
+        "Coordinated Engineering, QA, UX, Content, and Marketing across NY, India, Poland, Egypt",
+        "Migrated teams from ad-hoc tracking to fully implemented Jira",
+        "Shipped all platforms against externally visible launch windows"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "You're managing delivery AND writing status reports AND triaging vendor escalations — all simultaneously",
+      "Every release needs your direct involvement to move forward, even the routine ones",
+      "Stakeholders ping you directly for updates because there's no reliable alternative path",
+      "Risks surface late — after they've already impacted the timeline"
+    ],
+    "after": [
+      "You get a weekly status update you can forward to leadership unchanged",
+      "Routine releases move without you unless there's an actual decision needed from your level",
+      "Stakeholders have a single point of contact who keeps them current and accurate",
+      "Risks surface early, with a recommended response — not just a flag"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Day 1–3",
+      "deliverable": "Access to Jira, Smartsheet, Confluence, ADO. Platform walkthroughs with Engineering and QA leads. Stakeholder intros scheduled."
+    },
+    {
+      "timeframe": "Week 1",
+      "deliverable": "Shadow all active workstreams. Audit current RAID log and open risks. Map all in-flight dependencies across SFCC, Rithum, and OMS."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Own one active workstream end-to-end. Daily sync with Sr. PM. First status update drafted and circulated."
+    },
+    {
+      "timeframe": "Week 3–4",
+      "deliverable": "Full ownership of assigned initiatives. Leadership-ready status reporting in place. No handholding needed — just clear escalation paths."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "First retrospective on my own delivery. Process improvements identified. Ready to absorb additional scope."
+    }
+  ]
+}

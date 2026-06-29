@@ -1,0 +1,196 @@
+{
+  "slug": "akkodis",
+  "company": "Akkodis",
+  "role": "IT Scrum Master",
+  "subtitle": "Change Agent · AI-Enhanced Delivery",
+  "hero_title": "Not a ceremony runner.<br>A <em>change agent</em>.",
+  "hero_sub": "I diagnose team dysfunction, coach through resistance, and drive accountability. Outcomes, not process compliance.",
+
+  "the_case": [
+    {
+      "need": "Proven success leading teams through organizational change",
+      "answer": "Eptura: Agile adoption from scratch across Marketing. A&E: cultural transformation from Post-its to structured Jira delivery. Underline: sold Scrum to a skeptical leadership team and delivered in 16 weeks.",
+      "detail": "Organizational change isn't a workshop — it's a sustained campaign. I've done it at Eptura (org-wide Agile mentorship, 35%+ efficiency gain), A&E (migrated 10 teams from manual tracking to Jira over 2 years), and Underline (proposed, sold, and delivered Scrum adoption in a company that had never used it)."
+    },
+    {
+      "need": "Demonstrated ability to address low accountability, performance challenges, team dysfunction",
+      "answer": "Distressed program recovery at Understood.org. Low-accountability team coaching at Eptura. Resistance navigation at Underline and A&E.",
+      "detail": "I've taken over programs in their final months with broken team dynamics and delivered on-time launches. I've coached teams where the real impediment wasn't technical — it was accountability and trust. I address negative behaviors directly, constructively, and early."
+    },
+    {
+      "need": "AI tools to enhance Agile delivery — as a thought partner, not just a tool",
+      "answer": "Jira AI and Microsoft Copilot embedded at Crocs (~30% overhead reduction). Six production applications built using AI-assisted development. AI used in planning, synthesis, and decision support across every recent engagement.",
+      "detail": "I've been using AI tools in active delivery workflows since 2022. At Crocs I embedded Jira AI and Copilot into release governance, reducing administrative overhead by ~30% while improving reporting quality. I build production software using Claude Code and ChatGPT. 'Thought partner and capability multiplier' is exactly how I use these tools."
+    },
+    {
+      "need": "Strong facilitation, conflict resolution, servant leadership",
+      "answer": "10+ years facilitating ceremonies with a focus on outcomes, not completion. Conflict resolution across regulated, high-pressure, globally distributed teams.",
+      "detail": "I facilitate for outcomes, not activity. Every standup ends with decisions made and blockers owned. Retrospectives produce actual workflow changes, not just conversation. I resolve conflict directly — I don't let it fester until it affects delivery."
+    },
+    {
+      "need": "Influencing cross-functional teams without direct authority",
+      "answer": "Every SM role I've held has been influence without authority. Eptura PMO: influenced 10 teams with no direct reports. DigitasLBI: influenced a regulated financial-services program as an embedded agency SM.",
+      "detail": "Influence without authority is the SM's entire job. I do it through trust, consistency, and demonstrated credibility — not personality. At Eptura I influenced org-wide Agile adoption from the PMO without any management authority over the teams I was coaching."
+    },
+    {
+      "need": "Data and metrics to identify trends and drive improvement",
+      "answer": "Built standardized Agile metrics at Eptura (velocity, burndown, cycle time, team health). Delivery dashboards in ADO, Jira, and Smartsheet across multiple programs.",
+      "detail": "Metrics are a coaching tool, not a reporting obligation. I build dashboards that surface patterns, not just status. At Eptura I used delivery data to identify specific team dysfunctions and target coaching interventions — which produced the 35%+ efficiency gain."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The delivery ecosystem.",
+    "subhead": "The tools I use to run clean delivery and surface what matters.",
+    "nodes": [
+      {
+        "label": "Jira & Jira AI",
+        "desc": "Primary delivery tracking: epics, stories, sprint boards, dashboards, burndown, velocity",
+        "pm_role": "Configure and maintain board structure, workflow automation, and reporting. Use Jira AI for backlog synthesis, sprint summaries, and decision documentation."
+      },
+      {
+        "label": "Azure DevOps (ADO)",
+        "desc": "Enterprise delivery tracking and release management at Eptura, Understood.org, and Crocs",
+        "pm_role": "Board configuration, sprint tracking, delivery health dashboards, and dependency visualization across teams."
+      },
+      {
+        "label": "Microsoft Copilot",
+        "desc": "AI-assisted reporting, stakeholder communication drafting, and meeting synthesis",
+        "pm_role": "Reduces administrative overhead on status reports, retrospective summaries, and stakeholder updates — freeing coaching time for actual coaching."
+      },
+      {
+        "label": "Claude / AI Development",
+        "desc": "AI-assisted software development and delivery workflow automation",
+        "pm_role": "Used in planning, synthesis, workflow analysis, and to build six production applications demonstrating genuine technical depth."
+      },
+      {
+        "label": "Confluence & Smartsheet",
+        "desc": "Documentation, process frameworks, and program-level reporting",
+        "pm_role": "Delivery health templates, team health frameworks, retrospective-to-action tracking, and leadership reporting infrastructure."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "Team member consistently misses sprint commitments — pattern, not one-off",
+      "response": [
+        "Distinguish between capacity issue, clarity issue, or accountability issue before acting",
+        "1:1 conversation first — direct, specific, non-judgmental",
+        "Bring it into the team if it's a systemic issue; keep it private if it's individual",
+        "Adjust sprint planning to surface the pattern earlier, not just later",
+        "Escalate to leadership if 2 sprint cycles don't show change — with documentation"
+      ]
+    },
+    {
+      "scenario": "Retrospective produces zero actionable items for the third consecutive sprint",
+      "response": [
+        "Change the format — if the same structure produces no results, the structure is the problem",
+        "Introduce a different facilitation technique: silent writing, dot voting, 1-2-4-All",
+        "Name the pattern explicitly with the team — 'we've done this three times with no output'",
+        "Investigate what psychological safety issue is suppressing honest feedback",
+        "Commit to one specific change per retro minimum, measurable by next sprint"
+      ]
+    },
+    {
+      "scenario": "Engineering and Product are in open conflict over scope mid-sprint",
+      "response": [
+        "Stop the argument — get facts on the table before positions harden",
+        "Map what was committed at sprint planning vs. what is being asked now",
+        "Facilitate the trade-off decision explicitly: scope, time, or quality — someone decides",
+        "Document the decision and who made it — removes ambiguity for the next conflict",
+        "Retrospective: what process failure allowed this conflict to emerge mid-sprint?"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Ceremonies end with decisions made — not deferred to 'follow-up'",
+    "Retrospectives produce at least one measurable workflow change per sprint",
+    "Action items are owned with names and dates before the meeting ends",
+    "Impediments are removed within 24 hours or escalated with a documented reason",
+    "Status updates go out proactively — leadership never has to ask",
+    "Metrics are used to coach, not to report — patterns drive interventions",
+    "Difficult conversations happen immediately, not at the next scheduled touchpoint"
+  ],
+
+  "track_record": [
+    {
+      "company": "Eptura",
+      "role": "Agile Coach & Senior Scrum Master",
+      "period": "2022–2023",
+      "points": [
+        "Spearheaded Agile adoption across Marketing department — zero prior Agile practice",
+        "Coached ~10 distributed teams through behavioral and cultural transformation",
+        "35%+ delivery efficiency gain; 20% sprint carryover reduction",
+        "Mentored junior Scrum Masters across the organization"
+      ]
+    },
+    {
+      "company": "Understood.org",
+      "role": "Digital Producer & Scrum Master",
+      "period": "2019–2020",
+      "points": [
+        "Distressed program recovery: took over in final crucial months",
+        "Rebuilt team health, accountability, and stakeholder confidence",
+        "Delivered on-time platform replatform with no critical regressions",
+        "Advised VP of Engineering on organizational change management strategy"
+      ]
+    },
+    {
+      "company": "A&E Television Networks",
+      "role": "Scrum Master & Agile Coach",
+      "period": "2016–2018",
+      "points": [
+        "Led full cultural transformation: Post-it notes to structured Jira delivery",
+        "Coached ~10 concurrent teams over 2 years toward self-organizing delivery",
+        "Coached Product Owners on backlog accountability and sprint discipline",
+        "Shipped all SVOD platforms against externally visible launch windows"
+      ]
+    },
+    {
+      "company": "Underline Communications",
+      "role": "Agile Coach & SaaS Transformation Manager",
+      "period": "2015–2016",
+      "points": [
+        "Proposed and sold Scrum to leadership team with zero Agile background",
+        "Recruited and contracted distributed dev team; ran all delivery from scratch",
+        "Enterprise SaaS platform upgrade delivered in 16 weeks, on time and under budget"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "Teams are meeting, but decisions aren't being made and commitments aren't being kept",
+      "You're the de facto conflict resolver because the SM isn't handling it",
+      "Metrics exist but don't drive any actual behavior change",
+      "Organizational change initiatives stall because no one is coaching through the resistance"
+    ],
+    "after": [
+      "Teams self-organize around commitments — you're not the accountability backstop",
+      "Conflicts surface and resolve at the team level before they reach leadership",
+      "Metrics drive targeted coaching interventions that produce measurable improvement",
+      "Change adoption accelerates because someone is actively coaching through resistance, not just facilitating around it"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Week 1",
+      "deliverable": "Shadow assigned teams. Map the real team dynamics — what's said vs. what's actually happening. Identify the top 3 impediments and accountability gaps."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Facilitate first full set of ceremonies. Introduce one process improvement. Begin 1:1s with team members. Surface patterns to leadership."
+    },
+    {
+      "timeframe": "Week 3–4",
+      "deliverable": "First retrospective with measurable output. Direct conversations underway where needed. Delivery metrics baseline established."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Teams are measurably more accountable. At least one systemic issue identified, addressed, and tracked. Leadership has clear visibility into team health."
+    }
+  ]
+}

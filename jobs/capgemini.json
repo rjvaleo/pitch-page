@@ -1,0 +1,196 @@
+{
+  "slug": "capgemini",
+  "company": "Capgemini",
+  "role": "Scrum Master",
+  "subtitle": "SAFe · Scaled Delivery · Agile Coaching",
+  "hero_title": "SM. Coach.<br><em>Release Train.</em>",
+  "hero_sub": "Ten years operating at the intersection of servant leadership, program-level coordination, and organizational transformation. Not one or two — all three.",
+
+  "the_case": [
+    {
+      "need": "10+ years as Scrum Master, Agile Coach, or Program Manager",
+      "answer": "CSM certified (current). 10+ years documented across SM, Agile Coach, and Program Manager roles. First SM certification in 2014 — continuous practice since.",
+      "detail": "The 10-year mark matters because it separates people who have run ceremonies from people who have changed organizations. I've done both — and the organizational change work is where the career value is."
+    },
+    {
+      "need": "Experience in scaled Agile environments — SAFe, NEXUS, LeSS",
+      "answer": "SAFe delivery at Eptura (PI Planning, ART coordination, ~10 distributed teams) and DigitasLBI/SunTrust (SAFe, PI-aligned, regulated financial services). NEXUS Scrum coaching at Paperless Post.",
+      "detail": "I've operated in SAFe environments at enterprise scale across two distinct contexts: a commercial SaaS PMO and a regulated financial-services program. PI Planning, ART syncs, System Demos, cross-team dependency mapping, and value-stream alignment are established practice."
+    },
+    {
+      "need": "Mentor Scrum Masters and team leaders across the organization",
+      "answer": "Mentored junior Scrum Masters at Eptura. Built customized Agile training packages at Paperless Post. Facilitated org-wide Agile mentorship at Eptura through global coaching sessions.",
+      "detail": "Mentoring SMs is different from coaching delivery teams. It requires modeling the discipline you want to see — which means your own practice has to be sharp. At Eptura I ran a structured SM mentorship program alongside the team-level coaching work."
+    },
+    {
+      "need": "PI Planning, ART events, dependency mapping, value-stream alignment",
+      "answer": "Direct PI Planning and ART coordination at Eptura and DigitasLBI. Cross-team dependency mapping and value-stream alignment in both SAFe environments.",
+      "detail": "PI Planning isn't just a meeting I've attended — it's a cadence I've led. At Eptura I coordinated PI Planning for ~10 distributed teams, managed ART-level dependencies, and maintained value-stream alignment across the program. At DigitasLBI I coordinated PI-aligned delivery in a regulated environment with offshore components."
+    },
+    {
+      "need": "Strong experience with Azure DevOps",
+      "answer": "Direct ADO experience at Understood.org (2019–2020), Eptura (2022–2023), and Crocs (2026). Board configuration, workflow management, sprint tracking, delivery dashboards at program scale.",
+      "detail": "ADO is my primary enterprise delivery tool. At Eptura I was the ADO configuration owner for the PMO — standardizing workflows, dashboards, and sprint tracking across ~10 teams. At Crocs I used ADO for release readiness and change control tracking."
+    },
+    {
+      "need": "Drive organizational change and continuous improvement at scale",
+      "answer": "Spearheaded Agile adoption across the Marketing department at Eptura (zero prior Agile practice). Led cultural transformation at A&E (manual tracking to structured Jira delivery across ~10 teams). Sold Scrum from scratch at Underline.",
+      "detail": "Organizational change at scale requires sustained coaching pressure — not a one-time workshop. At Eptura I drove Agile adoption in a department that had actively resisted it, and sustained the change through ongoing coaching, metrics visibility, and process standardization."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The scaled delivery ecosystem.",
+    "subhead": "How I coordinate, coach, and report across multiple teams simultaneously.",
+    "nodes": [
+      {
+        "label": "SAFe / PI Planning",
+        "desc": "Scaled Agile Framework: Program Increment planning, ART coordination, system demos, cross-team alignment",
+        "pm_role": "Lead or support PI Planning execution; facilitate ART syncs and Scrum-of-Scrums; coordinate cross-team dependencies and value-stream alignment."
+      },
+      {
+        "label": "Azure DevOps (ADO)",
+        "desc": "Enterprise delivery tracking — board configuration, sprint tracking, delivery health dashboards",
+        "pm_role": "Configure and maintain ADO board structure across teams; build leadership dashboards; track release train dependencies and program-level metrics."
+      },
+      {
+        "label": "Jira & Jira AI",
+        "desc": "Team-level delivery tracking — epics, stories, sprint boards, burndown, velocity",
+        "pm_role": "Sprint board management, backlog grooming support, and AI-assisted reporting for sprint outcomes and retrospective themes."
+      },
+      {
+        "label": "Scrum-of-Scrums / ART Syncs",
+        "desc": "Cross-team coordination cadence for dependency management and horizontal alignment",
+        "pm_role": "Facilitate Scrum-of-Scrums across 3–10 teams; surface cross-team blockers and dependencies before they impact delivery; maintain horizontal alignment across programs."
+      },
+      {
+        "label": "Microsoft Copilot",
+        "desc": "AI-assisted stakeholder reporting, meeting synthesis, and administrative overhead reduction",
+        "pm_role": "Reduces time on status reporting and summary documentation, freeing capacity for coaching, facilitation, and cross-team coordination."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "Two teams in the same ART have conflicting sprint commitments to the same stakeholder",
+      "response": [
+        "Convene an emergency ART sync — not the next scheduled one",
+        "Map the conflicting commitments with dates, owners, and dependency chain",
+        "Facilitate the prioritization decision with the Product Manager — don't make it for them",
+        "Update the dependency map and communicate the resolution to all affected teams",
+        "Retrospective: how did conflicting commitments enter the program without being caught?"
+      ]
+    },
+    {
+      "scenario": "A team's Agile maturity is regressing — ceremonies declining in quality after initial improvement",
+      "response": [
+        "Identify the trigger: personnel change, scope pressure, or structural issue?",
+        "Resume more intensive coaching cadence — more frequent 1:1s, ceremony observation",
+        "Re-establish working agreements explicitly — what the team committed to, what's slipping",
+        "Bring metrics into the conversation: 'Here's what the data shows has changed'",
+        "Surface to leadership if structural factors (workload, resourcing) are driving the regression"
+      ]
+    },
+    {
+      "scenario": "PI objectives are at risk mid-increment — multiple teams tracking yellow",
+      "response": [
+        "Call an unscheduled ART sync within 24 hours of the pattern emerging",
+        "Triage: which objectives are recoverable, which need descoping, which need escalation?",
+        "Partner with Product Management on scope trade-offs — scope/time/quality decision",
+        "Build a recovery plan with specific owners and dates; publish to leadership immediately",
+        "Run a PI retrospective supplement to identify what planning assumptions were wrong"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "PI Planning produces committed PI objectives with risk clearly identified — not aspirational lists",
+    "ART syncs surface cross-team blockers before they stall delivery — not after",
+    "Scrum-of-Scrums has a standing dependency map that's updated before every meeting",
+    "Retrospectives produce measurable workflow changes, tracked sprint-over-sprint",
+    "Leadership reporting is evidence-based: metrics, not narratives",
+    "SM mentoring is structured and consistent — not ad hoc coaching",
+    "Organizational change is managed as a program, not a series of workshops"
+  ],
+
+  "track_record": [
+    {
+      "company": "Eptura",
+      "role": "Agile Coach & Senior Scrum Master — Enterprise PMO",
+      "period": "2022–2023",
+      "points": [
+        "PI-aligned delivery across ~10 distributed teams (India and California)",
+        "Facilitated Scrum-of-Scrums; managed cross-team dependencies and value-stream alignment",
+        "Spearheaded Agile adoption in Marketing; mentored junior SMs org-wide",
+        "35%+ delivery efficiency gain; 20% sprint carryover reduction"
+      ]
+    },
+    {
+      "company": "A&E Television Networks",
+      "role": "Scrum Master & Agile Coach",
+      "period": "2016–2018",
+      "points": [
+        "Facilitated Scrum-of-Scrums across ~6 teams; 10+ concurrent SVOD workstreams",
+        "Led organizational transformation: manual tracking to structured Jira delivery",
+        "Coached Product Owners on backlog discipline and roadmap alignment",
+        "Shipped all platforms against high-visibility, externally committed launch windows"
+      ]
+    },
+    {
+      "company": "DigitasLBI / SunTrust",
+      "role": "Scrum Master (CSM) — SAFe Enterprise",
+      "period": "2014",
+      "points": [
+        "SAFe, PI-aligned delivery in a SOX-compliant financial-services environment",
+        "Coordinated PI planning, ART dependencies, and release timing across 2 teams",
+        "Coached teams on Lean-Agile practices and SAFe application",
+        "Offshore QA coordination (Costa Rica) with time-zone complexity"
+      ]
+    },
+    {
+      "company": "Paperless Post",
+      "role": "Scrum Master & Agile Coach",
+      "period": "2018–2019",
+      "points": [
+        "NEXUS Scrum coaching across iOS and mobile-web teams (8–24 combined)",
+        "Built customized Agile training packages; mentored POs on story quality",
+        "Standardized Jira/Confluence configuration across both teams"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "PI Planning produces commitments that teams don't actually believe in",
+      "Cross-team dependencies are discovered mid-sprint — after they've already created blockers",
+      "Junior SMs are running ceremonies but not coaching — the maturity ceiling is low",
+      "Organizational change initiatives stall because there's no sustained coaching behind them"
+    ],
+    "after": [
+      "PI objectives are realistic, risk-identified, and owned — not aspirational",
+      "Dependencies are mapped before PI Planning ends and tracked through every ART sync",
+      "Junior SMs have a structured mentorship cadence that raises the quality floor across the program",
+      "Organizational change sticks because coaching is continuous — not event-driven"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Week 1",
+      "deliverable": "Meet assigned teams, SMs, POs, and key stakeholders. Review current ART and PI artifacts. Map existing dependency landscape."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Facilitate first full ceremony cycle. Attend ART sync and Scrum-of-Scrums as participant. Identify top 3 coaching priorities per team."
+    },
+    {
+      "timeframe": "Week 3–4",
+      "deliverable": "Full facilitation ownership. SM mentoring cadence established. First leadership metrics report published."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Running cleanly across all assigned teams. PI Planning contribution confirmed. Leadership has evidence-based team health picture."
+    }
+  ]
+}

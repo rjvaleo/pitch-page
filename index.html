@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title id="page-title">RJ Valeo — Pitch Page</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="cursor" id="cursor"></div>
+<div class="cursor-ring" id="cursorRing"></div>
+<div class="progress-bar" id="progressBar"></div>
+
+<nav>
+  <div class="nav-name">RJ Valeo · CSM</div>
+  <ul class="nav-links" id="nav-links">
+    <li><span onclick="navScroll('proof')">The case</span></li>
+    <li><span onclick="navScroll('stack')">The stack</span></li>
+    <li><span onclick="navScroll('incidents')">When it breaks</span></li>
+    <li><span onclick="navScroll('room')">How I operate</span></li>
+    <li><span onclick="navScroll('partner')">The partnership</span></li>
+    <li><span onclick="navScroll('ramp')">The ramp</span></li>
+  </ul>
+</nav>
+
+<!-- HERO -->
+<div id="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-grid"></div>
+  <div class="hero-content">
+    <div class="hero-eyebrow" id="hero-eyebrow">Loading...</div>
+    <h1 class="hero-title" id="hero-title"></h1>
+    <p class="hero-sub" id="hero-sub"></p>
+    <div class="hero-name-block">
+      <strong>Richard J. Valeo, CSM</strong> &nbsp;·&nbsp;
+      <span id="hero-location">Georgetown, CO</span> &nbsp;·&nbsp;
+      <a href="mailto:rjvaleo@gmail.com" style="color:var(--gold)">rjvaleo@gmail.com</a>
+    </div>
+  </div>
+  <div class="scroll-hint">
+    <div class="scroll-line"></div>
+    <span>scroll</span>
+  </div>
+</div>
+
+<div class="section-divider"></div>
+
+<!-- 01 THE CASE -->
+<section id="proof">
+  <div class="section-label">01 — The case</div>
+  <div class="gold-rule"></div>
+  <h2 class="section-title">What you asked for.<br>What you get.</h2>
+  <p class="section-subtitle" id="proof-subtitle"></p>
+  <div class="proof-grid" id="proof-grid">
+    <div class="proof-header">
+      <div>Requirement</div>
+      <div>Evidence</div>
+    </div>
+  </div>
+</section>
+
+<div class="section-divider"></div>
+
+<!-- 02 THE STACK -->
+<section id="stack">
+  <div class="section-label">02 — The stack</div>
+  <div class="gold-rule"></div>
+  <h2 class="section-title" id="stack-title"></h2>
+  <p class="section-subtitle" id="stack-subhead"></p>
+  <div class="stack-wrap">
+    <div class="stack-diagram" id="stack-diagram"></div>
+    <div class="stack-info-panel" id="stack-info">
+      <h3>Click any node</h3>
+      <p>Select a component to see how it fits in the ecosystem and where the PM role intersects.</p>
+    </div>
+  </div>
+</section>
+
+<div class="section-divider"></div>
+
+<!-- 03 WHEN THINGS BREAK -->
+<section id="incidents">
+  <div class="section-label">03 — When things break</div>
+  <div class="gold-rule"></div>
+  <h2 class="section-title">Pattern recognition,<br>not panic.</h2>
+  <p class="section-subtitle">Three realistic failure modes. How I respond to each.</p>
+  <div class="incident-grid" id="incident-grid"></div>
+</section>
+
+<div class="section-divider"></div>
+
+<!-- 04 HOW I RUN A ROOM -->
+<section id="room">
+  <div class="section-label">04 — How I run a room</div>
+  <div class="gold-rule"></div>
+  <h2 class="section-title">Outputs, not activities.</h2>
+  <p class="section-subtitle">What you actually get from every interaction.</p>
+  <div class="room-grid" id="room-grid"></div>
+</section>
+
+<div class="section-divider"></div>
+
+<!-- 05 TRACK RECORD -->
+<section id="record">
+  <div class="section-label">05 — Track record</div>
+  <div class="gold-rule"></div>
+  <h2 class="section-title">Work that holds up.</h2>
+  <p class="section-subtitle">Selected engagements most relevant to this role.</p>
+  <div class="record-list" id="record-list"></div>
+</section>
+
+<div class="section-divider"></div>
+
+<!-- 06 THE SR PM PARTNER -->
+<section id="partner">
+  <div class="section-label">06 — The Sr. partner</div>
+  <div class="gold-rule"></div>
+  <h2 class="section-title">Before and after.</h2>
+  <p class="section-subtitle">What changes when I'm in the seat.</p>
+  <div class="srpm-grid" id="srpm-grid"></div>
+</section>
+
+<div class="section-divider"></div>
+
+<!-- 07 THE RAMP -->
+<section id="ramp">
+  <div class="section-label">07 — The ramp</div>
+  <div class="gold-rule"></div>
+  <h2 class="section-title">Day one.<br>Week one.<br>Day thirty.</h2>
+  <p class="section-subtitle">No handholding needed. Here's the plan.</p>
+  <div class="day-grid" id="day-grid"></div>
+</section>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-name">Richard J. Valeo, CSM</div>
+    <div class="footer-links">
+      <a href="mailto:rjvaleo@gmail.com">rjvaleo@gmail.com</a>
+      <span>·</span>
+      <a href="tel:9176641750">917-664-1750</a>
+      <span>·</span>
+      <a href="https://linkedin.com/in/rjvaleo" target="_blank">linkedin.com/in/rjvaleo</a>
+    </div>
+    <div class="footer-note" id="footer-note"></div>
+  </div>
+</footer>
+
+<script src="pitch.js"></script>
+</body>
+</html>

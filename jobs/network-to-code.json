@@ -1,0 +1,196 @@
+{
+  "slug": "network-to-code",
+  "company": "Network to Code",
+  "role": "Senior Scrum Master",
+  "subtitle": "Product Engineering Delivery · Atlassian · Agile Coaching",
+  "hero_title": "The SM who owns<br>the <em>Jira</em>, the metrics,<br>and the outcome.",
+  "hero_sub": "Ten years running Agile delivery across product engineering teams building commercial software. Deep Atlassian fluency. A coaching practice that produces measurable results.",
+
+  "the_case": [
+    {
+      "need": "7+ years SM / Agile delivery across multiple product engineering teams",
+      "answer": "10+ years. Eptura (~10 distributed teams, SaaS platform). A&E (~10 SVOD product workstreams). Paperless Post (2 concurrent product teams). Stealth AI startup (AI product squads). All commercial software.",
+      "detail": "At Eptura I ran delivery across ~10 distributed engineering teams building a commercial SaaS platform. At A&E I managed ~10 concurrent product workstreams across Web, iOS, tvOS, Android, and Roku simultaneously. At Paperless Post I ran 2 concurrent product teams on the Flyer event-management platform. The pattern is consistent: multiple teams, product-focused organizations, commercial software that ships to real customers."
+    },
+    {
+      "need": "Deep Atlassian fluency — Jira workflows, boards, dashboards, and reporting",
+      "answer": "Jira is the tool I configure and maintain, not just use. Custom workflows, fields, sprint boards, velocity dashboards, flow metrics, Jira Service Desk, Jira AI. I built the Jira infrastructure that gave Eptura leadership honest visibility into 10 teams.",
+      "detail": "At Eptura I was the Jira configuration owner for the PMO — standardizing workflows, custom fields, and dashboards across ~10 teams. At A&E I built Jira from scratch for all teams (they were on Post-it notes when I arrived). At Crocs I maintained Azure DevOps and Jira boards throughout a complex release governance program. At Understood.org I administered Jira Service Desk to optimize QA workflows and automation. This is not casual Jira use — it is Jira administration at program scale."
+    },
+    {
+      "need": "Build and maintain delivery metrics (velocity, flow, predictability) for leadership visibility",
+      "answer": "Eptura: built and published velocity, burndown, cycle time, and team health dashboards in ADO, Jira, and Smartsheet for ~10 teams. Crocs: real-time release readiness dashboards for leadership. The output: leadership that never had to ask for an update.",
+      "detail": "I build metrics infrastructure that gives leadership a clear, honest view of team health and risk — not activity reports. At Eptura the dashboards I built became the standard for the entire PMO. At Crocs I built Release Radar, a real-time tracking framework that surfaced cross-environment dependencies before they threatened go-live. Metrics without action are just data — I use them to drive the coaching conversations that improve delivery."
+    },
+    {
+      "need": "Coach teams toward self-organization, healthy delivery practices, and continuous improvement",
+      "answer": "35%+ delivery efficiency gain at Eptura. 20% sprint carryover reduction. Agile adoption from scratch in Marketing (zero prior practice). Junior SM mentorship. That is the coaching track record.",
+      "detail": "Coaching is not a workshop — it is sustained, individualized, and measured. At Eptura I coached ~10 teams through varying maturity levels over 18 months. I coached Product Owners on what makes a story executable. I ran retrospectives that produced actual workflow changes. I mentored junior Scrum Masters. The efficiency gains and carryover reduction did not happen from process enforcement — they happened from behavioral change driven by consistent coaching."
+    },
+    {
+      "need": "Partner with Product Owners to keep backlogs healthy, refined, and ready",
+      "answer": "Deep PO partnership is the consistent pattern: Eptura (10 POs), Crocs (business owners + PO), Understood.org, A&E (product roadmap alignment), Paperless Post (backlog health and Optimizely-tied outcomes).",
+      "detail": "I coach Product Owners on the difference between a story that is technically written and a story that is execution-ready. At Eptura I maintained DoR/DoD discipline across all teams and partnered with POs on backlog grooming and prioritization. At Paperless Post I aligned Jira tagging to Optimizely so backlog work tied directly to measurable product outcomes. PO partnership is not meeting attendance — it is making the backlog trustworthy."
+    },
+    {
+      "need": "Software-literate background — SDLC, CI/CD, release rhythms",
+      "answer": "Front-end engineering background. Six production applications shipped this year via GitHub Actions CI/CD. Can read code, follow a system diagram, and engage substantively on a technical trade-off.",
+      "detail": "I have been a front-end engineer (Organic Inc., Flavorpill), and I have shipped six production applications this year using Claude Code, GitHub Actions, React, TypeScript, Web Audio API, and Three.js/WebGL. The software-literate background is not theoretical — I built the CI/CD pipelines, debugged the edge cases, and pushed the production deployments. That means conversations with your engineering teams are grounded, not abstract."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The delivery ecosystem.",
+    "subhead": "The tools I build on, configure, and maintain — not just use.",
+    "nodes": [
+      {
+        "label": "Jira",
+        "desc": "Workflows, custom fields, sprint boards, velocity dashboards, flow metrics, burndown, Jira Service Desk, Jira AI — configured and maintained at program scale",
+        "pm_role": "Jira configuration owner for the PMO at Eptura (~10 teams). Built Jira from scratch at A&E (from Post-it notes). Used Jira AI for backlog synthesis and sprint summaries at Crocs."
+      },
+      {
+        "label": "Confluence",
+        "desc": "Team documentation, working agreements, Definition of Done, retrospective-to-action tracking, process frameworks",
+        "pm_role": "Standardized Jira/Confluence configuration across teams so delivery artifacts are findable, current, and trustworthy — not siloed per team."
+      },
+      {
+        "label": "Azure DevOps (ADO)",
+        "desc": "Board management, sprint tracking, delivery health dashboards, release readiness reporting",
+        "pm_role": "Maintained ADO delivery dashboards at Eptura and Crocs; used alongside Jira for cross-platform visibility."
+      },
+      {
+        "label": "Smartsheet",
+        "desc": "Program-level reporting, capacity planning, leadership dashboards, roadmap tracking",
+        "pm_role": "Built leadership-level delivery health reports at Eptura that synthesized across all ~10 teams into a single view."
+      },
+      {
+        "label": "GitHub Actions / CI/CD",
+        "desc": "CI/CD pipelines for six production applications — build, test, deploy to GitHub Pages",
+        "pm_role": "Hands-on CI/CD experience that makes release rhythm conversations with engineering teams credible. I know what a deployment pipeline looks like from the inside."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "Sprint velocity drops 30% with no obvious cause — third consecutive sprint",
+      "response": [
+        "Pull individual story completion data — is the drop uniform or concentrated in one team member or workstream?",
+        "Check if story size crept up without explicit sizing adjustment",
+        "1:1s with engineers before the retrospective — not after",
+        "Retrospective with explicit framing: 'Three sprints of this — what changed and what haven't we named yet?'",
+        "Jira flow metrics review: where in the workflow are stories stalling?"
+      ]
+    },
+    {
+      "scenario": "Cross-team dependency blocks two teams simultaneously mid-sprint",
+      "response": [
+        "Convene an unscheduled sync immediately — not at the next Scrum-of-Scrums",
+        "Map the full dependency chain: who owns the blocker, what unblocks it, and how long?",
+        "Assess sprint goal impact across both teams — is a goal-preserving scope swap possible?",
+        "Escalate to leadership with a clear ask: decision needed, timeline, impact of delay",
+        "Update dependency tracking in Jira and communicate resolution status to all stakeholders"
+      ]
+    },
+    {
+      "scenario": "Product Owner is consistently unavailable for backlog refinement — stories entering sprint unready",
+      "response": [
+        "Name the pattern directly in a 1:1 — not in a team ceremony",
+        "Quantify the cost: how many sprint stories have failed DoR in the last three sprints?",
+        "Propose a structural solution: time-boxed async refinement, delegated acceptance criteria, explicit DoR gate in sprint planning",
+        "Escalate to Product leadership if availability is structural, not personal",
+        "In the interim: enforce DoR at sprint planning — do not let unready stories into the sprint"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Sprint ceremonies end with decisions made and action items owned — no deferred follow-ups",
+    "Retrospectives produce at least one measurable workflow change per sprint, tracked to resolution",
+    "Delivery metrics published before leadership asks for them — proactive, not reactive",
+    "Cross-team dependencies mapped and surfaced at Scrum-of-Scrums before they block delivery",
+    "Impediments have owners and resolution timelines within 24 hours of surfacing",
+    "Product Owner is a partner, not a meeting participant — I know what is in the backlog and why",
+    "Leadership updates are honest about risk — I do not smooth over problems"
+  ],
+
+  "track_record": [
+    {
+      "company": "Eptura",
+      "role": "Senior Scrum Master / Agile Coach — Product PMO",
+      "period": "2022–2023",
+      "points": [
+        "~10 distributed product engineering teams (India and California) building commercial SaaS",
+        "Jira configuration owner for the full PMO — workflows, dashboards, velocity and flow reporting",
+        "35%+ delivery efficiency gain; 20% sprint carryover reduction",
+        "Agile adoption from scratch in Marketing; junior SM mentorship org-wide"
+      ]
+    },
+    {
+      "company": "A&E Television Networks",
+      "role": "Scrum Master & Agile Coach",
+      "period": "2016–2018",
+      "points": [
+        "~10 concurrent SVOD product workstreams (Web, iOS, tvOS, Android, Roku)",
+        "Built Jira from scratch for all teams — workflows, boards, dashboards",
+        "Scrum-of-Scrums across ~6 teams; cultural shift from Post-it notes to structured delivery",
+        "Shipped all products against externally committed launch windows"
+      ]
+    },
+    {
+      "company": "Paperless Post",
+      "role": "Scrum Master & Agile Coach",
+      "period": "2018–2019",
+      "points": [
+        "2 concurrent product teams (iOS + mobile-web) on the Flyer event-management platform",
+        "Tied Jira backlog to Optimizely A/B testing outcomes — delivery connected to measurable product results",
+        "Delivered NEXUS Scrum coaching; standardized Jira/Confluence configuration across both teams"
+      ]
+    },
+    {
+      "company": "Crocs, Inc.",
+      "role": "Scrum Master & PM — Release Governance (Contract)",
+      "period": "2026",
+      "points": [
+        "Release governance for a global publicly traded retailer — go/no-go, CAB approval, SOX-compliant",
+        "Built Release Radar framework giving leadership real-time delivery visibility",
+        "Jira AI embedded in delivery workflows; administrative overhead reduced ~30%",
+        "On-time go-live with clean post-launch stabilization"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "Sprint planning ends with commitments that teams don't believe in — but nobody said so",
+      "Cross-team dependencies are discovered after they've already blocked delivery",
+      "Leadership gets a dashboard that shows activity, not honest risk and health",
+      "Product Owner partnership is transactional — backlogs are written but not execution-ready"
+    ],
+    "after": [
+      "Sprint commitments are realistic, owned, and visible in Jira before planning ends",
+      "Dependencies are mapped and surfaced at Scrum-of-Scrums before they block anyone",
+      "Leadership gets velocity, flow, and predictability metrics with honest commentary on what they mean",
+      "PO partnership is continuous — I know what is coming in the next two sprints and why"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Week 1",
+      "deliverable": "Jira audit across both teams — current workflow health, dashboard gaps, metric baselines. Meet every PO, tech lead, and team member. No changes yet; listen first."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Facilitate first full ceremony cycle. Identify top 3 impediments and accountability gaps per team. Propose first Jira improvement to Director, Product Operations."
+    },
+    {
+      "timeframe": "Week 3–4",
+      "deliverable": "Delivery metrics baseline published. First retrospective with measurable output. Cross-team dependency map complete. Direct coaching conversations underway where needed."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Running both teams cleanly. Leadership has honest visibility into health, predictability, and risk. No supervision needed — clear escalation paths established."
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "slug": "agile-coach",
+  "company": "Your Organization",
+  "role": "IT Scrum Master / Agile Team Coach",
+  "subtitle": "Team Dynamics · Coaching · AI-Enhanced Facilitation",
+  "hero_title": "Positive. Steady.<br><em>Direct.</em>",
+  "hero_sub": "I build trust quickly and hold a high accountability bar simultaneously. That combination is rarer than it sounds.",
+
+  "the_case": [
+    {
+      "need": "Proven experience improving team dynamics in low-accountability or high-friction environments",
+      "answer": "Distressed program recovery at Understood.org. Cultural transformation at A&E (Post-its to Jira). Dysfunction remediation at Eptura. Resistance navigation at Underline.",
+      "detail": "I've rebuilt team health in environments where trust was broken, accountability was absent, and delivery was stalling. At Understood.org I took over a distressed program in its final months and restored both team confidence and delivery discipline simultaneously. That's the hardest version of this job."
+    },
+    {
+      "need": "Demonstrated AI ability — as a thought partner and capability multiplier",
+      "answer": "Jira AI + Copilot at Crocs (~30% overhead reduction). Six production AI-assisted applications shipped. AI embedded in planning, coaching, and reporting workflows across multiple engagements.",
+      "detail": "I use AI to get sharper, faster insight from delivery data — not to automate the human parts of coaching. At Crocs I used Jira AI to surface patterns in backlog health and retrospective themes I would have caught later manually. That's the multiplier effect: more coaching time, less administrative time."
+    },
+    {
+      "need": "Ability to support 3–7 Scrum teams simultaneously",
+      "answer": "Eptura: ~10 teams simultaneously. A&E: ~10 concurrent workstreams. Paperless Post: 2 teams. DigitasLBI: 2 teams. Multi-team coordination is the standard, not the exception.",
+      "detail": "Supporting multiple teams isn't about splitting time evenly — it's about reading which team needs what at which moment. I've supported up to 10 teams simultaneously while maintaining individual coaching relationships with each Product Owner and team lead."
+    },
+    {
+      "need": "Address negative behaviors directly and constructively",
+      "answer": "Direct, specific, non-judgmental feedback delivered immediately — not deferred to the next scheduled event.",
+      "detail": "I don't let negative patterns run for a sprint before addressing them. When I see accountability gaps, communication breakdowns, or dysfunctional dynamics, I name them clearly and early. Not in public, not as criticism — as a coaching conversation with a specific ask."
+    },
+    {
+      "need": "Coach teams and stakeholders on Agile principles and ways of working",
+      "answer": "10+ years coaching engineers, Product Owners, and leadership on Agile principles. NEXUS Scrum coaching at Paperless Post. Agile adoption from scratch at Underline, Eptura Marketing, and A&E.",
+      "detail": "I adapt coaching to maturity level. A team that has never run a retrospective needs different coaching than a team that's been doing Scrum for two years but has stopped improving. I assess first, then coach — not the other way around."
+    },
+    {
+      "need": "Use AI to enhance team effectiveness, insight, and decision-making",
+      "answer": "Active daily user of Copilot, Jira AI, and Claude in delivery and coaching workflows — not aspirationally, but operationally.",
+      "detail": "The AI tools requirement in this posting is real and specific — and most SM candidates can't satisfy it on paper. I use these tools actively: for planning synthesis, retrospective theme analysis, stakeholder communication, and coaching conversation preparation."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The coaching ecosystem.",
+    "subhead": "The tools and frameworks I use to coach teams toward high performance.",
+    "nodes": [
+      {
+        "label": "Jira & Jira AI",
+        "desc": "Primary delivery tracking and AI-assisted backlog synthesis, sprint summaries, and pattern detection",
+        "pm_role": "Maintain board health, configure workflows, and use Jira AI to surface delivery patterns that inform coaching interventions."
+      },
+      {
+        "label": "Azure DevOps (ADO)",
+        "desc": "Enterprise delivery tracking at Eptura, Understood.org, and Crocs",
+        "pm_role": "Board configuration, sprint dashboards, and team health metrics — used to identify where coaching energy should be focused."
+      },
+      {
+        "label": "Microsoft Copilot",
+        "desc": "AI-assisted stakeholder communication, meeting synthesis, and administrative overhead reduction",
+        "pm_role": "Frees coaching time by automating the administrative layer — status updates, decision logs, retrospective summaries."
+      },
+      {
+        "label": "Claude (AI)",
+        "desc": "AI thought partner for coaching preparation, delivery analysis, and complex problem synthesis",
+        "pm_role": "Used to prepare for difficult coaching conversations, analyze delivery data patterns, and synthesize retrospective themes across multiple teams."
+      },
+      {
+        "label": "Confluence & Smartsheet",
+        "desc": "Team agreements, process documentation, and health tracking",
+        "pm_role": "Working agreements, Definition of Done, team health frameworks, and continuous improvement tracking across teams."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "Team has high velocity but low morale — delivering but not thriving",
+      "response": [
+        "Separate the performance conversation from the health conversation",
+        "One-on-ones with each team member — not a group survey",
+        "Identify whether the issue is workload, recognition, collaboration, or leadership",
+        "Facilitate a team health retrospective with explicit psychological safety framing",
+        "Bring findings to leadership with specific, actionable recommendations — not just a diagnosis"
+      ]
+    },
+    {
+      "scenario": "Product Owner and Engineering Lead are misaligned on priorities — visible tension in ceremonies",
+      "response": [
+        "Address it before the next sprint planning — not during it",
+        "Separate conversation with each to understand the real disconnect",
+        "Facilitate a structured prioritization session with explicit trade-off framework",
+        "Document the agreed decision and who owns it",
+        "Use the next retrospective to examine the process that allowed the misalignment to develop"
+      ]
+    },
+    {
+      "scenario": "Team is going through the motions — ceremonies happening but not producing anything",
+      "response": [
+        "Name the pattern explicitly: 'We've been doing this for N sprints and nothing is changing'",
+        "Change the format completely for one sprint — different facilitation, different structure",
+        "Identify what's suppressing honest engagement: safety, relevance, or habit",
+        "Introduce a concrete, small experiment — one change, measurable in one sprint",
+        "If the team can't identify what needs to change, that IS the diagnosis to bring to leadership"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Ceremonies produce decisions, not just discussion — I hold the room to that standard",
+    "Retrospectives generate at least one measurable workflow change per sprint",
+    "Difficult conversations happen in the moment — not at the next scheduled retrospective",
+    "Team health is assessed continuously, not annually — I know the state of each team",
+    "AI tools reduce my administrative load so I can spend more time coaching",
+    "Impediments have owners and deadlines within 24 hours of surfacing",
+    "I build trust by being consistent, direct, and following through — every time"
+  ],
+
+  "track_record": [
+    {
+      "company": "Eptura",
+      "role": "Agile Coach & Senior Scrum Master",
+      "period": "2022–2023",
+      "points": [
+        "Coached ~10 distributed teams through behavioral and cultural transformation",
+        "Spearheaded Agile adoption in Marketing department — zero prior Agile practice",
+        "35%+ delivery efficiency gain; 20% sprint carryover reduction",
+        "Mentored junior Scrum Masters; built org-wide Agile coaching framework"
+      ]
+    },
+    {
+      "company": "Understood.org",
+      "role": "Digital Producer & Scrum Master",
+      "period": "2019–2020",
+      "points": [
+        "Rebuilt team health and delivery discipline in a distressed, high-friction program",
+        "Restored stakeholder confidence while simultaneously accelerating delivery",
+        "On-time replatform launch with no critical regressions after taking over mid-program",
+        "Operated in regulated, healthcare-adjacent environment with real compliance stakes"
+      ]
+    },
+    {
+      "company": "A&E Television Networks",
+      "role": "Scrum Master & Agile Coach",
+      "period": "2016–2018",
+      "points": [
+        "Led cultural transformation across ~10 teams over 2 years",
+        "Coached teams from ad-hoc manual delivery to self-organizing Agile execution",
+        "Coached Product Owners on backlog accountability and sprint discipline",
+        "Shipped all SVOD platforms while building team maturity simultaneously"
+      ]
+    },
+    {
+      "company": "Underline Communications",
+      "role": "Agile Coach & SaaS Transformation Manager",
+      "period": "2015–2016",
+      "points": [
+        "Sold Scrum to a skeptical leadership team that had never used Agile",
+        "Coached through full adoption arc — initial resistance to confident delivery",
+        "Enterprise SaaS platform delivered in 16 weeks, on time and under budget"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "Ceremonies are happening but team dynamics are getting worse, not better",
+      "You're handling team conflict because the SM isn't addressing it",
+      "AI tools are mentioned in job descriptions but nobody on the team actually uses them in delivery",
+      "High performers are leaving because the team environment is draining them"
+    ],
+    "after": [
+      "Team dynamics improve measurably over 60 days — tracked, not assumed",
+      "Conflict surfaces and resolves at the team level before it reaches you",
+      "AI tools are embedded in actual delivery workflows, reducing overhead and sharpening insight",
+      "The team becomes a place people want to work — retention improves as a downstream effect"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Week 1",
+      "deliverable": "Map real team dynamics across all 3–7 teams. One-on-ones with each team lead and PO. Identify the top accountability and health gaps before facilitating anything."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Facilitate first full ceremony cycle. Introduce one team health framework. Begin direct coaching conversations where needed."
+    },
+    {
+      "timeframe": "Week 3–4",
+      "deliverable": "First retrospective with measurable output. AI tools embedded in at least one workflow. Team health baseline documented."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "At least one team dynamic measurably improved. Leadership has a clear, evidence-based picture of team health across all teams."
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "slug": "davita",
+  "company": "DaVita",
+  "role": "Scrum Master III",
+  "subtitle": "Release Train Execution · Agile Metrics · Colorado-Based",
+  "hero_title": "Clean sprints.<br>Early risks.<br><em>On-time.</em>",
+  "hero_sub": "I facilitate 2–3 concurrent teams, create the metrics that actually drive improvement, and remove impediments before they become problems. Georgetown, CO — 45 minutes from Denver.",
+
+  "the_case": [
+    {
+      "need": "Facilitate agile scrum team execution for 2–3 scrum teams",
+      "answer": "Eptura: ~10 teams simultaneously. A&E: ~10 concurrent workstreams. Paperless Post: 2 teams. DigitasLBI: 2 teams. Supporting 2–3 is the comfortable range.",
+      "detail": "Multi-team facilitation is the standard pattern of my career. I've managed up to 10 concurrent teams while maintaining individual coaching relationships with each PO and tech lead. 2–3 teams is a focused, effective zone."
+    },
+    {
+      "need": "Create, modify, publish and leverage standardized Agile Metrics",
+      "answer": "Built standardized metrics at Eptura across ~10 teams: velocity, burndown, cycle time, team health. Published in ADO, Jira, and Smartsheet. Used metrics to identify trends and target improvement.",
+      "detail": "Metrics are a coaching tool, not a reporting obligation. At Eptura I built the metrics infrastructure that gave leadership visibility and gave me the patterns to drive targeted coaching. The 35%+ efficiency gain and 20% carryover reduction came from acting on what the metrics showed — not just publishing them."
+    },
+    {
+      "need": "Release train execution and SAFe environment",
+      "answer": "PI Planning and release train coordination at Eptura (enterprise SaaS) and DigitasLBI/SunTrust (SAFe, PI-aligned, SOX-compliant financial services).",
+      "detail": "I've operated in PI-aligned release train environments at two distinct scales: Eptura (enterprise SaaS PMO, ~10 teams) and DigitasLBI (SAFe enterprise, regulated financial services). PI Planning, ART coordination, and release train dependencies are established practice."
+    },
+    {
+      "need": "Work with multiple in-house and external Scrum teams enterprise-wide",
+      "answer": "Scrum-of-Scrums across ~10 teams at Eptura and ~6 teams at A&E. Cross-team dependency management and horizontal alignment at program level.",
+      "detail": "Enterprise-wide coordination requires a different skillset than team-level facilitation. I've facilitated Scrum-of-Scrums, managed cross-team dependencies, and maintained horizontal alignment across programs with up to 10 teams — with onshore and offshore components."
+    },
+    {
+      "need": "Provide coaching on agile practices for assigned and other scrum teams",
+      "answer": "Agile coaching across all 10 teams at Eptura. NEXUS Scrum coaching at Paperless Post. Agile adoption from scratch at Underline and in the Marketing department at Eptura.",
+      "detail": "Coaching scales when it's structured. I built Agile training packages at Paperless Post, facilitated org-wide mentorship at Eptura, and coached teams through varying maturity levels with tailored approaches. Not one-size-fits-all."
+    },
+    {
+      "need": "Azure DevOps experience",
+      "answer": "Direct ADO experience at Understood.org (2019–2020), Eptura (2022–2023), and Crocs (2026). Board configuration, workflow management, sprint tracking, delivery dashboards.",
+      "detail": "ADO is my primary enterprise delivery tool alongside Jira. At Eptura I was the ADO configuration owner for the PMO — standardizing workflows, fields, and dashboards across all teams. At Crocs I used ADO for release readiness tracking and go/no-go reporting."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The delivery toolset.",
+    "subhead": "The tools I use to run clean delivery and surface what matters.",
+    "nodes": [
+      {
+        "label": "Azure DevOps (ADO)",
+        "desc": "Enterprise delivery tracking — boards, sprint tracking, release dashboards, dependency management",
+        "pm_role": "Configure and maintain board structure, standardize workflows across teams, build delivery health dashboards, and track release train dependencies."
+      },
+      {
+        "label": "Jira & Jira AI",
+        "desc": "Team-level delivery tracking — epics, stories, sprint boards, burndown, velocity",
+        "pm_role": "Sprint board management, backlog grooming support, metric tracking. Jira AI used for backlog synthesis and sprint summaries."
+      },
+      {
+        "label": "Smartsheet",
+        "desc": "Program-level reporting, roadmap tracking, and resource capacity planning",
+        "pm_role": "Leadership dashboards, milestone tracking, cross-team dependency mapping, and capacity planning against sprint commitments."
+      },
+      {
+        "label": "Microsoft Copilot",
+        "desc": "AI-assisted reporting, stakeholder communication, and administrative overhead reduction",
+        "pm_role": "Reduces time on status reporting and summary documentation — freeing capacity for actual coaching and impediment removal."
+      },
+      {
+        "label": "Confluence",
+        "desc": "Documentation, team agreements, and process frameworks",
+        "pm_role": "Working agreements, Definition of Done, retrospective-to-action tracking, and process improvement documentation."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "Sprint carryover rate is increasing across two consecutive sprints",
+      "response": [
+        "Diagnose before acting: capacity problem, readiness problem, or commitment problem?",
+        "Pull burndown data and story completion rates — find the pattern, not just the symptom",
+        "Partner with PO on backlog readiness — are stories entering sprint execution-ready?",
+        "Introduce WIP limits if the team is context-switching between too many items",
+        "Retrospective: what specifically changed between the last clean sprint and now?"
+      ]
+    },
+    {
+      "scenario": "Cross-team dependency blocking two teams simultaneously mid-sprint",
+      "response": [
+        "Convene an immediate Scrum-of-Scrums — not at the next scheduled cadence",
+        "Map the dependency chain: who owns the blocker, what unblocks it, how long?",
+        "Assess sprint goal impact: can impacted work be swapped without breaking commitments?",
+        "Escalate to leadership with a clear ask — decision needed, not just awareness",
+        "Update release train risk register; surface in next ART sync with resolution status"
+      ]
+    },
+    {
+      "scenario": "Release train metrics show velocity increasing but quality is declining",
+      "response": [
+        "Velocity without quality is a vanity metric — name that directly to the team",
+        "Pull defect rate, escaped defects, and post-sprint bug counts alongside velocity",
+        "Investigate whether Definition of Done is actually being enforced or bypassed",
+        "Introduce quality gates at story level, not just sprint level",
+        "Retrospective with explicit quality framing: 'We're shipping more but breaking more — what's the trade-off we're making?'"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Sprint ceremonies end with documented decisions and committed action items — not follow-up emails",
+    "Standardized metrics published before leadership asks for them",
+    "Impediments have owners and resolution timelines within 24 hours of surfacing",
+    "Backlog refinement produces execution-ready stories — no ambiguity entering sprint planning",
+    "Cross-team dependencies mapped and surfaced at Scrum-of-Scrums before they become blockers",
+    "Release train coordination runs on cadence — PI Planning, ART syncs, and system demos on schedule",
+    "Retrospective actions tracked sprint-over-sprint until resolved — not forgotten"
+  ],
+
+  "track_record": [
+    {
+      "company": "Crocs, Inc.",
+      "role": "Scrum Master & PM (Contract)",
+      "period": "May–Jun 2026",
+      "points": [
+        "Release train execution for a global e-commerce retailer — go/no-go governance across Engineering, QA, Change, and Business",
+        "ADO and Jira boards maintained throughout; delivery metrics published to leadership in real time",
+        "On-time go-live with clean post-launch stabilization"
+      ]
+    },
+    {
+      "company": "Eptura",
+      "role": "Agile Coach & Senior Scrum Master",
+      "period": "2022–2023",
+      "points": [
+        "PI-aligned delivery across ~10 distributed teams (India and California)",
+        "Created and published standardized Agile metrics in ADO, Jira, and Smartsheet",
+        "35%+ delivery efficiency gain; 20% sprint carryover reduction",
+        "Mentored junior Scrum Masters; facilitated Scrum-of-Scrums enterprise-wide"
+      ]
+    },
+    {
+      "company": "DigitasLBI / SunTrust",
+      "role": "Scrum Master (CSM) — SAFe Enterprise",
+      "period": "2014",
+      "points": [
+        "Scrum Master for 2 teams in a SAFe, PI-aligned release train",
+        "SOX-compliant financial-services environment — governance-aligned transparency required",
+        "Tracked velocity and utilization via HP Agile Tracker and Rally",
+        "Coordinated offshore QA (Costa Rica) across time-zone delivery complexity"
+      ]
+    },
+    {
+      "company": "A&E Television Networks",
+      "role": "Scrum Master & Agile Coach",
+      "period": "2016–2018",
+      "points": [
+        "~10 concurrent SVOD workstreams across Web, iOS, tvOS, Android, Roku",
+        "Facilitated Scrum-of-Scroms across ~6 teams; managed cross-team dependencies",
+        "Published velocity and burndown metrics to leadership throughout",
+        "Shipped all platforms against externally visible launch windows"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "Metrics exist but don't drive any actual change in team behavior",
+      "Release train dependencies are discovered late — after they've already created problems",
+      "Sprint carryover is accepted as normal rather than diagnosed and fixed",
+      "You're doing impediment removal because the SM isn't catching things early enough"
+    ],
+    "after": [
+      "Metrics are published proactively and used to target specific coaching interventions",
+      "Dependencies are mapped and surfaced at Scrum-of-Scrums before they block delivery",
+      "Carryover is treated as a diagnostic signal, not a scheduling inconvenience — and it decreases",
+      "Impediments have owners and timelines within 24 hours — you never have to ask"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Week 1",
+      "deliverable": "ADO and Jira access. Attend all active ceremonies as observer. Map current team dynamics, metrics baseline, and open impediments."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Facilitate first full ceremony cycle for 2–3 teams. Publish first standardized metrics report. Introduce one process improvement per retrospective."
+    },
+    {
+      "timeframe": "Week 3–4",
+      "deliverable": "Full ownership of all assigned team ceremonies. Cross-team dependency map complete. Release train coordination running on cadence."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Metrics infrastructure established and publishing regularly. First measurable improvement documented. No supervision needed — just clear escalation paths."
+    }
+  ]
+}
