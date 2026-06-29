@@ -1,0 +1,197 @@
+{
+  "slug": "sr-agile-lead",
+  "company": "Your Organization",
+  "role": "Senior Agile Lead",
+  "subtitle": "Facilitator · Coach · Change Agent · Cloud & Healthcare Technology",
+  "hero_title": "Facilitator. Coach.<br><em>Change agent.</em>",
+  "hero_sub": "Ten years embedding agile frameworks across cross-functional technical teams — driving flow optimization, coaching agile maturity, and delivering measurable outcomes in cloud and regulated environments.",
+
+  "the_case": [
+    {
+      "need": "Facilitate and champion agile frameworks across cross-functional technical delivery teams",
+      "answer": "Eptura: facilitated agile delivery across ~10 distributed cross-functional technical teams in a cloud-based enterprise SaaS environment. A&E: ~10 concurrent product workstreams. Paperless Post: 2 concurrent teams. All technical, all cross-functional.",
+      "detail": "Facilitating agile frameworks across cross-functional technical teams is the consistent pattern across ten years. At Eptura I drove alignment between product, engineering, cloud services, and implementation functions across ~10 teams spanning India and California. At A&E I facilitated synchronization across Engineering, QA, UX, Content, and Implementation functions simultaneously. The ability to operate across the full cross-functional matrix — technical and non-technical, onshore and offshore — is established practice."
+    },
+    {
+      "need": "Promote flow optimization — bottleneck identification, dependency management, delivery streams",
+      "answer": "35%+ delivery efficiency gain at Eptura through flow optimization, bottleneck identification, and dependency management. ~25% cycle time reduction at OVRSTCH. ~30% throughput improvement at Stealth AI. All data-driven.",
+      "detail": "Flow optimization is not a methodology — it is a measurement discipline. At Eptura I built and maintained ADO and Jira dashboards tracking velocity, cycle time, and predictability across ~10 teams, used the data to identify systemic bottlenecks, and drove targeted interventions. At OVRSTCH I mapped the production-to-fulfillment pipeline, identified a sequencing bottleneck, and re-structured the workflow — cycle time dropped ~25%. At Stealth AI I diagnosed data pipeline bottlenecks and improved throughput ~30% through workflow redesign. Every gain was measured before it was claimed."
+    },
+    {
+      "need": "Coach teams and leaders on agile principles, continuous improvement, and lean value delivery",
+      "answer": "Eptura: coached ~10 teams and POs through varying agile maturity levels. Spearheaded agile adoption in Marketing (zero prior practice). Mentored junior Scrum Masters. A&E: two-year cultural transformation. Underline: established agile from scratch.",
+      "detail": "Coaching agile maturity requires patience, directness, and a willingness to coach the leader as well as the team. At Eptura I coached a Marketing department that had never used agile and had actively resisted it — within one PI they were running clean ceremonies and tracking their own velocity. At A&E I coached ~10 teams over two years from ad-hoc Post-it tracking to structured, data-driven delivery. At Underline I sold agile to skeptical leadership, trained the team, and delivered in 16 weeks. The coaching track record is sustained behavioral change, not workshop attendance."
+    },
+    {
+      "need": "Cloud infrastructure concepts — Azure, Kubernetes, CI/CD pipelines",
+      "answer": "Azure/Kubernetes delivery environments confirmed at Understood.org (2019–2020), Eptura (2022–2023), and Crocs (2026). CI/CD hands-on via GitHub Actions across six production applications.",
+      "detail": "I have supported delivery in Azure and Kubernetes cloud environments across three documented engagements. I have built CI/CD pipelines via GitHub Actions across six production applications this year. I can engage substantively on cloud infrastructure concepts, technical dependencies, and release pipeline decisions — not as an operator, but as a credible delivery partner to cloud engineers."
+    },
+    {
+      "need": "Healthcare technology or interoperability domain (strong plus)",
+      "answer": "Understood.org (2019–2020): regulated, healthcare-adjacent delivery environment. Data interoperability platform. Privacy, security, and confidentiality standards enforced throughout. WCAG 2.1 AA compliance as core Definition of Done.",
+      "detail": "At Understood.org I facilitated agile delivery for a platform serving users with learning and attention differences — a healthcare-adjacent, regulated context with real compliance stakes. The program involved data content requirements, accessibility standards (WCAG 2.1 AA), and compliance-conscious delivery processes across a globally distributed team (12+ countries). I upheld privacy and confidentiality standards throughout. This is the closest analog to healthcare technology delivery in my background — honest about the gap on FHIR/EHR specifics, genuine about the regulated delivery discipline."
+    },
+    {
+      "need": "Lead agile education — workshops, training sessions, ongoing coaching",
+      "answer": "Eptura: org-wide agile mentorship program, global alignment meetings, Marketing department adoption. Paperless Post: NEXUS Scrum coaching and customized agile training packages. Underline: established agile from zero.",
+      "detail": "Agile education is not a one-time workshop — it is a sustained program. At Eptura I facilitated global alignment meetings, ran team-level coaching sessions, and built the agile mentorship structure that supported ~10 teams and junior Scrum Masters. At Paperless Post I built and delivered customized agile training packages for two product teams. At Underline I designed the agile adoption curriculum for an organization that had never used agile and trained the team through the entire first 16-week delivery cycle."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The delivery ecosystem.",
+    "subhead": "The tools and frameworks I use to optimize flow and make delivery visible.",
+    "nodes": [
+      {
+        "label": "Azure DevOps (ADO)",
+        "desc": "Board configuration, sprint tracking, flow metrics dashboards, KPI reporting, delivery health visibility",
+        "pm_role": "ADO configuration owner at Eptura PMO (~10 teams). Real-time release dashboards at Crocs. Program-level delivery tracking at Understood.org."
+      },
+      {
+        "label": "Jira & Jira AI",
+        "desc": "Team-level delivery tracking — sprint boards, backlogs, velocity, burndown — plus AI-assisted backlog synthesis, sprint summaries, and reporting",
+        "pm_role": "Built Jira from scratch for ~10 teams at A&E. Standardized Jira across the Eptura PMO. Used Jira AI at Crocs — ~30% overhead reduction with improved reporting quality."
+      },
+      {
+        "label": "Azure / Kubernetes / CI/CD",
+        "desc": "Cloud infrastructure delivery environments; CI/CD pipelines via GitHub Actions",
+        "pm_role": "Supported delivery in Azure/Kubernetes environments at Understood.org, Eptura, and Crocs. Hands-on CI/CD via GitHub Actions across six production applications — credible cloud delivery partner."
+      },
+      {
+        "label": "Microsoft Copilot",
+        "desc": "AI-assisted documentation, stakeholder communication, and reporting — upholding internal reporting standards efficiently",
+        "pm_role": "Embedded at Crocs for SM documentation and reporting. Reduces administrative overhead so coaching time goes to actual coaching."
+      },
+      {
+        "label": "Confluence & Smartsheet",
+        "desc": "Documentation, agile education materials, program-level reporting, capacity planning dashboards",
+        "pm_role": "Standardized agile documentation across Eptura PMO. Built Smartsheet leadership dashboards synthesizing delivery health across ~10 teams."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "Delivery flow stalls — velocity declining, cycle time increasing, no obvious cause",
+      "response": [
+        "Pull flow metrics from ADO and Jira — where in the workflow are items stalling?",
+        "Diagnose before acting: is the bottleneck in development, review, QA, or deployment?",
+        "Map the dependency chain — is a cross-team dependency creating the systemic delay?",
+        "Retrospective with explicit framing: 'The data shows X — what are we not saying about why?'",
+        "Introduce a targeted intervention (WIP limit, pairing, dependency unblock) and measure the effect"
+      ]
+    },
+    {
+      "scenario": "Alignment breaks down between Cloud Services, Development, and Implementation teams",
+      "response": [
+        "Convene an unscheduled cross-team sync — not at the next PI cadence",
+        "Surface the specific misalignment: competing priorities, unclear ownership, or dependency conflict?",
+        "Facilitate the prioritization decision with the right decision-makers in the room",
+        "Document the outcome and communicate it to all functions with explicit owner assignments",
+        "Build a lightweight synchronization cadence to prevent the gap from reopening"
+      ]
+    },
+    {
+      "scenario": "Team is resistant to agile education — 'we already know how to do agile'",
+      "response": [
+        "Validate before pushing back — sometimes the team is right and the process is wrong",
+        "Use their own delivery data: 'Here is what the flow metrics show over the last three sprints'",
+        "Find the pain point they actually have and connect the coaching to solving that specific problem",
+        "Start with one small experiment rather than a framework adoption",
+        "If the resistance is cultural and leadership-driven, escalate with data and a specific ask"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Agile education is continuous — not a one-time workshop followed by a return to old habits",
+    "Flow metrics are visible to the team, not just leadership — they own the data too",
+    "Cross-team synchronization runs on a regular cadence so misalignment surfaces early",
+    "Capacity planning conversations happen before the sprint, not after it over-commits",
+    "Impediments have owners and timelines within 24 hours — not at the next retrospective",
+    "Coaching is outcome-specific — I coach toward the delivery problem the team actually has",
+    "Privacy, security, and confidentiality standards are built into delivery practices, not checked afterward"
+  ],
+
+  "track_record": [
+    {
+      "company": "Eptura",
+      "role": "Agile Coach & Senior Agile Lead — Enterprise PMO",
+      "period": "2022–2023",
+      "points": [
+        "~10 distributed cross-functional technical teams, cloud-based enterprise SaaS (Azure/Kubernetes)",
+        "Drove alignment between product, engineering, cloud services, and implementation functions",
+        "35%+ delivery efficiency gain; 20% sprint carryover reduction through coaching and flow optimization",
+        "Led agile education: org-wide mentorship, Marketing adoption, junior SM coaching"
+      ]
+    },
+    {
+      "company": "Understood.org",
+      "role": "Senior Agile Lead — Healthcare-Adjacent, Regulated Environment",
+      "period": "2019–2020",
+      "points": [
+        "Healthcare-adjacent, compliance-conscious delivery environment with data interoperability requirements",
+        "Privacy, security, and confidentiality standards enforced throughout the delivery lifecycle",
+        "Globally distributed team across 12+ countries — synchronization and flow optimization at scale",
+        "On-time delivery with no critical regressions after taking over a distressed program"
+      ]
+    },
+    {
+      "company": "A&E Television Networks",
+      "role": "Senior Agile Lead & Coach — Scaled Multi-Team Delivery",
+      "period": "2016–2018",
+      "points": [
+        "~10 concurrent technical workstreams (Web, iOS, tvOS, Android, Roku) — scaled delivery challenges",
+        "Facilitated synchronization across Development, QA, Content, and Implementation teams",
+        "Led agile education: built Jira from scratch, two-year cultural transformation",
+        "Shipped all platforms against externally committed launch windows"
+      ]
+    },
+    {
+      "company": "Crocs, Inc.",
+      "role": "Senior Agile Lead — Release Governance (Contract)",
+      "period": "2026",
+      "points": [
+        "Championed agile practices across Engineering, QA, Change Management, and Business functions",
+        "Embedded Jira AI and Copilot in delivery workflows — ~30% overhead reduction",
+        "Flow optimization via ADO dashboards; accurate time tracking and internal reporting compliance",
+        "On-time go-live with clean post-launch stabilization in a regulated environment"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "Agile education happened once — teams attended workshops and returned to old habits",
+      "Flow metrics exist but nobody acts on them — they are reporting artifacts, not coaching tools",
+      "Cross-team synchronization is reactive — misalignment is discovered after it has stalled delivery",
+      "Impediments surface at retrospectives instead of standups — too late to protect the sprint"
+    ],
+    "after": [
+      "Agile education is continuous — coaching sessions, workshops, and retrospectives drive sustained behavioral change",
+      "Flow metrics drive targeted interventions — bottlenecks are identified and addressed before they become delivery misses",
+      "Cross-team synchronization runs on cadence — misalignment surfaces early and is resolved with the right people in the room",
+      "Impediments have owners and timelines within 24 hours — momentum is protected, not recovered"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Week 1",
+      "deliverable": "Audit current flow metrics, delivery cadence, and agile maturity across all assigned teams. Meet every team member, PO, cloud services lead, and implementation lead. Understand the current synchronization gaps before proposing anything."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Facilitate first full ceremony cycle. Identify top 3 bottlenecks and alignment gaps. Propose first agile education initiative to leadership."
+    },
+    {
+      "timeframe": "Week 3–4",
+      "deliverable": "Flow metrics dashboard established and publishing. First cross-team synchronization cadence running. Coaching conversations underway with teams showing maturity gaps."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Agile frameworks embedded across assigned teams. Leadership has visibility into flow, predictability, and risk. First measurable improvement in delivery efficiency documented."
+    }
+  ]
+}
