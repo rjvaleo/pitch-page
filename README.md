@@ -1,6 +1,6 @@
 # rjvaleo · Pitch Pages
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?logo=github)](https://rjvaleo.github.io/pitch/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?logo=github)](https://rjvaleo.github.io/pitch-page/)
 [![Built With](https://img.shields.io/badge/Built%20With-HTML%20%7C%20CSS%20%7C%20Vanilla%20JS-blue)](/)
 [![Config Format](https://img.shields.io/badge/Config-JSON-orange)](./jobs/)
 [![No Dependencies](https://img.shields.io/badge/Dependencies-None-lightgrey)](/)
@@ -8,7 +8,7 @@
 
 A single-template, JSON-driven pitch page system for job applications. One HTML template. One CSS file. One JS renderer. One JSON config per job. The result: a custom, evidence-dense pitch page for every application — built in ~30 minutes per role, not from scratch each time.
 
-**Live:** [rjvaleo.github.io/pitch/?job=crocs](https://rjvaleo.github.io/pitch/?job=crocs)
+**Live:** [rjvaleo.github.io/pitch-page/?job=crocs](https://rjvaleo.github.io/pitch-page/?job=crocs)
 
 ---
 
@@ -23,7 +23,7 @@ Each pitch page is a seven-section, evidence-dense case built from the job descr
 The URL goes in the resume header immediately after the name:
 
 ```
-For [Company]: rjvaleo.github.io/pitch/?job=[slug]
+For [Company]: rjvaleo.github.io/pitch-page/?job=[slug]
 ```
 
 That link is the first thing a recruiter sees before reading a single bullet point.
@@ -137,7 +137,7 @@ Copy any existing config and update the fields. The schema:
 }
 ```
 
-Save to `jobs/[slug].json`. The page is live at `rjvaleo.github.io/pitch/?job=[slug]` immediately after push.
+Save to `jobs/[slug].json`. The page is live at `rjvaleo.github.io/pitch-page/?job=[slug]` immediately after push.
 
 ---
 
