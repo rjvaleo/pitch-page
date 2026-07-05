@@ -1,73 +1,111 @@
 {
+  "slug": "level-ai",
   "company": "Level AI",
   "role": "Implementation Manager",
-  "slug": "level-ai",
-  "hero": {
-    "name": "Richard J. Valeo, CSM",
-    "title": "Implementation Manager · AI-Powered Customer Engagement Platforms",
-    "value": "15+ years leading technical onboarding, requirements discovery, and platform configuration for SaaS and AI-powered solutions — with direct experience integrating CRMs, APIs, and cloud platforms for distributed, multi-country client organizations. I own the implementation lifecycle from first discovery call to measurable time-to-value.",
-    "pitch_url": "rjvaleo.github.io/pitch-page/?job=level-ai"
-  },
+  "subtitle": "AI-Powered Customer Engagement Platforms",
+  "hero_title": "The implementation lifecycle,<br>owned <em>end to end</em>.",
+  "hero_sub": "15+ years leading technical onboarding, requirements discovery, and platform configuration for SaaS and AI-powered solutions — with direct experience integrating CRMs, APIs, and cloud platforms for distributed, multi-country client organizations. I own the implementation lifecycle from first discovery call to measurable time-to-value.",
+
   "the_case": [
     {
-      "requirement": "4+ years hands-on technical role; 1+ years delivering customer implementations",
-      "evidence": "15+ years of client-facing technical delivery: Understood.org (CRM integration + replatform implementation), Eptura (SaaS platform adoption across ~10 teams), Crocs (technical discovery + workflow configuration), OVRSTCH (founder-led platform build)"
+      "need": "4+ years hands-on technical role; 1+ years delivering customer implementations",
+      "answer": "15+ years of client-facing technical delivery: Understood.org (CRM integration + replatform implementation), Eptura (SaaS platform adoption across ~10 teams), Crocs (technical discovery + workflow configuration), OVRSTCH (founder-led platform build).",
+      "detail": "Every one of these engagements required the same core motion: understand what the client actually needs, configure the platform to meet it, and prove value fast. That's not a skill I'm claiming abstractly — it's the throughline of every recent role."
     },
     {
-      "requirement": "SaaS platforms, APIs, cloud services",
-      "evidence": "Azure/Kubernetes at Eptura, Crocs, Understood.org; API integrations at OVRSTCH (Stripe, WooPay, ApplePay, Printify); Salesforce CRM integration at Understood.org"
+      "need": "SaaS platforms, APIs, cloud services",
+      "answer": "Azure/Kubernetes at Eptura, Crocs, and Understood.org; API integrations at OVRSTCH (Stripe, WooPay, ApplePay, Printify); Salesforce CRM integration at Understood.org.",
+      "detail": "The API integration work at OVRSTCH wasn't theoretical — Stripe, WooPay, ApplePay, and Printify all had to work together correctly for the business to actually function, with no engineering team behind me if something broke."
     },
     {
-      "requirement": "Project management across multiple simultaneous client implementations",
-      "evidence": "Understood.org: managed a distributed implementation team across 12+ countries; Eptura: coordinated implementation and adoption across ~10 concurrent teams"
+      "need": "Project management across multiple simultaneous client implementations",
+      "answer": "Understood.org: managed a distributed implementation team across 12+ countries. Eptura: coordinated implementation and adoption across ~10 concurrent teams.",
+      "detail": "Multi-country, multi-team coordination has been a constant, not an exception — 12+ countries at Understood.org, ~10 concurrent teams spanning India and California at Eptura."
     },
     {
-      "requirement": "Translating complex technical concepts to non-technical stakeholders",
-      "evidence": "Primary technical point of contact for VP of Engineering (Understood.org) and Operations Board (Eptura); consistently the bridge between engineering and business stakeholders"
+      "need": "Translating complex technical concepts to non-technical stakeholders",
+      "answer": "Primary technical point of contact for the VP of Engineering (Understood.org) and the Operations Board (Eptura) — consistently the bridge between engineering and business stakeholders.",
+      "detail": "Executive-facing technical translation is the specific skill implementation work lives or dies on. I've been the named point of contact stakeholders went to when they needed the real answer, not the simplified one."
     },
     {
-      "requirement": "Entrepreneurial and problem-solving attitude",
-      "evidence": "Founder of OVRSTCH (built and configured an entire AI-native commerce platform solo); engagement lead at a stealth-mode AI startup navigating ambiguous, fast-moving requirements"
+      "need": "Entrepreneurial and problem-solving attitude",
+      "answer": "Founder of OVRSTCH (built and configured an entire AI-native commerce platform solo); engagement lead at a stealth-mode AI startup navigating ambiguous, fast-moving requirements.",
+      "detail": "OVRSTCH is direct proof — no team, no playbook, just building the thing and fixing what broke. That instinct transfers directly to client implementations where the requirements are still taking shape."
     },
     {
-      "requirement": "CRM integration experience (Salesforce)",
-      "evidence": "Direct hands-on Salesforce CRM integration work at Understood.org (2019–2020), delivered alongside a full platform replatform"
+      "need": "CRM integration experience (Salesforce)",
+      "answer": "Direct hands-on Salesforce CRM integration work at Understood.org (2019–2020), delivered alongside a full platform replatform.",
+      "detail": "This is direct experience, not adjacency — I led the Salesforce integration work as part of a larger Sitecore-to-Contentful replatform, coordinating data integration requirements across a distributed team spanning 12+ countries."
     },
     {
-      "requirement": "Familiarity with intent-based and generative AI",
-      "evidence": "Daily practitioner of Claude Code, ChatGPT/GPT-4, and Google Gemini since 2022; led delivery for a startup building fine-tuned LLM models on these same platforms against proprietary datasets"
+      "need": "Familiarity with intent-based and generative AI",
+      "answer": "Daily practitioner of Claude Code, ChatGPT/GPT-4, and Google Gemini since 2022; led delivery for a startup building fine-tuned LLM models on these same platforms against proprietary datasets.",
+      "detail": "Level AI's Auto-QA and Agent Assist products are solving the same class of problem I was implementing at the stealth-mode AI startup — extracting reliable signal from unstructured data using LLMs. This isn't a new domain for me."
     }
   ],
+
   "the_stack": {
-    "description": "Implementation and integration tooling used daily or with direct delivery experience",
-    "tools": [
-      "Salesforce (CRM Integration)",
-      "Claude AI / Claude Code",
-      "ChatGPT / GPT-4",
-      "Google Gemini",
-      "Stripe / WooPay / ApplePay APIs",
-      "Printify API",
-      "Jira",
-      "Azure DevOps",
-      "Confluence",
-      "Smartsheet",
-      "GitHub Actions (CI/CD)"
+    "headline": "The implementation toolkit.",
+    "subhead": "Tools used daily or with direct delivery experience.",
+    "nodes": [
+      {
+        "label": "Salesforce & CRM Integration",
+        "desc": "Direct hands-on CRM integration and data-mapping experience",
+        "pm_role": "Led Salesforce CRM integration at Understood.org alongside a full platform replatform — direct experience, not adjacency."
+      },
+      {
+        "label": "Claude Code & Generative AI",
+        "desc": "Claude AI/Claude Code, ChatGPT/GPT-4, Google Gemini — daily-use AI tooling",
+        "pm_role": "Daily practitioner since 2022. Led delivery for a startup building fine-tuned LLM models on these same platforms."
+      },
+      {
+        "label": "Payment & Fulfillment APIs",
+        "desc": "Stripe, WooPay, ApplePay, Printify — hands-on integration and configuration",
+        "pm_role": "Personally configured and integrated every one of these APIs at OVRSTCH as founder, with no engineering team behind me."
+      },
+      {
+        "label": "Jira & Azure DevOps",
+        "desc": "Administration-level Jira fluency plus Azure/Kubernetes cloud delivery coordination",
+        "pm_role": "Delivered on Azure/Kubernetes infrastructure at Eptura, Crocs, and Understood.org."
+      },
+      {
+        "label": "Confluence, Smartsheet, GitHub Actions",
+        "desc": "Documentation, reporting, and CI/CD coordination",
+        "pm_role": "Used across every recent implementation for client-facing documentation and delivery automation."
+      }
     ]
   },
+
   "when_things_break": [
     {
       "scenario": "A client implementation stalls because requirements were never fully understood before configuration began",
-      "response": "At Understood.org, I inherited a distressed, multi-year program and led technical discovery to fully understand the CRM integration and replatform requirements before proceeding — delivering with zero critical regressions after taking over in its final crucial months."
+      "response": [
+        "At Understood.org, I inherited a distressed, multi-year program in its final crucial months",
+        "Led technical discovery to fully understand the CRM integration and replatform requirements before proceeding",
+        "Did not let configuration outrun understanding, even under deadline pressure",
+        "Result: delivered with zero critical regressions after taking over the program"
+      ]
     },
     {
       "scenario": "Multiple concurrent client/team implementations start competing for the same limited technical resources",
-      "response": "At Eptura, I coordinated SaaS platform adoption and configuration across ~10 distributed teams spanning two continents, standardizing cadences and building executive dashboards so leadership could see where resourcing conflicts were emerging before they became blockers."
+      "response": [
+        "At Eptura, ~10 distributed teams spanning two continents all needed resourcing at once",
+        "Standardized cadences across every team so conflicts became visible early",
+        "Built executive dashboards so leadership could see resourcing conflicts before they became blockers",
+        "Result: 35%+ increase in delivery efficiency across the program"
+      ]
     },
     {
       "scenario": "A solo implementation needs to integrate multiple third-party APIs with no dedicated engineering team",
-      "response": "At OVRSTCH, I personally configured and integrated payment APIs (Stripe, WooPay, ApplePay) and automated fulfillment (Printify API) as the platform's founder, then diagnosed and resolved a production bottleneck that was costing 25% of fulfillment cycle time."
+      "response": [
+        "At OVRSTCH, I personally configured and integrated payment APIs (Stripe, WooPay, ApplePay) and automated fulfillment (Printify API)",
+        "Diagnosed a production bottleneck that was costing 25% of fulfillment cycle time",
+        "Re-sequenced the workflow myself, with no engineering team to hand it to",
+        "Result: cut order-to-fulfillment cycle time ~25%"
+      ]
     }
   ],
+
   "how_i_run_a_room": [
     "Every implementation starts with structured technical discovery — understanding the client's actual requirements before any configuration begins",
     "Client-facing status updates translate technical progress into business terms before the client has to ask",
@@ -76,12 +114,81 @@
     "Retrospectives after each implementation feed directly into faster time-to-value on the next one",
     "Upsell/cross-sell opportunities get flagged as they surface during discovery, not left for account management to find later"
   ],
-  "sr_pm_partner": {
-    "before": "Client implementations stall in discovery, technical requirements get lost in translation to the account team, and time-to-value slips past what was promised in the sales cycle",
-    "after": "Clear discovery-to-configuration process, technical decisions translated into business terms as they happen, and a client relationship that survives the handoff from sales to delivery"
+
+  "track_record": [
+    {
+      "company": "Understood.org",
+      "role": "Digital Implementation Consultant / Scrum Master",
+      "period": "2019–2020",
+      "points": [
+        "Led Salesforce CRM integration alongside a Sitecore-to-Contentful replatform",
+        "Managed a globally distributed implementation team across 12+ countries",
+        "Primary technical point of contact for the VP of Engineering",
+        "Delivered through QA/UAT with zero critical release regressions"
+      ]
+    },
+    {
+      "company": "Eptura",
+      "role": "Senior Implementation Consultant / Agile Coach",
+      "period": "2022–2023",
+      "points": [
+        "Drove SaaS platform adoption and configuration across ~10 distributed teams",
+        "Produced executive dashboards tracking delivery KPIs for senior leadership",
+        "Drove 35%+ increase in delivery efficiency, 20% reduction in sprint carryover",
+        "Acted as primary technical point of contact for cross-team blockers"
+      ]
+    },
+    {
+      "company": "OVRSTCH",
+      "role": "Founder / Platform Implementation Lead",
+      "period": "2024–2026",
+      "points": [
+        "Configured and integrated payment APIs (Stripe, WooPay, ApplePay) solo",
+        "Automated fulfillment via the Printify API",
+        "Owned the full implementation lifecycle — requirements through iteration",
+        "Diagnosed and resolved a bottleneck, cutting cycle time ~25%"
+      ]
+    },
+    {
+      "company": "Crocs, Inc.",
+      "role": "Implementation Consultant / Release Governance Lead",
+      "period": "2026",
+      "points": [
+        "Led technical discovery sessions to configure release governance workflows",
+        "Configured SOX-compliant Segregation of Duties controls in Jira",
+        "Built 'Release Radar,' a real-time release-readiness tracking framework",
+        "Reduced administrative overhead ~30% via Jira AI and Copilot"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "Client implementations stall in discovery before configuration ever begins",
+      "Technical requirements get lost in translation to the account team",
+      "Time-to-value slips past what was promised in the sales cycle",
+      "The client relationship weakens in the handoff from sales to delivery"
+    ],
+    "after": [
+      "A clear discovery-to-configuration process with no lost requirements",
+      "Technical decisions translated into business terms as they happen",
+      "Time-to-value that matches or beats what sales promised",
+      "A client relationship that survives — and strengthens through — the delivery handoff"
+    ]
   },
-  "the_ramp": {
-    "day_one": "Review the current client implementation pipeline, shadow an active onboarding call, and read existing configuration documentation for the core Level AI products — Auto-QA, Analytics, Voice of the Customer, Agent Assist, Screen Recording",
-    "thirty_days": "Own end-to-end implementation for at least one active client account; identify 2-3 process improvements in the current onboarding workflow; establish working relationships with sales, product, and engineering counterparts"
-  }
+
+  "the_ramp": [
+    {
+      "timeframe": "Day One",
+      "deliverable": "Review the current client implementation pipeline, shadow an active onboarding call, and read existing configuration documentation for the core Level AI products — Auto-QA, Analytics, Voice of the Customer, Agent Assist, Screen Recording."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Begin owning discovery and configuration for at least one active client account; identify the first process improvement opportunity in the current onboarding workflow."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Own end-to-end implementation for at least one active client account; establish working relationships with sales, product, and engineering counterparts."
+    }
+  ]
 }

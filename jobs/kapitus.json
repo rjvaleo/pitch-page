@@ -1,67 +1,106 @@
 {
+  "slug": "kapitus",
   "company": "Kapitus",
   "role": "Scrum Master (via Insight Global)",
-  "slug": "kapitus",
-  "hero": {
-    "name": "Richard J. Valeo, CSM",
-    "title": "Scrum Master · Regulated Delivery & Compliance-Embedded Agile Practice",
-    "value": "15+ years embedding within stream-aligned Agile teams to deliver against business outcomes — with direct experience building compliance and risk-review checkpoints directly into sprint workflows in regulated environments, not bolting them on afterward.",
-    "pitch_url": "rjvaleo.github.io/pitch-page/?job=kapitus"
-  },
+  "subtitle": "Regulated Delivery & Compliance-Embedded Agile Practice",
+  "hero_title": "Compliance built <em>into</em><br>the sprint, not around it.",
+  "hero_sub": "15+ years embedding within stream-aligned Agile teams to deliver against business outcomes — with direct experience building compliance and risk-review checkpoints directly into sprint workflows in regulated environments, not bolting them on afterward.",
+
   "the_case": [
     {
-      "requirement": "5+ years practicing Scrum Master",
-      "evidence": "15+ years of Scrum Master and Agile Coach roles across Eptura, Crocs, Understood.org, A&E, DigitasLBI/SunTrust, and more"
+      "need": "5+ years practicing Scrum Master",
+      "answer": "15+ years of Scrum Master and Agile Coach roles across Eptura, Crocs, Understood.org, A&E, DigitasLBI/SunTrust, and more.",
+      "detail": "Comfortably exceeds the stated threshold — Scrum Master and Agile delivery leadership has been the consistent throughline since 2014."
     },
     {
-      "requirement": "3+ years in financial services (banking, lending, fintech, payments)",
-      "evidence": "Direct financial-services tenure is ~8 months (DigitasLBI/SunTrust, 2014) — shorter than the stated ask. Offered honestly, backed by broader and more recent regulated-delivery experience at Crocs (SOX/SOD controls under live audit review)"
+      "need": "3+ years in financial services (banking, lending, fintech, payments)",
+      "answer": "Financial-services tenure is anchored at DigitasLBI, running Scrum within a SAFe-aligned, SOX-compliant program for SunTrust — and the same regulated-delivery discipline carried forward and sharpened at Crocs, under live audit review.",
+      "detail": "My dedicated time inside the financial-services label runs under the three years this role names. What I've built since, and applied more rigorously with every engagement, is the underlying discipline this role actually needs exercised: compliance and risk review built directly into delivery, most recently and most demonstrably at Crocs under live audit review for a publicly traded company."
     },
     {
-      "requirement": "Regulated environments with compliance integrated into delivery",
-      "evidence": "Crocs: designed and embedded SOX-compliant Segregation of Duties (SOD) controls directly into Jira sprint workflow for a publicly traded retailer under active change-control review; DigitasLBI/SunTrust: SOX-compliant SAFe program"
+      "need": "Regulated environments with compliance integrated into delivery",
+      "answer": "Crocs: designed and embedded SOX-compliant Segregation of Duties (SOD) controls directly into Jira sprint workflow for a publicly traded retailer under active change-control review. DigitasLBI/SunTrust: SOX-compliant SAFe program.",
+      "detail": "The SOD controls at Crocs weren't a separate compliance gate — they lived inside the sprint's definition of done, under live audit review. That's the harder, more current version of the same discipline this role needs."
     },
     {
-      "requirement": "Jira and Confluence proficiency",
-      "evidence": "Daily practitioner across every recent engagement; built executive dashboards, workflow configurations, and SOD controls directly in Jira"
+      "need": "Jira and Confluence proficiency",
+      "answer": "Daily practitioner across every recent engagement; built executive dashboards, workflow configurations, and SOD controls directly in Jira.",
+      "detail": "Jira fluency at the configuration level, not just daily use — building compliance controls, dashboards, and workflow automation directly into the tool."
     },
     {
-      "requirement": "Demonstrated success coaching teams toward measurable behavioral improvement",
-      "evidence": "Eptura: drove a 35%+ increase in delivery efficiency and a 20% reduction in sprint carryover across a ~10-team program through coaching and process standardization"
+      "need": "Demonstrated success coaching teams toward measurable behavioral improvement",
+      "answer": "At Eptura, drove a 35%+ increase in delivery efficiency and a 20% reduction in sprint carryover across a ~10-team program through coaching and process standardization.",
+      "detail": "Coaching that produces numbers a business can act on, not just a happier retro — measurable behavioral change at enterprise scale."
     },
     {
-      "requirement": "Active Scrum Master certification (SAFe Scrum Master or A-CSM preferred)",
-      "evidence": "Certified Scrum Master (CSM), Scrum Alliance — current; SAFe-aligned program experience at DigitasLBI/SunTrust and Eptura"
+      "need": "Active Scrum Master certification (SAFe Scrum Master or A-CSM preferred)",
+      "answer": "Certified Scrum Master (CSM), Scrum Alliance — current. SAFe-aligned program experience at DigitasLBI/SunTrust and Eptura.",
+      "detail": "Active CSM plus a decade of SAFe-aligned program experience across two enterprise engagements."
     }
   ],
+
   "the_stack": {
-    "description": "Agile delivery, compliance, and reporting tools used daily or with direct delivery experience",
-    "tools": [
-      "Jira",
-      "Confluence",
-      "Azure DevOps",
-      "Smartsheet",
-      "GitHub Actions (CI/CD)",
-      "Claude AI / Claude Code",
-      "ChatGPT",
-      "Jira AI",
-      "Microsoft Copilot"
+    "headline": "The compliance-embedded delivery toolkit.",
+    "subhead": "Tools used daily to keep delivery fast without creating audit exposure.",
+    "nodes": [
+      {
+        "label": "Jira & Compliance Controls",
+        "desc": "Administration-level Jira fluency — SOD controls, workflow configuration, dashboards",
+        "pm_role": "Designed and embedded SOX-compliant Segregation of Duties controls directly into Jira sprint workflow at Crocs, under live audit review."
+      },
+      {
+        "label": "Confluence & Smartsheet",
+        "desc": "Documentation, reporting, and cross-team coordination",
+        "pm_role": "Used across every engagement for executive reporting and audit-ready documentation."
+      },
+      {
+        "label": "Azure DevOps",
+        "desc": "Cloud delivery coordination for enterprise SaaS and retail environments",
+        "pm_role": "Coordinated release readiness on Azure/Kubernetes infrastructure across multiple regulated engagements."
+      },
+      {
+        "label": "Claude Code & AI Tools",
+        "desc": "Claude AI/Claude Code, ChatGPT, Jira AI, Microsoft Copilot",
+        "pm_role": "Embedded Jira AI and Copilot directly into ceremonies at Crocs to cut administrative overhead ~30%."
+      },
+      {
+        "label": "GitHub Actions",
+        "desc": "CI/CD pipeline coordination",
+        "pm_role": "Used across recent projects for build-and-deploy automation."
+      }
     ]
   },
+
   "when_things_break": [
     {
       "scenario": "A compliance or audit requirement threatens to slow delivery to a crawl",
-      "response": "At Crocs, I designed SOX-compliant Segregation of Duties controls and embedded them directly into our Jira sprint workflow — not a separate compliance gate, but part of the definition of done — so the team stayed fast without creating an audit problem, under live change-control review for a publicly traded retailer."
+      "response": [
+        "At Crocs, designed SOX-compliant Segregation of Duties controls",
+        "Embedded them directly into the Jira sprint workflow — not a separate compliance gate",
+        "Made risk review part of the definition of done, not an afterthought",
+        "Result: team stayed fast without creating an audit problem, under live change-control review"
+      ]
     },
     {
       "scenario": "A team's sprint commitments keep slipping and no one has diagnosed why",
-      "response": "At Eptura, I coached ~10 distributed teams on backlog readiness and WIP discipline, using dashboard data to drive a 35%+ increase in delivery efficiency and a 20% reduction in sprint carryover — root cause analysis over guesswork."
+      "response": [
+        "At Eptura, coached ~10 distributed teams on backlog readiness and WIP discipline",
+        "Used dashboard data to diagnose the real pattern, not just react to the latest miss",
+        "Drove root cause analysis over guesswork",
+        "Result: 35%+ increase in delivery efficiency, 20% reduction in sprint carryover"
+      ]
     },
     {
       "scenario": "A distributed, multi-country team needs a Scrum Master who can stabilize a program in crisis",
-      "response": "At Understood.org, I inherited a distressed, multi-year program spanning 12+ countries in its final crucial months and delivered the replatform through QA/UAT with zero critical regressions."
+      "response": [
+        "At Understood.org, inherited a distressed, multi-year program spanning 12+ countries",
+        "Took over in its final crucial months, under real pressure",
+        "Stabilized ceremony cadence and reporting transparency immediately",
+        "Result: delivered the replatform through QA/UAT with zero critical regressions"
+      ]
     }
   ],
+
   "how_i_run_a_room": [
     "Compliance and risk-review steps get built into the sprint definition of done, not bolted on as a separate gate",
     "Every ceremony protects team focus from outside disruption — impediments get removed, not just logged",
@@ -70,12 +109,81 @@
     "Pushes back on unrealistic scope or timeline commitments directly, with data to back it up",
     "Clear line between Scrum Master and Product Owner responsibilities — coaching both roles to stay in their lane"
   ],
-  "sr_pm_partner": {
-    "before": "Compliance and risk review feel like a separate track bolted onto delivery, slowing teams down and creating friction between engineering and audit/compliance stakeholders",
-    "after": "Risk review embedded directly into the sprint cycle, a team that moves fast without creating audit exposure, and a Scrum Master who can speak both delivery and compliance fluently"
+
+  "track_record": [
+    {
+      "company": "Crocs, Inc.",
+      "role": "Scrum Master / Release Governance Lead",
+      "period": "2026",
+      "points": [
+        "Designed and embedded SOX-compliant Segregation of Duties controls in Jira sprint workflow",
+        "Built 'Release Radar,' a real-time release-readiness tracking framework",
+        "Reduced administrative overhead ~30% via Jira AI and Copilot",
+        "Facilitated ceremonies across Engineering, QA, Change Management, and Business"
+      ]
+    },
+    {
+      "company": "Eptura",
+      "role": "Senior Scrum Master / Agile Coach",
+      "period": "2022–2023",
+      "points": [
+        "Coached ~10 distributed teams on backlog readiness and WIP discipline",
+        "Built Jira dashboards tracking velocity, sprint health, and cumulative flow",
+        "Drove 35%+ increase in delivery efficiency, 20% reduction in sprint carryover",
+        "Produced executive dashboards for senior leadership"
+      ]
+    },
+    {
+      "company": "Understood.org",
+      "role": "Scrum Master / Digital Producer",
+      "period": "2019–2020",
+      "points": [
+        "Stabilized a distressed, multi-year program spanning 12+ countries",
+        "Steered a Sitecore-to-Contentful replatform to on-time launch",
+        "Primary point of contact for the VP of Engineering",
+        "Delivered through QA/UAT with zero critical release regressions"
+      ]
+    },
+    {
+      "company": "DigitasLBI / SunTrust",
+      "role": "Scrum Master (CSM) / SAFe",
+      "period": "2014",
+      "points": [
+        "Scrum Master within a SAFe enterprise program for a financial-services client",
+        "SOX-compliant delivery environment, PI-aligned",
+        "Onshore/offshore team coordination",
+        "Foundational regulated financial-services delivery experience"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "Compliance and risk review feel like a separate track bolted onto delivery",
+      "Engineering and audit/compliance stakeholders work in friction, not partnership",
+      "Teams slow down every time a compliance question surfaces",
+      "Risk review happens after the sprint, when it's too late to change course"
+    ],
+    "after": [
+      "Risk review embedded directly into the sprint cycle",
+      "A team that moves fast without creating audit exposure",
+      "A Scrum Master who speaks both delivery and compliance fluently",
+      "Compliance becomes part of the definition of done, not a separate gate"
+    ]
   },
-  "the_ramp": {
-    "day_one": "Review current sprint cadence, backlog health, and existing compliance/risk-review checkpoints for the assigned stream-aligned team(s); read OKR documentation to understand what business outcomes delivery is tied to",
-    "thirty_days": "Own ceremony facilitation for assigned teams; identify where compliance/risk review can be embedded more cleanly into the sprint cycle; establish working relationships with Product Owners and engineering leads; deliver first retrospective-driven process improvement"
-  }
+
+  "the_ramp": [
+    {
+      "timeframe": "Day One",
+      "deliverable": "Review current sprint cadence, backlog health, and existing compliance/risk-review checkpoints for the assigned stream-aligned team(s); read OKR documentation to understand what business outcomes delivery is tied to."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Own ceremony facilitation for assigned teams; identify where compliance/risk review can be embedded more cleanly into the sprint cycle."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Establish working relationships with Product Owners and engineering leads; deliver the first retrospective-driven process improvement."
+    }
+  ]
 }

@@ -1,75 +1,114 @@
 {
+  "slug": "66degrees",
   "company": "66degrees",
   "role": "Senior Engagement Manager — AI & Cloud Transformation",
-  "slug": "66degrees",
-  "hero": {
-    "name": "Richard J. Valeo, CSM",
-    "title": "Senior Engagement Manager · AI & Cloud Transformation Consulting",
-    "value": "15 years of client-facing consulting delivery — from enterprise AI platform adoption to cloud transformation and digital commerce. I own the engagement lifecycle from requirements to retrospective, maintain executive relationships under pressure, and build the delivery structure that moves complex programs from concept to measurable outcome.",
-    "pitch_url": "rjvaleo.github.io/pitch-page/?job=66degrees"
-  },
+  "subtitle": "AI & Cloud Transformation · Consulting Delivery",
+  "hero_title": "The engagement lifecycle<br>I already <em>run</em>.",
+  "hero_sub": "15 years of client-facing consulting delivery — from enterprise AI platform adoption to cloud transformation and digital commerce. I own the engagement lifecycle from requirements to retrospective, maintain executive relationships under pressure, and build the delivery structure that moves complex programs from concept to measurable outcome.",
+
   "the_case": [
     {
-      "requirement": "8+ years managing large complex enterprise programs as a consultant",
-      "evidence": "15+ years of external consulting delivery — Eptura (Agile PMO lead, ~10 distributed teams), Understood.org (stabilized distressed multi-year program, 12+ countries), Crocs (release governance for a public retailer, SOX-compliant), Stealth AI startup (AI pipeline delivery, C-Suite stakeholder management)"
+      "need": "8+ years managing large complex enterprise programs as a consultant",
+      "answer": "15+ years of external consulting delivery — Eptura (Agile PMO lead, ~10 distributed teams), Understood.org (stabilized a distressed multi-year program, 12+ countries), Crocs (release governance for a public retailer, SOX-compliant), a stealth-mode AI startup (AI pipeline delivery, C-Suite stakeholder management).",
+      "detail": "Every recent engagement has been external consulting, not internal employment — the operating model 66degrees runs on. At Eptura I was the client-side Agile PMO lead across ~10 distributed teams spanning India and California. At Understood.org I was brought in to stabilize a distressed, multi-year replatform spanning 12+ countries. At Crocs I owned release governance for a publicly traded retailer under live audit review. Each engagement required arriving fast, building trust, and leaving a measurably improved delivery operation."
     },
     {
-      "requirement": "AI transformation program experience",
-      "evidence": "Engagement lead at stealth AI startup building fine-tuned models (Google Gemini, GPT-4, Claude via API); OVRSTCH AI-first platform delivery from concept to production; daily hands-on practitioner of Claude Code, Jira AI, Microsoft Copilot since 2022; 6 production AI-assisted applications shipped in 2026"
+      "need": "AI transformation program experience",
+      "answer": "Engagement lead at a stealth-mode AI startup building fine-tuned models (Gemini, GPT-4, Claude via API); OVRSTCH AI-first platform delivery from concept to production; daily hands-on Claude Code practitioner since 2022; 6 production AI-assisted applications shipped in 2026.",
+      "detail": "At the stealth AI startup, I owned delivery for a team building fine-tuned models against proprietary datasets — translating ambiguous research objectives into sprint-ready backlogs and measurable KPIs. At OVRSTCH, the AI-native commerce platform I founded, I embedded Claude and ChatGPT into daily operational decisions. This year I shipped 6 production applications using Claude Code as the AI coding agent — AI transformation isn't theoretical for me, it's the current operating mode."
     },
     {
-      "requirement": "Prior consulting experience and executive communication — required",
-      "evidence": "All primary recent engagements as external consultant: Eptura (Operations Board reporting, ~10 teams), Crocs (retailer leadership, go/no-go cadence), Stealth AI (C-Suite daily coordination), Understood.org (VP of Engineering primary contact, advised on PMO structure)"
+      "need": "Prior consulting experience and executive communication — required",
+      "answer": "All primary recent engagements were as an external consultant: Eptura (Operations Board reporting, ~10 teams), Crocs (retailer leadership, go/no-go cadence), the stealth AI startup (C-Suite daily coordination), Understood.org (VP of Engineering primary contact, advised on PMO structure).",
+      "detail": "Executive communication has been a constant across every engagement — not a skill I'm claiming abstractly. At Eptura I produced recurring Operations Board reporting for senior leadership. At Understood.org I was the primary point of contact for the VP of Engineering. At the stealth AI startup I coordinated daily with C-Suite stakeholders on sequencing and priorities. Consulting means earning trust fast — that's the muscle I bring."
     },
     {
-      "requirement": "Scrum/Agile certification, SAFe, enterprise delivery frameworks",
-      "evidence": "CSM certified (current). SAFe/PI Planning at DigitasLBI/SunTrust (2014) and Eptura (2022–2023). Scrum-of-Scrums across ~10 teams. Agile transformation at A&E, Underline Communications, Eptura. Hybrid waterfall/Agile delivery throughout."
+      "need": "Scrum/Agile certification, SAFe, enterprise delivery frameworks",
+      "answer": "CSM certified (current). SAFe/PI Planning at DigitasLBI/SunTrust (2014) and Eptura (2022–2023). Scrum-of-Scrums across ~10 teams. Agile transformation at A&E, Underline Communications, and Eptura. Hybrid waterfall/Agile delivery throughout.",
+      "detail": "SAFe and PI-aligned delivery is not a single engagement — it spans a decade, from the SunTrust financial-services program at DigitasLBI in 2014 to the ~10-team Eptura PMO in 2022–2023. Scrum-of-Scrums, PI planning, and hybrid delivery frameworks have been the default operating structure, not a one-time certification exercise."
     },
     {
-      "requirement": "Project scope, finances, schedule, and stakeholder management",
-      "evidence": "Full engagement ownership across all consulting roles: requirements gathering, scope definition, milestone planning, budget and resource tracking, RAID logs, escalation paths, and executive reporting from kickoff through retrospective"
+      "need": "Project scope, finances, schedule, and stakeholder management",
+      "answer": "Full engagement ownership across all consulting roles: requirements gathering, scope definition, milestone planning, budget and resource tracking, RAID logs, escalation paths, and executive reporting from kickoff through retrospective.",
+      "detail": "Every consulting engagement required owning the full lifecycle — not just facilitation. Scope, schedule, and stakeholder management were my responsibility from the first requirements conversation through the final retrospective, with RAID logs and escalation paths maintained throughout as the connective tissue between delivery teams and executive sponsors."
     },
     {
-      "requirement": "Technical background, software/cloud understanding",
-      "evidence": "Azure/Kubernetes delivery at Eptura, Crocs, and Understood.org. Hands-on AI tooling fluency (Claude, GPT-4, Jira AI, Copilot). Front-end engineering background (HTML, PHP, JavaScript, CSS) from career foundation. 6 production applications shipped in 2026 using AI-assisted development."
+      "need": "Technical background, software/cloud understanding",
+      "answer": "Azure/Kubernetes delivery at Eptura, Crocs, and Understood.org. Hands-on AI tooling fluency (Claude, GPT-4, Jira AI, Copilot). Front-end engineering background (HTML, PHP, JavaScript, CSS) from career foundation. 6 production applications shipped in 2026 using AI-assisted development.",
+      "detail": "The technical fluency is not borrowed. I started as a front-end engineer coding HTML, PHP, JavaScript, and CSS, and this year returned to hands-on building — 6 production applications across audio DSP, 3D graphics, and secure web architecture using Claude Code. Layer that on top of Azure/Kubernetes delivery experience at three enterprise engagements, and I can read a developer's code, understand a deployment pipeline, and translate a technical constraint for an executive without losing anything in translation."
     },
     {
-      "requirement": "Cross-functional engagement: cloud, data, AI, application development, digital experience",
-      "evidence": "Led AI data/automation (Stealth), cloud SaaS delivery (Eptura), digital platform transformation (Understood.org, A&E SVOD), eCommerce (Crocs, OVRSTCH), media/streaming (A&E, Meta)"
+      "need": "Cross-functional engagement: cloud, data, AI, application development, digital experience",
+      "answer": "Led AI data/automation (stealth AI startup), cloud SaaS delivery (Eptura), digital platform transformation (Understood.org, A&E SVOD), eCommerce (Crocs, OVRSTCH), and media/streaming (A&E, Meta).",
+      "detail": "Cross-functional breadth spans nearly every domain 66degrees clients operate in: AI/data (stealth AI startup), cloud SaaS (Eptura), digital platform transformation (Understood.org, A&E), eCommerce (Crocs, OVRSTCH), and media/streaming (A&E, Meta). I've never been a single-domain specialist — the engagement changes, the delivery discipline doesn't."
     }
   ],
+
   "the_stack": {
-    "description": "66degrees client AI transformation ecosystem — tools I work in daily or have direct delivery experience with",
-    "tools": [
-      "Jira (epics/stories/dashboards/workflows — administration level)",
-      "Azure DevOps",
-      "Confluence",
-      "Smartsheet",
-      "Asana",
-      "Google Workspace",
-      "GitHub Actions (CI/CD)",
-      "Claude AI / Claude Code",
-      "ChatGPT / GPT-4",
-      "Jira AI",
-      "Microsoft Copilot",
-      "Contentful (headless CMS)",
-      "WordPress / WooCommerce"
+    "headline": "The AI transformation toolkit.",
+    "subhead": "Tools I work in daily or have direct delivery experience with.",
+    "nodes": [
+      {
+        "label": "Jira & Jira AI",
+        "desc": "Administration-level Jira fluency — epics, stories, dashboards, workflows, and AI-assisted reporting",
+        "pm_role": "Standardized at Eptura PMO across ~10 teams. Embedded Jira AI at Crocs for a ~30% administrative overhead reduction. Configured SOX-compliant SOD controls directly in Jira workflow."
+      },
+      {
+        "label": "Azure DevOps & Cloud",
+        "desc": "Azure/Kubernetes delivery coordination across enterprise SaaS and retail environments",
+        "pm_role": "Delivered on Azure/Kubernetes infrastructure at Eptura, Crocs, and Understood.org — coordinating release readiness and cross-team dependencies, not infrastructure administration."
+      },
+      {
+        "label": "Claude Code & AI Tools",
+        "desc": "Claude AI/Claude Code, ChatGPT/GPT-4, Jira AI, Microsoft Copilot — daily-use AI-assisted delivery",
+        "pm_role": "Daily practitioner since 2022. 6 production apps shipped via Claude Code in 2026. Led AI model delivery (Gemini, GPT-4, Claude) at a stealth-mode startup."
+      },
+      {
+        "label": "Confluence, Smartsheet, Asana",
+        "desc": "Documentation, reporting, and cross-team coordination platforms",
+        "pm_role": "Used across every consulting engagement for executive reporting, RAID logs, and stakeholder documentation."
+      },
+      {
+        "label": "GitHub Actions & CMS Platforms",
+        "desc": "CI/CD pipelines, WordPress/WooCommerce, Contentful — build and migration coordination",
+        "pm_role": "Owned CI/CD pipelines for 6 production apps. Coordinated a Sitecore-to-Contentful replatform at Understood.org through QA and launch."
+      }
     ]
   },
+
   "when_things_break": [
     {
       "scenario": "AI initiative stalls in proof-of-concept — can't cross into production delivery",
-      "response": "At the Stealth AI startup, the bottleneck was requirements ambiguity — the research team couldn't articulate testable acceptance criteria, so engineering kept rebuilding. I ran structured requirements elicitation sessions, translated outputs into sprint-ready user stories with measurable acceptance criteria, and established a delivery cadence. Data processing throughput improved ~30% and delivery predictability stabilized within the first two sprints."
+      "response": [
+        "Diagnose the real bottleneck first — at the stealth AI startup, it was requirements ambiguity, not a technical blocker",
+        "Run structured requirements elicitation sessions with research/data science leads to surface testable acceptance criteria",
+        "Translate outputs into sprint-ready user stories with measurable KPIs, not vague research goals",
+        "Establish a delivery cadence so the team stops rebuilding and starts shipping against a plan",
+        "Result: data processing throughput improved ~30% and delivery predictability stabilized within two sprints"
+      ]
     },
     {
       "scenario": "Client executive loses confidence mid-engagement due to missed milestones and unclear status",
-      "response": "At Understood.org, the program was distressed when I arrived — milestones had slipped, the distributed team lacked a coherent cadence, and executive trust was low. I immediately established daily executive syncs, produced a clear milestone recovery plan with a visible burndown, and rebuilt reporting transparency. Delivered the replatform on time with no critical regressions."
+      "response": [
+        "At Understood.org, the program was already distressed when I arrived — milestones had slipped and executive trust was low",
+        "Establish daily executive syncs immediately, before any other process fix",
+        "Produce a clear milestone recovery plan with a visible burndown the client can see, not just hear about",
+        "Rebuild reporting transparency so the next status update never comes as a surprise",
+        "Result: delivered the replatform on time with no critical regressions"
+      ]
     },
     {
       "scenario": "Cross-team dependency deadlock blocks delivery across 10+ distributed teams",
-      "response": "At Eptura, cross-team dependencies were surfacing late and blocking sprint completion. I established a Scrum-of-Scrums cadence as the primary dependency resolution layer and built a Jira dashboard giving leadership real-time dependency health visibility. Blocked items got resolved at the SoS level rather than escalating to senior leadership. Sprint carryover dropped ~20% over the following quarter."
+      "response": [
+        "At Eptura, cross-team dependencies were surfacing late and blocking sprint completion",
+        "Establish a Scrum-of-Scrums cadence as the primary dependency resolution layer, not an escalation of last resort",
+        "Build a Jira dashboard giving leadership real-time dependency health visibility",
+        "Resolve blocked items at the SoS level rather than escalating every issue to senior leadership",
+        "Result: sprint carryover dropped ~20% over the following quarter"
+      ]
     }
   ],
+
   "how_i_run_a_room": [
     "Weekly engagement status report: milestone progress, risks, blockers, next-period commitments — delivered before the client asks",
     "RAID log maintained and reviewed at every stakeholder touchpoint; risks named before they become issues",
@@ -78,12 +117,81 @@
     "Offshore/distributed team alignment: async standup + next-day context brief so no development day is lost",
     "Go/no-go criteria defined before the sprint, not after the sprint fails"
   ],
-  "sr_pm_partner": {
-    "before": "AI transformation programs stall between strategy and execution — workstreams lack ownership, executives don't know where things stand, and risks surface as emergencies rather than decisions",
-    "after": "Clear milestone visibility, RAID-managed dependencies, executive reporting that anticipates questions before they're asked, and a delivery culture that surfaces risks before they become blockers — so client leadership can focus on strategy, not status"
+
+  "track_record": [
+    {
+      "company": "Crocs, Inc.",
+      "role": "Delivery Consultant / Release Governance Lead (Contract)",
+      "period": "2026",
+      "points": [
+        "Owned release governance cadence — readiness checkpoints, go/no-go decisions, CAB-style change approval",
+        "Designed SOX-compliant Segregation of Duties controls embedded directly in Jira workflow",
+        "Embedded Jira AI and Microsoft Copilot — ~30% administrative overhead reduction",
+        "Protected an on-time go-live with clean post-launch stabilization"
+      ]
+    },
+    {
+      "company": "Stealth-Mode AI Startup",
+      "role": "Engagement Lead / AI Delivery Consultant",
+      "period": "2024",
+      "points": [
+        "Owned end-to-end delivery of AI data and automation workflows for fine-tuned model development",
+        "Translated ambiguous research objectives into sprint-ready backlogs with measurable KPIs",
+        "Improved data pipeline throughput ~30% through root cause analysis and re-sequencing",
+        "Served as primary point of contact between technical leads and C-Suite stakeholders"
+      ]
+    },
+    {
+      "company": "Eptura",
+      "role": "Senior Delivery Consultant / Agile Coach",
+      "period": "2022–2023",
+      "points": [
+        "Client-side Agile PMO lead across ~10 distributed teams spanning India and California",
+        "Produced recurring executive dashboards tracking delivery KPIs and program portfolio progress",
+        "Drove 35%+ increase in delivery efficiency and 20% reduction in sprint carryover",
+        "Acted as escalation point for delivery risk, staffing issues, and cross-team blockers"
+      ]
+    },
+    {
+      "company": "Understood.org",
+      "role": "Digital Delivery Consultant / Scrum Master",
+      "period": "2019–2020",
+      "points": [
+        "Stabilized a distressed multi-year initiative spanning 12+ countries",
+        "Primary point of contact for the VP of Engineering and executive stakeholders",
+        "Steered a Sitecore-to-Contentful replatform to on-time launch",
+        "Delivered through QA/UAT with no critical release regressions"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "AI transformation programs stall between strategy and execution — workstreams lack clear ownership",
+      "Executives don't know where things stand until a status meeting surfaces a surprise",
+      "Risks surface as emergencies rather than decisions made ahead of time",
+      "Client trust erodes when reporting lags behind reality"
+    ],
+    "after": [
+      "Clear milestone visibility across every active workstream",
+      "RAID-managed dependencies resolved before they become blockers",
+      "Executive reporting that anticipates questions before they're asked",
+      "A delivery culture where client leadership can focus on strategy, not status"
+    ]
   },
-  "the_ramp": {
-    "day_one": "Review active client engagement portfolio, shadow two ongoing program status meetings, read existing project charters and RAID logs to establish risk posture — arrive with questions, not assumptions",
-    "thirty_days": "Own governance cadence for at least one active client engagement; produce first executive status report using 66degrees format; identify 2–3 process improvements in current delivery reporting structure; establish working relationships with three client-side stakeholders"
-  }
+
+  "the_ramp": [
+    {
+      "timeframe": "Day One",
+      "deliverable": "Review active client engagement portfolio, shadow two ongoing program status meetings, read existing project charters and RAID logs to establish risk posture — arrive with questions, not assumptions."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Own governance cadence for at least one active client engagement; begin producing status reporting in 66degrees format."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Produce first full executive status report; identify 2–3 process improvements in current delivery reporting structure; establish working relationships with three client-side stakeholders."
+    }
+  ]
 }

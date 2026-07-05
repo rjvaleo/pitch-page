@@ -1,67 +1,106 @@
 {
+  "slug": "beacon-hill",
   "company": "Beacon Hill Technologies",
   "role": "Senior Scrum Master (Contract, Remote)",
-  "slug": "beacon-hill",
-  "hero": {
-    "name": "Richard J. Valeo, CSM",
-    "title": "Senior Scrum Master · Data-Driven Agile Delivery & Flow Optimization",
-    "value": "15+ years leading Agile delivery across complex, cross-functional software initiatives — using velocity, WIP, cycle time, throughput, and cumulative flow data to drive sprint planning, forecasting, and continuous improvement, not just facilitate ceremonies.",
-    "pitch_url": "rjvaleo.github.io/pitch-page/?job=beacon-hill"
-  },
+  "subtitle": "Data-Driven Agile Delivery & Flow Optimization",
+  "hero_title": "The data,<br>not just the <em>ceremony</em>.",
+  "hero_sub": "15+ years leading Agile delivery across complex, cross-functional software initiatives — using velocity, WIP, cycle time, throughput, and cumulative flow data to drive sprint planning, forecasting, and continuous improvement, not just facilitate ceremonies.",
+
   "the_case": [
     {
-      "requirement": "8+ years Scrum Master and/or Project Management experience",
-      "evidence": "15+ years of SM/delivery leadership across Eptura, Crocs, Understood.org, A&E, DigitasLBI/SunTrust, and more"
+      "need": "8+ years Scrum Master and/or Project Management experience",
+      "answer": "15+ years of SM/delivery leadership across Eptura, Crocs, Understood.org, A&E, DigitasLBI/SunTrust, and more.",
+      "detail": "Comfortably exceeds the stated threshold — Scrum Master and Agile delivery leadership has been the consistent throughline of my career since 2014."
     },
     {
-      "requirement": "5+ years supporting Agile software development teams; deep SDLC/Scrum/Kanban knowledge",
-      "evidence": "Scrum, Kanban, and hybrid Agile facilitation across every engagement since 2014, including SAFe/PI-aligned programs at Eptura and DigitasLBI/SunTrust"
+      "need": "5+ years supporting Agile software development teams; deep SDLC/Scrum/Kanban knowledge",
+      "answer": "Scrum, Kanban, and hybrid Agile facilitation across every engagement since 2014, including SAFe/PI-aligned programs at Eptura and DigitasLBI/SunTrust.",
+      "detail": "Every engagement has required a different blend of Scrum, Kanban, and hybrid Agile depending on the team and the work — I adapt the framework to the team, not the other way around."
     },
     {
-      "requirement": "Strong experience using Agile metrics and reporting to guide sprint planning, forecasting, performance improvement",
-      "evidence": "Eptura: built and maintained Jira dashboards tracking velocity, sprint health, WIP, and cumulative flow across a ~10-team program, driving 35%+ efficiency gain and 20% carryover reduction"
+      "need": "Strong experience using Agile metrics and reporting to guide sprint planning, forecasting, performance improvement",
+      "answer": "At Eptura, built and maintained Jira dashboards tracking velocity, sprint health, WIP, and cumulative flow across a ~10-team program, driving a 35%+ efficiency gain and 20% carryover reduction.",
+      "detail": "The dashboards weren't a reporting exercise — they were how we forecast delivery risk before it became a missed sprint commitment. That's the exact distinction this posting draws between facilitating ceremonies and driving decisions with data."
     },
     {
-      "requirement": "Experience managing complex, cross-functional initiatives",
-      "evidence": "Eptura (~10 distributed teams, India/California), Understood.org (12+ countries), A&E (~10 concurrent workstreams)"
+      "need": "Experience managing complex, cross-functional initiatives",
+      "answer": "Eptura (~10 distributed teams, India/California), Understood.org (12+ countries), A&E (~10 concurrent workstreams).",
+      "detail": "Cross-functional, multi-continent coordination has been the default operating condition, not a stretch assignment."
     },
     {
-      "requirement": "Active Scrum Master certification",
-      "evidence": "Certified Scrum Master (CSM), Scrum Alliance — current"
+      "need": "Active Scrum Master certification",
+      "answer": "Certified Scrum Master (CSM), Scrum Alliance — current.",
+      "detail": "Exact match on the required certification."
     },
     {
-      "requirement": "Healthcare, life sciences, or regulated industry experience (preferred)",
-      "evidence": "SOX-compliant delivery at Crocs (public retailer) and DigitasLBI/SunTrust (financial services) — not healthcare-specific, but genuine regulated-industry audit/change-control discipline"
+      "need": "Healthcare, life sciences, or regulated industry experience (preferred)",
+      "answer": "SOX-compliant delivery at Crocs (public retailer) and DigitasLBI/SunTrust (financial services) — not healthcare-specific, but genuine regulated-industry audit/change-control discipline.",
+      "detail": "Not healthcare specifically, but the audit discipline and change-control rigor regulated industries require transfers directly from these engagements."
     }
   ],
+
   "the_stack": {
-    "description": "Agile delivery and reporting tools used daily or with direct delivery experience",
-    "tools": [
-      "Jira",
-      "Confluence",
-      "Azure DevOps",
-      "Smartsheet",
-      "GitHub Actions (CI/CD)",
-      "Claude AI / Claude Code",
-      "ChatGPT",
-      "Jira AI",
-      "Microsoft Copilot"
+    "headline": "The Agile metrics toolkit.",
+    "subhead": "Tools used daily to turn ceremonies into decisions.",
+    "nodes": [
+      {
+        "label": "Jira & Jira AI",
+        "desc": "Administration-level Jira fluency — dashboards, velocity, WIP, cumulative flow, AI-assisted reporting",
+        "pm_role": "Built and maintained flow-metrics dashboards at Eptura across a ~10-team program. Embedded Jira AI at Crocs for a ~30% administrative overhead reduction."
+      },
+      {
+        "label": "Confluence & Smartsheet",
+        "desc": "Documentation, reporting, and cross-team coordination",
+        "pm_role": "Used across every engagement for executive reporting and stakeholder documentation."
+      },
+      {
+        "label": "Azure DevOps",
+        "desc": "Cloud delivery coordination for enterprise SaaS and retail environments",
+        "pm_role": "Coordinated release readiness on Azure/Kubernetes infrastructure at Eptura, Crocs, and Understood.org."
+      },
+      {
+        "label": "Claude Code & AI Tools",
+        "desc": "Claude AI/Claude Code, ChatGPT, Jira AI, Microsoft Copilot",
+        "pm_role": "Daily practitioner since 2022. Embedded AI tools directly into ceremonies at Crocs to cut administrative overhead ~30%."
+      },
+      {
+        "label": "GitHub Actions",
+        "desc": "CI/CD pipeline coordination",
+        "pm_role": "Used across recent projects for build-and-deploy automation."
+      }
     ]
   },
+
   "when_things_break": [
     {
       "scenario": "A program is heading toward a missed sprint commitment, but no one sees it coming until it's too late",
-      "response": "At Eptura, I built Jira dashboards tracking velocity, sprint health, WIP, and cumulative flow across a ~10-team program — using that data to forecast delivery risk before it became a missed commitment, rather than finding out at the sprint review."
+      "response": [
+        "At Eptura, I built Jira dashboards tracking velocity, sprint health, WIP, and cumulative flow across a ~10-team program",
+        "Used that data to forecast delivery risk before it became a missed commitment",
+        "Flagged risk at the dashboard level, not at the sprint review when it's too late to act",
+        "Result: 35%+ increase in delivery efficiency, 20% reduction in sprint carryover"
+      ]
     },
     {
       "scenario": "A data pipeline or delivery workflow has a hidden bottleneck no one has diagnosed",
-      "response": "At a stealth-mode AI startup, I ran root cause analysis on a throughput bottleneck across a data processing pipeline and re-sequenced the workflow, improving throughput ~30% and strengthening delivery predictability."
+      "response": [
+        "At a stealth-mode AI startup, ran root cause analysis on a throughput bottleneck across a data processing pipeline",
+        "Identified the actual constraint rather than treating symptoms",
+        "Re-sequenced the workflow around the real bottleneck",
+        "Result: throughput improved ~30%, delivery predictability strengthened"
+      ]
     },
     {
       "scenario": "Cross-environment release dependencies threaten a go-live and leadership has no visibility into readiness",
-      "response": "At Crocs, I built 'Release Radar,' a Jira-based flow-visibility framework giving leadership real-time readiness data across every environment before dependencies could derail the go-live."
+      "response": [
+        "At Crocs, built 'Release Radar,' a Jira-based flow-visibility framework",
+        "Gave leadership real-time readiness data across every environment",
+        "Surfaced dependency risk before it could derail the go-live",
+        "Result: protected an on-time go-live with clean post-launch stabilization"
+      ]
     }
   ],
+
   "how_i_run_a_room": [
     "Every ceremony generates data — velocity, WIP, cycle time, cumulative flow — and that data drives the next planning decision, not just the retro discussion",
     "RAID log maintained and reviewed at every stakeholder touchpoint; risks named before they become issues",
@@ -70,12 +109,81 @@
     "Backlog readiness and WIP discipline enforced consistently across Scrum and Kanban teams alike",
     "Go/no-go criteria and change-control gates defined before the sprint, not after it fails"
   ],
-  "sr_pm_partner": {
-    "before": "Sprint commitments slip without warning, ceremonies happen but don't generate decisions, and leadership finds out about delivery risk after it's already a problem",
-    "after": "Dashboards that forecast risk before it becomes a miss, ceremonies that produce real decisions, and a delivery culture where root cause analysis prevents the same bottleneck from recurring"
+
+  "track_record": [
+    {
+      "company": "Eptura",
+      "role": "Senior Scrum Master / Agile Coach",
+      "period": "2022–2023",
+      "points": [
+        "Built and maintained Jira dashboards tracking velocity, sprint health, WIP, and cumulative flow",
+        "Facilitated Scrum-of-Scrums across ~10 distributed teams spanning India and California",
+        "Drove 35%+ increase in delivery efficiency, 20% reduction in sprint carryover",
+        "Produced executive dashboards for senior leadership decision-making"
+      ]
+    },
+    {
+      "company": "Crocs, Inc.",
+      "role": "Scrum Master / Release Governance Lead",
+      "period": "2026",
+      "points": [
+        "Built 'Release Radar,' a Jira-based flow-visibility tracking framework",
+        "Designed SOX-compliant Segregation of Duties controls in sprint workflow",
+        "Embedded Jira AI and Microsoft Copilot — ~30% administrative overhead reduction",
+        "Facilitated ceremonies across Engineering, QA, Change Management, and Business"
+      ]
+    },
+    {
+      "company": "Understood.org",
+      "role": "Scrum Master / Digital Producer",
+      "period": "2019–2020",
+      "points": [
+        "Facilitated Agile ceremonies for a distributed team across 12+ countries",
+        "Steered a Sitecore-to-Contentful replatform to on-time launch",
+        "Primary point of contact for the VP of Engineering",
+        "Delivered through QA/UAT with no critical release regressions"
+      ]
+    },
+    {
+      "company": "DigitasLBI / SunTrust",
+      "role": "Scrum Master (CSM) / SAFe",
+      "period": "2014",
+      "points": [
+        "Scrum Master within a SAFe enterprise program for a financial-services client",
+        "SOX-compliant delivery environment, PI-aligned",
+        "Onshore/offshore team coordination",
+        "Foundational regulated-delivery experience"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "Sprint commitments slip without warning",
+      "Ceremonies happen but don't generate real decisions",
+      "Leadership finds out about delivery risk after it's already a problem",
+      "The same bottleneck recurs because no one ran root cause analysis"
+    ],
+    "after": [
+      "Dashboards that forecast risk before it becomes a miss",
+      "Ceremonies that produce real decisions, not just status updates",
+      "Leadership sees risk early enough to act on it",
+      "Root cause analysis prevents the same bottleneck from recurring"
+    ]
   },
-  "the_ramp": {
-    "day_one": "Review current sprint/program health data (velocity, WIP, cumulative flow if available), shadow a ceremony for each team supported, and read existing backlog and RAID documentation",
-    "thirty_days": "Own ceremony facilitation and reporting cadence for all supported teams; stand up or improve existing flow-metrics dashboards; identify 2-3 process improvements from initial root cause analysis of current delivery patterns"
-  }
+
+  "the_ramp": [
+    {
+      "timeframe": "Day One",
+      "deliverable": "Review current sprint/program health data (velocity, WIP, cumulative flow if available), shadow a ceremony for each team supported, and read existing backlog and RAID documentation."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Own ceremony facilitation for all supported teams; begin standing up or improving existing flow-metrics dashboards."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Own full reporting cadence for all supported teams; identify 2-3 process improvements from initial root cause analysis of current delivery patterns."
+    }
+  ]
 }
