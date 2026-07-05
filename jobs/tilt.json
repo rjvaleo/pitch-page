@@ -1,0 +1,89 @@
+{
+  "company": "Tilt",
+  "role": "Agentic AI Lead (Business Transformation)",
+  "slug": "tilt",
+  "hero": {
+    "name": "Richard J. Valeo, CSM",
+    "title": "Agentic AI Lead · Business Transformation · Founder-Operator",
+    "value": "15+ years of business transformation and delivery experience, including founder-level ownership of an AI-native commerce platform built and operated end to end. I diagnose where a process breaks, prototype the AI-first redesign myself, and convert what works into a framework the rest of the organization can run on.",
+    "pitch_url": "rjvaleo.github.io/pitch-page/?job=tilt"
+  },
+  "the_case": [
+    {
+      "requirement": "8+ years business transformation, product strategy, or technical operations, ideally founder or founding/early hire",
+      "evidence": "Founder of OVRSTCH (AI-native commerce platform, sole operator, 09/2024–03/2026); early engagement lead at a stealth-mode AI startup building fine-tuned models (02/2024–08/2024); 15+ years total business transformation and delivery experience"
+    },
+    {
+      "requirement": "Proven success leading cross-functional initiatives that reimagine systems or workflows",
+      "evidence": "Eptura: drove Agile/workflow transformation across ~10 distributed teams spanning Marketing, UX, Engineering, and Data, 35%+ efficiency gain; Crocs: redesigned release governance workflow with SOX-compliant SOD controls and a new 'Release Radar' tracking framework"
+    },
+    {
+      "requirement": "Strong technical literacy with mainstream and cutting-edge AI tools/automation platforms",
+      "evidence": "Daily practitioner of Claude Code, ChatGPT/GPT-4, and Google Gemini since 2022; embedded Jira AI and Microsoft Copilot directly into client delivery workflows at Crocs; GitHub Actions CI/CD automation across every recent project"
+    },
+    {
+      "requirement": "Hands-on experience building/deploying workflow automations, agents, or custom skills",
+      "evidence": "OVRSTCH: architected automated print-on-demand fulfillment pipeline (Printify API) and embedded AI into planning/operations; 6 production applications built and deployed via Claude Code in 2026 (Creative Coder); stealth AI startup: owned proof-of-concept-to-production pipeline for fine-tuned model delivery"
+    },
+    {
+      "requirement": "Translate innovation into scale — convert PoC learnings into scalable frameworks/playbooks",
+      "evidence": "Stealth AI startup: converted ambiguous research objectives into structured backlogs, measurable KPIs, and a repeatable delivery framework, improving pipeline throughput ~30%"
+    },
+    {
+      "requirement": "Advise leadership — trusted advisor to CEO, Head of Product, senior leaders",
+      "evidence": "Understood.org: primary point of contact for the VP of Engineering, advised on PMO structure and SDLC management; Eptura: produced recurring executive dashboards and acted as escalation point for senior leadership"
+    },
+    {
+      "requirement": "Bachelor's degree in technical/quantitative field (preferred, not disqualifying per posting)",
+      "evidence": "Not held — BFA coursework at NYIT, incomplete. Addressed directly and honestly rather than fabricated; the founder-operator track record is offered as the substitute proof point, consistent with the posting's own stated philosophy of valuing potential over credentials"
+    }
+  ],
+  "the_stack": {
+    "description": "AI-native transformation ecosystem — tools used daily or with direct delivery experience",
+    "tools": [
+      "Claude AI / Claude Code",
+      "ChatGPT / GPT-4",
+      "Google Gemini",
+      "Jira AI",
+      "Microsoft Copilot",
+      "GitHub Actions (CI/CD)",
+      "N8N (workflow automation — adjacent)",
+      "Jira",
+      "Azure DevOps",
+      "Confluence",
+      "Smartsheet",
+      "Asana",
+      "WordPress / WooCommerce"
+    ]
+  },
+  "when_things_break": [
+    {
+      "scenario": "AI initiative stalls in proof-of-concept — can't cross into production or scale beyond one team",
+      "response": "At the stealth AI startup, the research team couldn't articulate testable acceptance criteria, so engineering kept rebuilding. I ran structured requirements elicitation sessions, translated outputs into sprint-ready stories with measurable KPIs, and built a delivery cadence that turned into a repeatable framework. Throughput improved ~30% within two sprints."
+    },
+    {
+      "scenario": "A solo operator needs to build and run an entire AI-first operation with no team to delegate to",
+      "response": "At OVRSTCH, I was the only person. I architected the commerce platform, automated fulfillment via the Printify API, embedded Claude and ChatGPT into daily planning and operational decisions, and diagnosed a production bottleneck that was quietly costing 25% of cycle time. There is no substitute for having actually run the whole system yourself."
+    },
+    {
+      "scenario": "Cross-functional transformation stalls because teams don't trust the new process",
+      "response": "At Eptura, I drove Agile workflow adoption across Marketing, UX, Engineering, and Data — functions that had never worked from a shared cadence. I built the Scrum-of-Scrums layer, standardized readiness disciplines, and gave leadership real-time visibility into where trust was breaking down. Sprint carryover dropped ~20% and delivery efficiency rose 35%+."
+    }
+  ],
+  "how_i_run_a_room": [
+    "Every initiative starts with a diagnosis of the actual pain point, not the assumed one — before any tool gets chosen",
+    "Proof-of-concepts get built fast, with a clear graduation criteria for what 'ready to scale' looks like",
+    "RAID log maintained and reviewed at every stakeholder touchpoint; risks named before they become issues",
+    "Executive updates always include: what changed, why it matters, and what happens next — before anyone asks",
+    "Frameworks and playbooks get written down as they're validated, not reconstructed after the fact",
+    "Retrospectives produce measurable process changes — not action lists that expire"
+  ],
+  "sr_pm_partner": {
+    "before": "AI initiatives stay stuck in isolated pilots — no shared playbook, no executive visibility into what's actually working, and each team reinventing the wheel",
+    "after": "A working proof-of-concept becomes a company-wide framework within weeks, executives get visibility into transformation progress before they have to ask, and teams adopt new AI-first ways of working because they trust the process — not because it was mandated"
+  },
+  "the_ramp": {
+    "day_one": "Review current AI pilots and experimentation efforts across functions, sit in on two operating meetings to see where friction actually shows up, and read whatever playbooks or frameworks already exist — arrive with questions, not assumptions",
+    "thirty_days": "Ship a first working proof-of-concept for one identified pain point using Claude/N8N-class tooling; convert it into a first-draft scalable framework; establish working relationships with three cross-functional stakeholders; deliver a first executive readout on transformation progress"
+  }
+}
