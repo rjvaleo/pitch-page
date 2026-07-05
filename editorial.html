@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title id="page-title">RJ Valeo — Pitch Page</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="editorial.css">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FBHGE0EPDQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-FBHGE0EPDQ');
+</script>
+</head>
+<body>
+
+<div class="cursor" id="cursor"></div>
+<div class="cursor-ring" id="cursorRing"></div>
+<div class="progress-bar" id="progressBar"></div>
+
+<nav>
+  <div class="nav-name">
+    <img src="assets/savas-labs/savas-logo.svg" alt="" class="prepared-logo">
+    <span>RJ Valeo <em>for</em> <span id="nav-company">Savas Labs</span></span>
+  </div>
+  <ul class="nav-links" id="nav-links">
+    <li><span onclick="navScroll('proof')">The Case</span></li>
+    <li><span onclick="navScroll('stack')">Practices</span></li>
+    <li><span onclick="navScroll('incidents')">From the Field</span></li>
+    <li><span onclick="navScroll('room')">How I Work</span></li>
+    <li><span onclick="navScroll('record')">Track Record</span></li>
+    <li><span onclick="navScroll('ramp')">The Ramp</span></li>
+  </ul>
+</nav>
+
+<!-- HERO -->
+<div id="hero">
+  <div class="hero-blob blob-coral"></div>
+  <div class="hero-blob blob-mint"></div>
+  <div class="hero-blob blob-marigold"></div>
+  <div class="hero-content">
+    <div class="hero-eyebrow" id="hero-eyebrow">Loading...</div>
+    <h1 class="hero-title" id="hero-title"></h1>
+    <p class="hero-sub" id="hero-sub"></p>
+    <div class="hero-cta-row">
+      <a href="mailto:rjvaleo@gmail.com" class="btn btn-primary">Let's talk</a>
+      <a href="#stack" onclick="navScroll('stack')" class="btn btn-ghost">See how I work</a>
+    </div>
+    <div class="hero-name-block">
+      <strong>Richard J. Valeo, CSM</strong> &nbsp;·&nbsp;
+      <span id="hero-location">Georgetown, CO — Remote</span> &nbsp;·&nbsp;
+      <a href="mailto:rjvaleo@gmail.com">rjvaleo@gmail.com</a>
+    </div>
+  </div>
+</div>
+
+<!-- 01 THE CASE -->
+<section id="proof">
+  <div class="section-inner">
+    <div class="section-label label-coral">The Case</div>
+    <h2 class="section-title">What you asked for.<br>What you get.</h2>
+    <p class="section-subtitle" id="proof-subtitle"></p>
+    <div class="proof-grid" id="proof-grid">
+      <div class="proof-header">
+        <div>What Savas Labs needs</div>
+        <div>What I bring</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 02 THE STACK / PRACTICES -->
+<section id="stack" class="section-tint">
+  <div class="section-inner">
+    <div class="section-label label-mint">How I Work</div>
+    <h2 class="section-title" id="stack-title"></h2>
+    <p class="section-subtitle" id="stack-subhead"></p>
+    <div class="stack-wrap">
+      <div class="stack-diagram" id="stack-diagram"></div>
+      <div class="stack-info-panel" id="stack-info">
+        <h3>Click any practice</h3>
+        <p>Select one to see the proof behind it.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 03 WHEN THINGS BREAK / FROM THE FIELD -->
+<section id="incidents">
+  <div class="section-inner">
+    <div class="section-label label-marigold">From the Field</div>
+    <h2 class="section-title">Pattern recognition,<br>not panic.</h2>
+    <p class="section-subtitle">Three realistic moments. How I actually respond.</p>
+    <div class="incident-grid" id="incident-grid"></div>
+  </div>
+</section>
+
+<!-- 04 HOW I RUN A ROOM -->
+<section id="room" class="section-tint">
+  <div class="section-inner">
+    <div class="section-label label-lavender">How I Operate</div>
+    <h2 class="section-title">Outputs, not activities.</h2>
+    <p class="section-subtitle">What you actually get from every engagement.</p>
+    <div class="room-grid" id="room-grid"></div>
+  </div>
+</section>
+
+<!-- 05 TRACK RECORD -->
+<section id="record">
+  <div class="section-inner">
+    <div class="section-label label-coral">Track Record</div>
+    <h2 class="section-title">Work that holds up.</h2>
+    <p class="section-subtitle">Selected engagements most relevant to this role.</p>
+    <div class="record-list" id="record-list"></div>
+  </div>
+</section>
+
+<!-- 06 THE PARTNERSHIP -->
+<section id="partner" class="section-tint">
+  <div class="section-inner">
+    <div class="section-label label-mint">Before &amp; After</div>
+    <h2 class="section-title">What changes when I'm in the seat.</h2>
+    <p class="section-subtitle" id="partner-subtitle"></p>
+    <div class="srpm-grid" id="srpm-grid"></div>
+  </div>
+</section>
+
+<!-- 07 THE RAMP -->
+<section id="ramp">
+  <div class="section-inner">
+    <div class="section-label label-marigold">The Ramp</div>
+    <h2 class="section-title">Day one. Week two.<br>Day thirty.</h2>
+    <p class="section-subtitle">No handholding needed. Here's the plan.</p>
+    <div class="day-grid" id="day-grid"></div>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-inner">
+    <img src="assets/savas-labs/savas-logo.svg" alt="" class="footer-logo">
+    <div class="footer-name">Richard J. Valeo, CSM</div>
+    <div class="footer-links">
+      <a href="mailto:rjvaleo@gmail.com">rjvaleo@gmail.com</a>
+      <span>·</span>
+      <a href="tel:9176641750">917-664-1750</a>
+      <span>·</span>
+      <a href="https://linkedin.com/in/rjvaleo" target="_blank">linkedin.com/in/rjvaleo</a>
+    </div>
+    <div class="footer-note" id="footer-note"></div>
+  </div>
+</footer>
+
+<script src="pitch.js"></script>
+</body>
+</html>

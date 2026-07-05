@@ -1,0 +1,189 @@
+{
+  "slug": "savas-labs",
+  "company": "Savas Labs",
+  "role": "Project & Product Manager",
+  "subtitle": "Digital Agency & Consultancy Delivery",
+  "hero_title": "I ship results<br><em>that matter.</em>",
+  "hero_sub": "15+ years owning client relationships, project budgets, and delivery outcomes across digital agencies and consultancies — from production roots at @radical.media and SapientNitro through AI-native delivery work today. Three practices, one person: strategy, delivery, and hands-on engineering, applied to every client engagement.",
+
+  "the_case": [
+    {
+      "need": "5+ years project management experience, ideally digital agency or consultancy",
+      "answer": "15+ years of client-facing delivery leadership — with genuine agency production roots at @radical.media, SapientNitro, and Jack Morton Worldwide, layered under a decade of consulting engagements.",
+      "detail": "This is the deepest, most authentic match in my background — agency and consultancy delivery isn't an adjacent skill I'm stretching toward, it's where my career started and what it returned to."
+    },
+    {
+      "need": "Direct experience managing project budgets, timelines, and client relationships",
+      "answer": "Owned client relationships and delivery budgets directly at Eptura (Operations Board), Understood.org (VP of Engineering), and Crocs (retailer leadership) — and as OVRSTCH's founder, owned budget, hiring, and revenue myself.",
+      "detail": "At OVRSTCH there was no one else to hand the budget or client relationship to — I owned P&L, resourcing, and every client-facing decision as the company's sole principal."
+    },
+    {
+      "need": "Track record delivering complex web/digital projects on time and within scope",
+      "answer": "Understood.org: complex Sitecore-to-Contentful replatform delivered on time, zero critical regressions. Crocs: release governance for a publicly traded retailer. OVRSTCH: full commerce platform shipped end to end.",
+      "detail": "Each of these required holding scope and timeline discipline under real pressure — a distressed program in its final months at Understood.org, live audit review at Crocs, and full personal accountability at OVRSTCH."
+    },
+    {
+      "need": "Experience in product management",
+      "answer": "Titles have run Producer, Delivery Consultant, and Scrum Master rather than 'Product Manager' — but the scope has been the same product-thinking work throughout a decade of agency Producer roles and, most directly, as OVRSTCH's founder.",
+      "detail": "At OVRSTCH I owned every product decision myself — what to build, how to price it, what to cut. The label differs; the discipline is the same one this role needs."
+    },
+    {
+      "need": "Hands-on AI tools experience and interest in cutting-edge technology",
+      "answer": "Daily Claude Code practitioner since 2022. Shipped 6 production applications in 2026. Embedded Jira AI and Copilot into client delivery workflows at Crocs, cutting administrative overhead ~30%.",
+      "detail": "This is applied intelligence, not strategy-deck interest — I use these tools every day to build things and to make client delivery faster."
+    },
+    {
+      "need": "Team hiring and development; contribute to hiring and onboarding (bonus: agency/consultancy)",
+      "answer": "Recruited and onboarded contract talent as OVRSTCH's founder with no HR department. Earlier career team-building at Bushwick Art Project / BAPLAB.",
+      "detail": "At OVRSTCH, every hire was mine to make and get productive fast — no recruiter, no HR team, just judgment calls under real constraints."
+    },
+    {
+      "need": "Account management / business development involvement (bonus)",
+      "answer": "BD support across most of my agency career, plus self-driven business development at OVRSTCH and a stealth-mode AI startup — scoping, pricing, and securing revenue directly.",
+      "detail": "As OVRSTCH's sole principal, business development wasn't a separate function I could hand off — I identified and closed new revenue myself."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "Four practices, one project lead.",
+    "subhead": "Frontier technology. Applied intelligence. Human-centered delivery.",
+    "nodes": [
+      {
+        "label": "Strategy",
+        "desc": "Client relationships and product thinking, focused on real user and business outcomes",
+        "pm_role": "Eptura Operations Board · Understood.org VP Eng · Crocs retailer leadership"
+      },
+      {
+        "label": "Delivery",
+        "desc": "Budgets, timelines, and cross-functional teams — design, engineering, and strategy — delivered on scope",
+        "pm_role": "~10 distributed teams at Eptura · 12+ countries at Understood.org · live audit review at Crocs"
+      },
+      {
+        "label": "Engineering",
+        "desc": "AI-assisted building — internal tools, prototypes, and workflow automations, built hands-on",
+        "pm_role": "6 production apps shipped in 2026 · Jira AI & Copilot embedded at Crocs"
+      },
+      {
+        "label": "Growth",
+        "desc": "Team hiring and business development, owned personally where there was no one else to hand it to",
+        "pm_role": "OVRSTCH hiring & BD · Bushwick Art Project / BAPLAB · agency-era BD support"
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "A compliance requirement threatens to slow delivery to a crawl",
+      "response": [
+        "At Crocs, designed SOX-compliant Segregation of Duties controls",
+        "Embedded them directly into the sprint workflow — not a separate compliance gate, but part of the definition of done",
+        "Kept the team fast while the audit trail stayed clean",
+        "That's the seam a good project lead owns, not a blocker they wait for legal to clear"
+      ]
+    },
+    {
+      "scenario": "A founder needs to build and ship a product with no team to delegate to",
+      "response": [
+        "At OVRSTCH, I was the only person",
+        "Recruited contract talent, drove business development myself, and shipped a full commerce platform end to end",
+        "Owned every product, budget, and hiring decision personally",
+        "There's no substitute for having actually run the whole thing yourself before asking anyone else to"
+      ]
+    },
+    {
+      "scenario": "A distributed program is in crisis and needs stabilization fast",
+      "response": [
+        "At Understood.org, inherited a distressed, 12+-country program in its final crucial months",
+        "Established daily executive syncs and a visible recovery plan immediately",
+        "Rebuilt reporting transparency so the next update was never a surprise",
+        "Delivered on time with zero critical regressions"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Every client relationship gets a proactive status cadence — kickoffs, status meetings, retrospectives — before the client has to ask",
+    "Budgets and change orders are tracked continuously, not reconstructed when a client questions an invoice",
+    "Product thinking shows up in every engagement: what outcome does this actually need to produce, not just what was scoped",
+    "AI tools get used daily to speed up delivery — documentation, planning, and prototyping — with human judgment always in control",
+    "Team members get hired and onboarded fast, with clear ownership from day one",
+    "Attention to detail is a standard I hold myself to first, before I ask a team to raise theirs"
+  ],
+
+  "track_record": [
+    {
+      "company": "OVRSTCH",
+      "role": "Founder / Project & Product Lead",
+      "period": "2024–2026",
+      "points": [
+        "Founded and delivered an AI-native commerce platform solo, concept to production",
+        "Recruited, onboarded, and managed contract talent with no HR department",
+        "Drove business development directly — scoping, pricing, securing revenue",
+        "Diagnosed and resolved a production bottleneck, cutting cycle time ~25%"
+      ]
+    },
+    {
+      "company": "Crocs, Inc.",
+      "role": "Project Delivery Consultant / Release Governance Lead",
+      "period": "2026",
+      "points": [
+        "Owned the client relationship and release governance cadence for a publicly traded retailer",
+        "Designed SOX-compliant Segregation of Duties controls embedded in sprint workflow",
+        "Built 'Release Radar,' a real-time delivery-readiness tracking framework",
+        "Reduced administrative overhead ~30% via Jira AI and Copilot"
+      ]
+    },
+    {
+      "company": "Eptura",
+      "role": "Senior Delivery Consultant / Agile Coach",
+      "period": "2022–2023",
+      "points": [
+        "Owned delivery coordination across ~10 distributed teams spanning India and California",
+        "Produced executive dashboards tracking delivery KPIs for senior leadership",
+        "Drove 35%+ increase in delivery efficiency, 20% reduction in sprint carryover",
+        "Coached teams and Product Owners across Marketing, UX, Engineering, and Data"
+      ]
+    },
+    {
+      "company": "Understood.org",
+      "role": "Digital Delivery Consultant / Scrum Master",
+      "period": "2019–2020",
+      "points": [
+        "Stabilized a distressed, multi-year program spanning 12+ countries",
+        "Steered a Sitecore-to-Contentful replatform to on-time launch",
+        "Primary point of contact for the VP of Engineering and executive stakeholders",
+        "Delivered through QA/UAT with zero critical release regressions"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "Client relationships feel transactional — status reports instead of partnership",
+      "Budgets and change orders get reconciled after the fact, not tracked continuously",
+      "AI tools are a strategy slide, not something the team actually uses daily",
+      "Product thinking gets lost in scope compliance"
+    ],
+    "after": [
+      "Client relationships become partnerships built on proactive communication",
+      "Budgets and change orders are visible in real time, before they become surprises",
+      "AI tools are embedded in daily delivery work, speeding up documentation and planning",
+      "Every engagement centers on the real user and business outcome, not just the scope document"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Day One",
+      "deliverable": "Review the current client portfolio, project budgets, and team structure; sit in on a client status meeting to understand the relationship dynamics already in play."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Own day-to-day delivery for at least one active client engagement; identify the first opportunity to embed an AI tool into the team's workflow."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Own full client relationship and budget responsibility for an assigned engagement; contribute to a proposal or scoping conversation; deliver the first process improvement recommendation for the PM team."
+    }
+  ]
+}
