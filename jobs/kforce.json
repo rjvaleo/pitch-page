@@ -1,0 +1,189 @@
+{
+  "slug": "kforce",
+  "company": "Kforce",
+  "role": "Senior Scrum Master",
+  "subtitle": "Team Health, Agile Maturity & Data-Driven Delivery",
+  "hero_title": "Agile maturity,<br>not just <em>ceremony</em>.",
+  "hero_sub": "15+ years enabling multiple Agile teams to deliver business value through consistent application of Agile principles — coaching teams and individuals to strengthen agile maturity, using metrics to guide continuous improvement, and removing impediments directly rather than just logging them.",
+
+  "the_case": [
+    {
+      "need": "5+ years Scrum Master experience (8+ preferred)",
+      "answer": "15+ years of Scrum Master and Agile Coach roles across Eptura, Crocs, Understood.org, A&E, DigitasLBI/SunTrust, and more.",
+      "detail": "Comfortably exceeds both the required and preferred thresholds — Scrum Master leadership has been the consistent throughline since 2014."
+    },
+    {
+      "need": "Strong knowledge of agile principles, servant leadership, facilitation, conflict resolution",
+      "answer": "Core competency demonstrated across every engagement — coaching at both team and individual level, not just facilitating ceremonies.",
+      "detail": "Servant leadership isn't a talking point — at Eptura I coached teams and Product Owners individually on backlog readiness and self-organization, advancing agile maturity across a ~10-team PMO."
+    },
+    {
+      "need": "Experience using metrics to improve team performance",
+      "answer": "At Eptura, built and maintained Jira dashboards tracking velocity, sprint health, and WIP across a ~10-team program, using that data to guide performance improvements — driving a 35%+ efficiency gain and 20% sprint carryover reduction.",
+      "detail": "The dashboards weren't a reporting exercise — they were how the team caught performance issues before they became delivery misses. That's the exact distinction this posting draws between data-driven decision-making and ceremony facilitation."
+    },
+    {
+      "need": "Proficiency with Jira, ADO/TFS, Excel",
+      "answer": "Direct, daily fluency with all three across every recent engagement.",
+      "detail": "Jira and Azure DevOps administration-level fluency, plus Excel for executive-facing KPI reporting at Eptura."
+    },
+    {
+      "need": "Leadership experience and familiarity with scaling frameworks",
+      "answer": "SAFe-aligned program experience at DigitasLBI/SunTrust (2014) and Eptura (2022–2023).",
+      "detail": "Scaling framework experience spans a decade, from a SOX-compliant financial-services SAFe program to a ~10-team enterprise SaaS PMO."
+    },
+    {
+      "need": "Experience supporting agile transformations (preferred)",
+      "answer": "Underline Communications: sold and established Agile from zero, delivering an enterprise SaaS platform upgrade in 16 weeks with a newly assembled team.",
+      "detail": "This is direct proof of supporting agile transformation, not just operating inside an already-mature Agile organization — I've built the practice from scratch, not just maintained it."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The agile maturity toolkit.",
+    "subhead": "Tools used daily to turn data into team coaching conversations.",
+    "nodes": [
+      {
+        "label": "Jira & Dashboards",
+        "desc": "Administration-level Jira fluency — velocity, WIP, sprint health dashboards",
+        "pm_role": "Built and maintained flow-metrics dashboards at Eptura across a ~10-team program, driving a 35%+ efficiency gain."
+      },
+      {
+        "label": "Azure DevOps (ADO)",
+        "desc": "Cloud delivery coordination for enterprise SaaS and retail environments",
+        "pm_role": "Coordinated release readiness on Azure/Kubernetes infrastructure at Eptura, Crocs, and Understood.org."
+      },
+      {
+        "label": "Excel & Executive Reporting",
+        "desc": "KPI reporting and portfolio-level status translation for senior leadership",
+        "pm_role": "Produced recurring executive dashboards in Excel and Smartsheet at Eptura."
+      },
+      {
+        "label": "Claude Code & AI Tools",
+        "desc": "Claude AI/Claude Code, ChatGPT, Jira AI, Microsoft Copilot",
+        "pm_role": "Daily practitioner since 2022. Embedded AI tools directly into ceremonies at Crocs to cut administrative overhead ~30%."
+      },
+      {
+        "label": "Confluence & Smartsheet",
+        "desc": "Documentation, reporting, and cross-team coordination",
+        "pm_role": "Used across every engagement for RAID logs and stakeholder documentation."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "A team's performance is quietly declining but no one has the data to see it",
+      "response": [
+        "At Eptura, built Jira dashboards tracking velocity, sprint health, and WIP across a ~10-team program",
+        "Used that data to guide coaching conversations, not just report status",
+        "Caught performance dips before they became missed commitments",
+        "Result: 35%+ increase in delivery efficiency, 20% reduction in sprint carryover"
+      ]
+    },
+    {
+      "scenario": "An organization has never run Agile and needs it built from zero",
+      "response": [
+        "At Underline Communications, sold and established Agile from scratch for a team that had never used it",
+        "Built the ceremony cadence, backlog discipline, and coaching relationships from nothing",
+        "Assembled a newly formed distributed team around the new process",
+        "Result: delivered an enterprise SaaS platform upgrade in 16 weeks, on time and under budget"
+      ]
+    },
+    {
+      "scenario": "A distributed, multi-country team needs stabilization after inheriting a program in crisis",
+      "response": [
+        "At Understood.org, inherited a distressed, multi-year program spanning 12+ countries",
+        "Took over in its final crucial months, under real pressure",
+        "Stabilized ceremony cadence and reporting transparency immediately",
+        "Result: delivered the replatform through QA/UAT with zero critical regressions"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Every ceremony generates data, and that data drives coaching conversations, not just retro discussions",
+    "Impediments get removed directly, or teams get coached to resolve them independently — both are the job",
+    "Individual coaching happens alongside team coaching; agile maturity is a person-level outcome, not just a team-level one",
+    "RAID log maintained and reviewed at every stakeholder touchpoint; risks named before they become issues",
+    "Definition of Ready/Done enforced consistently, not treated as optional under deadline pressure",
+    "Collaborates with other Scrum Masters to evolve shared best practices, not operate in a silo"
+  ],
+
+  "track_record": [
+    {
+      "company": "Eptura",
+      "role": "Senior Scrum Master / Agile Coach",
+      "period": "2022–2023",
+      "points": [
+        "Built and maintained Jira dashboards tracking velocity, sprint health, and WIP",
+        "Coached teams and Product Owners at both team and individual level",
+        "Drove 35%+ increase in delivery efficiency, 20% reduction in sprint carryover",
+        "Facilitated Scrum-of-Scrums across ~10 distributed teams spanning India and California"
+      ]
+    },
+    {
+      "company": "Underline Communications",
+      "role": "Agile Coach & SaaS Transformation Manager",
+      "period": "2015–2016",
+      "points": [
+        "Sold and established Agile from zero for an organization with no prior practice",
+        "Built ceremony cadence and coaching relationships from scratch",
+        "Delivered an enterprise SaaS platform upgrade in 16 weeks",
+        "Assembled and onboarded a newly formed distributed team"
+      ]
+    },
+    {
+      "company": "Crocs, Inc.",
+      "role": "Scrum Master / Release Governance Lead",
+      "period": "2026",
+      "points": [
+        "Facilitated ceremonies across Engineering, QA, Change Management, and Business",
+        "Reinforced Definition of Done via embedded compliance controls",
+        "Built 'Release Radar,' a real-time release-readiness tracking framework",
+        "Reduced administrative overhead ~30% via Jira AI and Copilot"
+      ]
+    },
+    {
+      "company": "Understood.org",
+      "role": "Scrum Master / Digital Producer",
+      "period": "2019–2020",
+      "points": [
+        "Stabilized a distressed, multi-year program spanning 12+ countries",
+        "Steered a Sitecore-to-Contentful replatform to on-time launch",
+        "Primary point of contact for the VP of Engineering",
+        "Delivered through QA/UAT with zero critical release regressions"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "Ceremonies happen but agile maturity stays flat across teams",
+      "Team performance issues go unnoticed until they become delivery misses",
+      "Impediments get logged but not actually removed",
+      "Coaching happens at the team level only, never reaching individuals"
+    ],
+    "after": [
+      "Agile maturity advances because coaching happens at both team and individual level",
+      "Data surfaces performance issues early, before they become misses",
+      "Impediments get removed directly, or teams are coached to resolve them independently",
+      "A culture of accountability and quality reinforced consistently, not just when convenient"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Day One",
+      "deliverable": "Review current team health data, ceremony cadence, and backlog status for all supported teams; meet with Product Owners and leadership to understand delivery priorities."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Begin coaching at both team and individual level; identify the first team-health metric worth tracking more closely."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Own ceremony facilitation and reporting cadence for all supported teams; deliver the first data-driven process improvement recommendation."
+    }
+  ]
+}
