@@ -1,0 +1,196 @@
+{
+  "slug": "curaleaf",
+  "company": "Curaleaf",
+  "role": "Scrum Master",
+  "subtitle": "Agile Coach · System Integrations & Migrations · Scaled Delivery",
+  "hero_title": "I grow it.<br><em>Now I want to deliver it.</em>",
+  "hero_sub": "Three years as a home grower. Ten years as a Scrum Master. The passion for the plant is not borrowed from a job posting — and the delivery discipline has been tested at scale across enterprise, startup, and regulated environments.",
+
+  "the_case": [
+    {
+      "need": "5+ years SM with multiple cross-functional development teams",
+      "answer": "10+ years — Eptura (~10 distributed teams, enterprise SaaS), A&E (~10 concurrent SVOD workstreams), Understood.org, Crocs, Stealth AI, DigitasLBI (SAFe), Paperless Post (NEXUS).",
+      "detail": "The five-year ask is exceeded by double across every team type — enterprise SaaS, media/streaming, healthcare-adjacent, AI/data, financial services, and consumer e-commerce. Each engagement is a different domain, a different team composition, and a different technical context. The consistent outcomes are the same: ceremonies running cleanly, backlogs that are ready to build, blockers surfacing before they stall a sprint, and delivery metrics that inform decisions rather than decorate dashboards."
+    },
+    {
+      "need": "Strong experience supporting system integrations and migration projects",
+      "answer": "Sitecore→Contentful CMS migration at Understood.org. Cross-environment integration release governance at Crocs. WooCommerce/Stripe/Printify API integrations at OVRSTCH. AI data pipeline delivery at Stealth AI. Google Gemini API integration via Creative Coder.",
+      "detail": "System integrations and migrations are the deliverables I have the most specific experience protecting. At Understood.org I led SM delivery for a complex CMS migration — requirements through go-live, coordinating Engineering, QA, Content, and Compliance, with no critical regressions at launch. At Crocs I managed cross-environment integration dependencies through the full build→test→UAT→cutover lifecycle under a hard go-live deadline. Integration delivery is where the cross-team dependency management and release sequencing discipline matters most."
+    },
+    {
+      "need": "Azure DevOps and/or Jira — hands-on, backlog and sprint management",
+      "answer": "ADO configuration owner at Eptura PMO (~10 teams). Jira admin-level at A&E (built from scratch), Understood.org (Service Desk), Crocs (SOD compliance workflow configuration), and Eptura. Jira AI embedded at Crocs — ~30% overhead reduction.",
+      "detail": "Both tools at administration level — not just daily use. At A&E I took teams from Post-it notes to a fully administered Jira instance across ~10 workstreams. At Eptura I was the ADO configuration owner for the full PMO and built the Smartsheet dashboards that synthesized delivery health for senior leadership. At Crocs I configured Jira SOD compliance controls to meet SOX audit requirements. The tools are not the skill — knowing what to build in Jira or ADO so the visibility it creates is actually useful to the people who need it is the skill."
+    },
+    {
+      "need": "Scaled Agile frameworks — SAFe, LeSS, or NEXUS",
+      "answer": "SAFe at DigitasLBI/SunTrust (PI planning, ART coordination, offshore delivery). NEXUS at Paperless Post. Scrum-of-Scrums at scale at Eptura (~10 teams) and A&E (~10 concurrent workstreams).",
+      "detail": "SAFe in a live SAFe enterprise environment (DigitasLBI/SunTrust, 2014) — PI planning, ART-aligned delivery across onshore and offshore teams. NEXUS coaching and training at Paperless Post, developed for two concurrent teams. Scrum-of-Scrums as a sustained operational practice at Eptura and A&E across ~10 teams simultaneously. The framework is the structure — the underlying scaled delivery discipline is consistent across all of them."
+    },
+    {
+      "need": "Technical background — software engineering concepts, DevOps familiarity",
+      "answer": "Former front-end engineer (Organic Inc., Flavorpill). Current: React, Next.js, TypeScript, Three.js, GitHub Actions CI/CD, Google Gemini API — six production applications shipped in 2026. Can read code, review a deployment pipeline, and hold a technical conversation with DevOps without losing fidelity.",
+      "detail": "The technical foundation is not borrowed from proximity to engineers — I hand-coded HTML, JSP, PHP, JavaScript, and CSS for Bloomingdale's e-commerce at my first job out of college. This year I shipped six production web applications using Claude Code as the AI coding agent — audio DSP, real-time 3D, game physics, and a Next.js portfolio with a full security-hardening pass. CI/CD pipelines via GitHub Actions. When I coordinate with a DevOps team on a release, I understand what they are actually dealing with."
+    },
+    {
+      "need": "CSM or equivalent — required",
+      "answer": "Certified Scrum Master (CSM) — Scrum Alliance, current.",
+      "detail": "CSM is the required cert and it is held current. Also have practical SAFe delivery experience from DigitasLBI/SunTrust and NEXUS coaching experience from Paperless Post — the theory is grounded in real delivery practice at scale."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The delivery toolkit.",
+    "subhead": "The platforms and practices behind ten years of SM delivery.",
+    "nodes": [
+      {
+        "label": "Jira & Azure DevOps",
+        "desc": "Admin-level fluency — workflows, boards, dashboards, SOD compliance controls, sprint health, velocity, and portfolio reporting",
+        "pm_role": "Built Jira from scratch at A&E. Configured ADO at Eptura PMO. Jira SOD compliance controls at Crocs. Jira AI embedded for delivery automation. Both tools at the administration level."
+      },
+      {
+        "label": "Jira AI & Copilot",
+        "desc": "AI-assisted backlog management, sprint summaries, and delivery reporting automation",
+        "pm_role": "Embedded at Crocs — ~30% administrative overhead reduction. Output quality improved because I had time to review instead of generate. AI handles the recurring output; human judgment owns every result."
+      },
+      {
+        "label": "GitHub & CI/CD",
+        "desc": "Git version control, GitHub Actions CI/CD, deployment pipeline coordination",
+        "pm_role": "Owned CI/CD pipelines for six production applications via GitHub Actions. Coordinated build→test→UAT→cutover at Crocs. Can read a pipeline and coordinate a release without losing anything in translation."
+      },
+      {
+        "label": "Scaled Frameworks",
+        "desc": "SAFe (PI planning, ART coordination), NEXUS (multi-team Scrum), Scrum-of-Scrums at scale",
+        "pm_role": "SAFe in a live SAFe enterprise at DigitasLBI/SunTrust. NEXUS coaching at Paperless Post. Scrum-of-Scrums across ~10 teams at Eptura and A&E. Framework-agnostic — the delivery discipline is consistent."
+      },
+      {
+        "label": "Integration & Migration Delivery",
+        "desc": "CMS migrations, API integrations, cross-environment release sequencing, and data pipeline delivery",
+        "pm_role": "Sitecore→Contentful at Understood.org. Cross-environment release governance at Crocs. WooCommerce/Stripe/Printify at OVRSTCH. AI data pipelines at Stealth AI. Integration delivery is the specialty."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "A cross-team integration dependency surfaces mid-sprint — two teams are blocked on each other",
+      "response": [
+        "Convene both team leads immediately — not at the next ceremony",
+        "Map the exact dependency: what does Team A need from Team B, by when, and what is the sprint impact?",
+        "Facilitate a resolution with the right decision-makers in the room — not a relay of messages",
+        "Add the dependency to the RAID log with an owner, a resolution date, and a communication plan",
+        "Build a lightweight synchronization cadence between the two teams for the rest of the sprint"
+      ]
+    },
+    {
+      "scenario": "A migration go-live is at risk — QA found a data integrity issue two days before cutover",
+      "response": [
+        "Stop the cutover clock — announce a hold before anyone is surprised by it",
+        "Get the scope of the data issue in writing from QA before any engineering work starts on the fix",
+        "Escalate to leadership immediately with a concrete decision request: delay, de-scope, or accept documented risk",
+        "Document the decision and the owner before the engineering team resumes",
+        "Add a data integrity checkpoint to the Definition of Done for every future migration sprint"
+      ]
+    },
+    {
+      "scenario": "A team is resisting retro action items — they happen but nothing changes",
+      "response": [
+        "Acknowledge it directly in the next retro: 'Action items from last three retros — what happened?'",
+        "Stop generating new action items until the old ones are closed or explicitly abandoned with a reason",
+        "Reduce to one action item per retro — owned by a specific person, with a specific done criterion",
+        "Make the action item the first agenda item of the next retro, not an afterthought",
+        "If the resistance is cultural and systemic, escalate with data: here is what the pattern shows"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Every ceremony has a stated outcome — if it doesn't, it doesn't happen",
+    "Integration dependencies get a named owner and a resolution date within 24 hours of surfacing",
+    "Migration go-live decisions are made with the right people in the room — not ratified after the fact",
+    "Retro action items are the first agenda item of the next retro — not archived notes",
+    "Blockers surface at standup with a proposed path forward — not at retrospective as a postmortem",
+    "Jira AI handles recurring reporting — human review before it leaves the building",
+    "The team owns their process — the SM creates the conditions, not the dependency"
+  ],
+
+  "track_record": [
+    {
+      "company": "Understood.org",
+      "role": "Digital Producer & Scrum Master — CMS Migration",
+      "period": "2019–2020",
+      "points": [
+        "Led SM delivery for Sitecore→Contentful migration — requirements through go-live",
+        "Coordinated Engineering, QA, Content, and Compliance across a 12+ country team",
+        "On-time launch, no critical regressions — took over a distressed program in its final months",
+        "WCAG 2.1 AA enforced as a non-negotiable Definition of Done throughout the migration"
+      ]
+    },
+    {
+      "company": "Crocs, Inc.",
+      "role": "Scrum Master & PM — Release Governance (Contract)",
+      "period": "2026",
+      "points": [
+        "Managed cross-environment integration dependencies through build→test→UAT→cutover",
+        "SOX-compliant release governance with Go/No-Go cadence and CAB-style change approval",
+        "Jira AI and Copilot embedded — ~30% administrative overhead reduction",
+        "On-time go-live with clean post-launch stabilization under hard deadline pressure"
+      ]
+    },
+    {
+      "company": "Eptura",
+      "role": "Agile Coach & Senior Scrum Master — Enterprise PMO",
+      "period": "2022–2023",
+      "points": [
+        "~10 distributed teams (India and California) — ADO configuration owner, Jira standardization",
+        "35%+ delivery efficiency gain; 20% sprint carryover reduction",
+        "Scrum-of-Scrums, program-level planning, and scaled delivery coordination at PMO level",
+        "Mentored junior SMs; facilitated org-wide Agile mentorship across the enterprise"
+      ]
+    },
+    {
+      "company": "A&E Television Networks",
+      "role": "Scrum Master & Agile Coach — Multi-Platform",
+      "period": "2016–2018",
+      "points": [
+        "~10 concurrent SVOD workstreams — Web, iOS, tvOS, Android, Roku — Scrum-of-Scrums",
+        "Built Jira from scratch across all teams; two-year cultural transformation",
+        "Shipped all platforms against externally committed, publicly visible launch windows"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "Cross-team integration dependencies surface at the sprint review — too late to protect the delivery",
+      "Migration go-live decisions get made by whoever is in the room when things go sideways",
+      "Retro action items accumulate — they are documented but nothing actually changes",
+      "Blocked teams wait for the next standup to surface what they needed resolved yesterday"
+    ],
+    "after": [
+      "Integration dependencies have owners and resolution dates within 24 hours — tracked in RAID",
+      "Migration go-live decisions are made with the right people in the room and documented before work resumes",
+      "Retro action items are the first agenda item at the next retro — owned, done-criteriaed, closed",
+      "Blockers surface at standup with a proposed path forward — momentum is protected, not recovered"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Week 1",
+      "deliverable": "Meet the teams, the POs, and the engineering leads. Audit current Jira/ADO setup, ceremony cadence, and any active integration or migration workstreams. Understand what 'done' actually means for Curaleaf's development teams."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Facilitate first full ceremony cycle. Identify the top 3 cross-team dependency risks that aren't currently tracked. Propose the first process improvement based on what the metrics show."
+    },
+    {
+      "timeframe": "Week 3–4",
+      "deliverable": "RAID log live for active integration workstreams. Jira workflows and sprint reporting running cleanly. First retro action item implemented and confirmed done — not just committed."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Teams running ceremonies independently with measurable improvement in delivery predictability. Integration dependency risks surfacing in planning rather than at cutover. Leadership has real-time delivery visibility without asking."
+    }
+  ]
+}

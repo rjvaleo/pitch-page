@@ -1,0 +1,89 @@
+{
+  "company": "66degrees",
+  "role": "Senior Engagement Manager — AI & Cloud Transformation",
+  "slug": "66degrees",
+  "hero": {
+    "name": "Richard J. Valeo, CSM",
+    "title": "Senior Engagement Manager · AI & Cloud Transformation Consulting",
+    "value": "15 years of client-facing consulting delivery — from enterprise AI platform adoption to cloud transformation and digital commerce. I own the engagement lifecycle from requirements to retrospective, maintain executive relationships under pressure, and build the delivery structure that moves complex programs from concept to measurable outcome.",
+    "pitch_url": "rjvaleo.github.io/pitch-page/?job=66degrees"
+  },
+  "the_case": [
+    {
+      "requirement": "8+ years managing large complex enterprise programs as a consultant",
+      "evidence": "15+ years of external consulting delivery — Eptura (Agile PMO lead, ~10 distributed teams), Understood.org (stabilized distressed multi-year program, 12+ countries), Crocs (release governance for a public retailer, SOX-compliant), Stealth AI startup (AI pipeline delivery, C-Suite stakeholder management)"
+    },
+    {
+      "requirement": "AI transformation program experience",
+      "evidence": "Engagement lead at stealth AI startup building fine-tuned models (Google Gemini, GPT-4, Claude via API); OVRSTCH AI-first platform delivery from concept to production; daily hands-on practitioner of Claude Code, Jira AI, Microsoft Copilot since 2022; 6 production AI-assisted applications shipped in 2026"
+    },
+    {
+      "requirement": "Prior consulting experience and executive communication — required",
+      "evidence": "All primary recent engagements as external consultant: Eptura (Operations Board reporting, ~10 teams), Crocs (retailer leadership, go/no-go cadence), Stealth AI (C-Suite daily coordination), Understood.org (VP of Engineering primary contact, advised on PMO structure)"
+    },
+    {
+      "requirement": "Scrum/Agile certification, SAFe, enterprise delivery frameworks",
+      "evidence": "CSM certified (current). SAFe/PI Planning at DigitasLBI/SunTrust (2014) and Eptura (2022–2023). Scrum-of-Scrums across ~10 teams. Agile transformation at A&E, Underline Communications, Eptura. Hybrid waterfall/Agile delivery throughout."
+    },
+    {
+      "requirement": "Project scope, finances, schedule, and stakeholder management",
+      "evidence": "Full engagement ownership across all consulting roles: requirements gathering, scope definition, milestone planning, budget and resource tracking, RAID logs, escalation paths, and executive reporting from kickoff through retrospective"
+    },
+    {
+      "requirement": "Technical background, software/cloud understanding",
+      "evidence": "Azure/Kubernetes delivery at Eptura, Crocs, and Understood.org. Hands-on AI tooling fluency (Claude, GPT-4, Jira AI, Copilot). Front-end engineering background (HTML, PHP, JavaScript, CSS) from career foundation. 6 production applications shipped in 2026 using AI-assisted development."
+    },
+    {
+      "requirement": "Cross-functional engagement: cloud, data, AI, application development, digital experience",
+      "evidence": "Led AI data/automation (Stealth), cloud SaaS delivery (Eptura), digital platform transformation (Understood.org, A&E SVOD), eCommerce (Crocs, OVRSTCH), media/streaming (A&E, Meta)"
+    }
+  ],
+  "the_stack": {
+    "description": "66degrees client AI transformation ecosystem — tools I work in daily or have direct delivery experience with",
+    "tools": [
+      "Jira (epics/stories/dashboards/workflows — administration level)",
+      "Azure DevOps",
+      "Confluence",
+      "Smartsheet",
+      "Asana",
+      "Google Workspace",
+      "GitHub Actions (CI/CD)",
+      "Claude AI / Claude Code",
+      "ChatGPT / GPT-4",
+      "Jira AI",
+      "Microsoft Copilot",
+      "Contentful (headless CMS)",
+      "WordPress / WooCommerce"
+    ]
+  },
+  "when_things_break": [
+    {
+      "scenario": "AI initiative stalls in proof-of-concept — can't cross into production delivery",
+      "response": "At the Stealth AI startup, the bottleneck was requirements ambiguity — the research team couldn't articulate testable acceptance criteria, so engineering kept rebuilding. I ran structured requirements elicitation sessions, translated outputs into sprint-ready user stories with measurable acceptance criteria, and established a delivery cadence. Data processing throughput improved ~30% and delivery predictability stabilized within the first two sprints."
+    },
+    {
+      "scenario": "Client executive loses confidence mid-engagement due to missed milestones and unclear status",
+      "response": "At Understood.org, the program was distressed when I arrived — milestones had slipped, the distributed team lacked a coherent cadence, and executive trust was low. I immediately established daily executive syncs, produced a clear milestone recovery plan with a visible burndown, and rebuilt reporting transparency. Delivered the replatform on time with no critical regressions."
+    },
+    {
+      "scenario": "Cross-team dependency deadlock blocks delivery across 10+ distributed teams",
+      "response": "At Eptura, cross-team dependencies were surfacing late and blocking sprint completion. I established a Scrum-of-Scrums cadence as the primary dependency resolution layer and built a Jira dashboard giving leadership real-time dependency health visibility. Blocked items got resolved at the SoS level rather than escalating to senior leadership. Sprint carryover dropped ~20% over the following quarter."
+    }
+  ],
+  "how_i_run_a_room": [
+    "Weekly engagement status report: milestone progress, risks, blockers, next-period commitments — delivered before the client asks",
+    "RAID log maintained and reviewed at every stakeholder touchpoint; risks named before they become issues",
+    "Retrospectives produce measurable process changes — not just action lists that expire",
+    "Executive escalations always include: the issue, the impact, the proposed resolution, and a timeline",
+    "Offshore/distributed team alignment: async standup + next-day context brief so no development day is lost",
+    "Go/no-go criteria defined before the sprint, not after the sprint fails"
+  ],
+  "sr_pm_partner": {
+    "before": "AI transformation programs stall between strategy and execution — workstreams lack ownership, executives don't know where things stand, and risks surface as emergencies rather than decisions",
+    "after": "Clear milestone visibility, RAID-managed dependencies, executive reporting that anticipates questions before they're asked, and a delivery culture that surfaces risks before they become blockers — so client leadership can focus on strategy, not status"
+  },
+  "the_ramp": {
+    "day_one": "Review active client engagement portfolio, shadow two ongoing program status meetings, read existing project charters and RAID logs to establish risk posture — arrive with questions, not assumptions",
+    "thirty_days": "Own governance cadence for at least one active client engagement; produce first executive status report using 66degrees format; identify 2–3 process improvements in current delivery reporting structure; establish working relationships with three client-side stakeholders"
+  }
+}
