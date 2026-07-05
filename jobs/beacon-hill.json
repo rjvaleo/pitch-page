@@ -1,0 +1,81 @@
+{
+  "company": "Beacon Hill Technologies",
+  "role": "Senior Scrum Master (Contract, Remote)",
+  "slug": "beacon-hill",
+  "hero": {
+    "name": "Richard J. Valeo, CSM",
+    "title": "Senior Scrum Master · Data-Driven Agile Delivery & Flow Optimization",
+    "value": "15+ years leading Agile delivery across complex, cross-functional software initiatives — using velocity, WIP, cycle time, throughput, and cumulative flow data to drive sprint planning, forecasting, and continuous improvement, not just facilitate ceremonies.",
+    "pitch_url": "rjvaleo.github.io/pitch-page/?job=beacon-hill"
+  },
+  "the_case": [
+    {
+      "requirement": "8+ years Scrum Master and/or Project Management experience",
+      "evidence": "15+ years of SM/delivery leadership across Eptura, Crocs, Understood.org, A&E, DigitasLBI/SunTrust, and more"
+    },
+    {
+      "requirement": "5+ years supporting Agile software development teams; deep SDLC/Scrum/Kanban knowledge",
+      "evidence": "Scrum, Kanban, and hybrid Agile facilitation across every engagement since 2014, including SAFe/PI-aligned programs at Eptura and DigitasLBI/SunTrust"
+    },
+    {
+      "requirement": "Strong experience using Agile metrics and reporting to guide sprint planning, forecasting, performance improvement",
+      "evidence": "Eptura: built and maintained Jira dashboards tracking velocity, sprint health, WIP, and cumulative flow across a ~10-team program, driving 35%+ efficiency gain and 20% carryover reduction"
+    },
+    {
+      "requirement": "Experience managing complex, cross-functional initiatives",
+      "evidence": "Eptura (~10 distributed teams, India/California), Understood.org (12+ countries), A&E (~10 concurrent workstreams)"
+    },
+    {
+      "requirement": "Active Scrum Master certification",
+      "evidence": "Certified Scrum Master (CSM), Scrum Alliance — current"
+    },
+    {
+      "requirement": "Healthcare, life sciences, or regulated industry experience (preferred)",
+      "evidence": "SOX-compliant delivery at Crocs (public retailer) and DigitasLBI/SunTrust (financial services) — not healthcare-specific, but genuine regulated-industry audit/change-control discipline"
+    }
+  ],
+  "the_stack": {
+    "description": "Agile delivery and reporting tools used daily or with direct delivery experience",
+    "tools": [
+      "Jira",
+      "Confluence",
+      "Azure DevOps",
+      "Smartsheet",
+      "GitHub Actions (CI/CD)",
+      "Claude AI / Claude Code",
+      "ChatGPT",
+      "Jira AI",
+      "Microsoft Copilot"
+    ]
+  },
+  "when_things_break": [
+    {
+      "scenario": "A program is heading toward a missed sprint commitment, but no one sees it coming until it's too late",
+      "response": "At Eptura, I built Jira dashboards tracking velocity, sprint health, WIP, and cumulative flow across a ~10-team program — using that data to forecast delivery risk before it became a missed commitment, rather than finding out at the sprint review."
+    },
+    {
+      "scenario": "A data pipeline or delivery workflow has a hidden bottleneck no one has diagnosed",
+      "response": "At a stealth-mode AI startup, I ran root cause analysis on a throughput bottleneck across a data processing pipeline and re-sequenced the workflow, improving throughput ~30% and strengthening delivery predictability."
+    },
+    {
+      "scenario": "Cross-environment release dependencies threaten a go-live and leadership has no visibility into readiness",
+      "response": "At Crocs, I built 'Release Radar,' a Jira-based flow-visibility framework giving leadership real-time readiness data across every environment before dependencies could derail the go-live."
+    }
+  ],
+  "how_i_run_a_room": [
+    "Every ceremony generates data — velocity, WIP, cycle time, cumulative flow — and that data drives the next planning decision, not just the retro discussion",
+    "RAID log maintained and reviewed at every stakeholder touchpoint; risks named before they become issues",
+    "Executive dashboards translate sprint-level data into program-level forecasting language leadership can act on",
+    "Root cause analysis on delivery misses — not just 'what happened' but 'what pattern will happen again if we don't fix the underlying cause'",
+    "Backlog readiness and WIP discipline enforced consistently across Scrum and Kanban teams alike",
+    "Go/no-go criteria and change-control gates defined before the sprint, not after it fails"
+  ],
+  "sr_pm_partner": {
+    "before": "Sprint commitments slip without warning, ceremonies happen but don't generate decisions, and leadership finds out about delivery risk after it's already a problem",
+    "after": "Dashboards that forecast risk before it becomes a miss, ceremonies that produce real decisions, and a delivery culture where root cause analysis prevents the same bottleneck from recurring"
+  },
+  "the_ramp": {
+    "day_one": "Review current sprint/program health data (velocity, WIP, cumulative flow if available), shadow a ceremony for each team supported, and read existing backlog and RAID documentation",
+    "thirty_days": "Own ceremony facilitation and reporting cadence for all supported teams; stand up or improve existing flow-metrics dashboards; identify 2-3 process improvements from initial root cause analysis of current delivery patterns"
+  }
+}
