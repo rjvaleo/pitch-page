@@ -1,0 +1,190 @@
+{
+  "slug": "talent-groups",
+  "company": "Talent Groups",
+  "role": "Senior Technical Product Delivery Manager",
+  "subtitle": "MVP & Unified Platform Delivery",
+  "hero_title": "Structure for ambiguity.<br>An MVP that <em>ships</em>.",
+  "hero_sub": "15+ years leading complex technology initiatives from ambiguous business need to production outcome — including direct 0-to-1 and MVP delivery experience as a founder who built and shipped a platform end to end.",
+
+  "the_case": [
+    {
+      "need": "7+ years TPM/Technical Program Management/Product Delivery/Systems Analysis",
+      "answer": "15+ years of technical delivery leadership across Eptura, Crocs, Understood.org, OVRSTCH, and more.",
+      "detail": "Comfortably exceeds the stated threshold — technical product delivery has been the consistent throughline of my career."
+    },
+    {
+      "need": "MVP, prototype, product modernization, platform consolidation, or 0-to-1 delivery",
+      "answer": "OVRSTCH: founded and delivered an MVP solo, concept to production. Understood.org: led a platform modernization/replatform initiative through UAT and launch. Stealth AI startup: 0-to-1 delivery from ambiguous research to production model.",
+      "detail": "This is the strongest section of my background for this specific role — OVRSTCH is a literal 0-to-1 MVP I built and shipped myself, with no engineering team to hand it to. Understood.org is a direct platform modernization match. The stealth AI startup engagement was 0-to-1 delivery under real ambiguity."
+    },
+    {
+      "need": "Translate ambiguous business needs into structured technical requirements and delivery plans",
+      "answer": "Core throughline across every engagement — from stealth AI startup research goals to Eptura's cross-functional Agile PMO transformation.",
+      "detail": "Every consulting engagement started with ambiguity and required building the structure myself — requirements, backlogs, delivery plans — not inheriting it from someone else."
+    },
+    {
+      "need": "Cross-functional alignment across Product, Engineering, Finance, and business teams",
+      "answer": "Eptura: Operations Board reporting across ~10 teams. Understood.org: primary point of contact for the VP of Engineering and executive stakeholders.",
+      "detail": "Executive-level alignment across functions has been a constant, not an exception — I've been the named bridge between technical delivery and business decision-making at every recent engagement."
+    },
+    {
+      "need": "Leading technical integrations and managing dependencies across systems",
+      "answer": "OVRSTCH: integrated payment (Stripe, WooPay, ApplePay) and fulfillment (Printify API) systems solo. Eptura and Crocs: cross-team, cross-system dependency coordination at enterprise scale.",
+      "detail": "The OVRSTCH integration work is direct, hands-on proof — I owned the technical integration decisions myself, with real cross-platform data dependencies and no team to delegate to."
+    },
+    {
+      "need": ".NET, SQL, and AWS experience (strongly preferred, not stated as a hard requirement)",
+      "answer": "Cloud delivery background is Azure rather than AWS specifically; general SQL/database background (MySQL). .NET is not in my direct experience. Addressed honestly via the JD's own alternate path — prior developer/systems-focused experience.",
+      "detail": "I'm not going to claim direct .NET or AWS experience I don't have. What I bring instead is exactly what this posting says can substitute: systems-focused technical fluency, built as a former front-end engineer and sharpened this year shipping 6 production applications hands-on via Claude Code."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The MVP delivery toolkit.",
+    "subhead": "Tools used daily or with direct delivery experience.",
+    "nodes": [
+      {
+        "label": "Jira & Azure DevOps",
+        "desc": "Administration-level Jira fluency plus Azure/Kubernetes cloud delivery coordination",
+        "pm_role": "Standardized at Eptura across ~10 teams. Coordinated release readiness on Azure/Kubernetes infrastructure at Eptura, Crocs, and Understood.org."
+      },
+      {
+        "label": "Payment & Fulfillment Integration",
+        "desc": "Stripe, WooPay, ApplePay, Printify — hands-on API integration",
+        "pm_role": "Personally architected and integrated every one of these systems at OVRSTCH as founder, with real cross-platform data dependencies."
+      },
+      {
+        "label": "Claude Code & AI Tools",
+        "desc": "Claude AI/Claude Code, ChatGPT, Jira AI, Microsoft Copilot",
+        "pm_role": "Daily practitioner since 2022. 6 production apps shipped via Claude Code in 2026, demonstrating hands-on systems-level fluency."
+      },
+      {
+        "label": "SQL / Database",
+        "desc": "General SQL and database background (MySQL, complex queries)",
+        "pm_role": "Not .NET/AWS-specific, but a genuine, transferable database fluency confirmed through direct hands-on exposure on prior engagements."
+      },
+      {
+        "label": "Confluence, Smartsheet, GitHub Actions",
+        "desc": "Documentation, reporting, and CI/CD coordination",
+        "pm_role": "Used across every recent engagement for requirements documentation, RAID logs, and delivery automation."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "An MVP needs to ship with real technical integration dependencies and no dedicated engineering team",
+      "response": [
+        "At OVRSTCH, I was the only person — no team to hand any integration work to",
+        "Architected the commerce platform and integrated payment systems (Stripe, WooPay, ApplePay)",
+        "Automated fulfillment via the Printify API with real cross-platform data dependencies",
+        "Diagnosed a production bottleneck and re-sequenced the workflow myself",
+        "Result: cut order-to-fulfillment cycle time ~25%"
+      ]
+    },
+    {
+      "scenario": "A platform modernization initiative is distressed and needs to reach UAT and launch under real pressure",
+      "response": [
+        "At Understood.org, inherited a distressed, multi-year platform modernization in its final crucial months",
+        "Led UAT planning and execution — test coordination, defect triage, sign-off",
+        "Championed accessibility compliance as a non-negotiable Definition of Done requirement",
+        "Result: delivered through QA/UAT with zero critical release regressions"
+      ]
+    },
+    {
+      "scenario": "Multiple business units and technical teams need to align on priorities before delivery can even start",
+      "response": [
+        "At Eptura, ~10 distributed teams across Marketing, UX, Engineering, and Data had never worked from a shared cadence",
+        "Facilitated Scrum-of-Scrums as the primary cross-team alignment mechanism",
+        "Produced executive dashboards so leadership could see conflicts and dependencies before they became blockers",
+        "Result: 35%+ increase in delivery efficiency, 20% reduction in sprint carryover"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Every initiative starts with structured discovery — bringing order to ambiguity before any requirement gets written down",
+    "Technical requirements, process flows, and decision records are documented as they're made, not reconstructed after the fact",
+    "RAID log maintained and reviewed at every stakeholder touchpoint; risks and dependencies named before they become blockers",
+    "Executive status reporting anticipates questions before they're asked",
+    "UAT is planned as part of the delivery plan from day one, not bolted on before launch",
+    "Release readiness is a defined, documented gate — not a hope"
+  ],
+
+  "track_record": [
+    {
+      "company": "OVRSTCH",
+      "role": "Founder / MVP & Platform Delivery Lead",
+      "period": "2024–2026",
+      "points": [
+        "Founded and delivered a 0-to-1 MVP solo, concept to production",
+        "Integrated payment (Stripe, WooPay, ApplePay) and fulfillment (Printify API) systems",
+        "Owned technical integration planning with real cross-platform data dependencies",
+        "Diagnosed and resolved a production bottleneck, cutting cycle time ~25%"
+      ]
+    },
+    {
+      "company": "Understood.org",
+      "role": "Technical Delivery Consultant / Platform Modernization Lead",
+      "period": "2019–2020",
+      "points": [
+        "Led a Sitecore-to-Contentful platform modernization to on-time launch",
+        "Managed a globally distributed team across 12+ countries",
+        "Led UAT planning and execution through sign-off",
+        "Primary technical point of contact for the VP of Engineering"
+      ]
+    },
+    {
+      "company": "Eptura",
+      "role": "Senior Technical Delivery Consultant / Agile Coach",
+      "period": "2022–2023",
+      "points": [
+        "Coordinated technical integration planning across ~10 distributed teams",
+        "Produced executive dashboards tracking delivery KPIs for senior leadership",
+        "Drove 35%+ increase in delivery efficiency, 20% reduction in sprint carryover",
+        "Acted as escalation point for delivery risk and cross-team blockers"
+      ]
+    },
+    {
+      "company": "Crocs, Inc.",
+      "role": "Technical Delivery Consultant / Release Governance Lead",
+      "period": "2026",
+      "points": [
+        "Owned release governance cadence and go/no-go decisions",
+        "Designed SOX-compliant Segregation of Duties controls in Jira workflow",
+        "Built 'Release Radar,' a real-time release-readiness tracking framework",
+        "Reduced administrative overhead ~30% via Jira AI and Copilot"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "MVP scope is unclear and business units disagree on priorities",
+      "Technical requirements get lost in translation between business and engineering",
+      "Cross-system dependencies surface late, threatening the delivery timeline",
+      "Executives find out about delivery risk after it's already a problem"
+    ],
+    "after": [
+      "A clear MVP scope with structured requirements everyone has aligned on",
+      "Technical requirements translated cleanly from business vision to engineering execution",
+      "Cross-system dependencies mapped and managed before they become blockers",
+      "Executive reporting that surfaces risk early enough to act on it"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Day One",
+      "deliverable": "Review current MVP scope, stakeholder map, and existing technical documentation; sit in on discovery sessions to understand where ambiguity remains."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Begin translating business requirements into technical specifications and delivery plans; identify the first cross-system dependency risk."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Own the MVP delivery roadmap and cross-functional alignment cadence; deliver the first executive status report; establish working relationships with Product, Engineering, and Finance stakeholders."
+    }
+  ]
+}
