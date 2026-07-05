@@ -1,0 +1,87 @@
+{
+  "company": "Level AI",
+  "role": "Implementation Manager",
+  "slug": "level-ai",
+  "hero": {
+    "name": "Richard J. Valeo, CSM",
+    "title": "Implementation Manager · AI-Powered Customer Engagement Platforms",
+    "value": "15+ years leading technical onboarding, requirements discovery, and platform configuration for SaaS and AI-powered solutions — with direct experience integrating CRMs, APIs, and cloud platforms for distributed, multi-country client organizations. I own the implementation lifecycle from first discovery call to measurable time-to-value.",
+    "pitch_url": "rjvaleo.github.io/pitch-page/?job=level-ai"
+  },
+  "the_case": [
+    {
+      "requirement": "4+ years hands-on technical role; 1+ years delivering customer implementations",
+      "evidence": "15+ years of client-facing technical delivery: Understood.org (CRM integration + replatform implementation), Eptura (SaaS platform adoption across ~10 teams), Crocs (technical discovery + workflow configuration), OVRSTCH (founder-led platform build)"
+    },
+    {
+      "requirement": "SaaS platforms, APIs, cloud services",
+      "evidence": "Azure/Kubernetes at Eptura, Crocs, Understood.org; API integrations at OVRSTCH (Stripe, WooPay, ApplePay, Printify); Salesforce CRM integration at Understood.org"
+    },
+    {
+      "requirement": "Project management across multiple simultaneous client implementations",
+      "evidence": "Understood.org: managed a distributed implementation team across 12+ countries; Eptura: coordinated implementation and adoption across ~10 concurrent teams"
+    },
+    {
+      "requirement": "Translating complex technical concepts to non-technical stakeholders",
+      "evidence": "Primary technical point of contact for VP of Engineering (Understood.org) and Operations Board (Eptura); consistently the bridge between engineering and business stakeholders"
+    },
+    {
+      "requirement": "Entrepreneurial and problem-solving attitude",
+      "evidence": "Founder of OVRSTCH (built and configured an entire AI-native commerce platform solo); engagement lead at a stealth-mode AI startup navigating ambiguous, fast-moving requirements"
+    },
+    {
+      "requirement": "CRM integration experience (Salesforce)",
+      "evidence": "Direct hands-on Salesforce CRM integration work at Understood.org (2019–2020), delivered alongside a full platform replatform"
+    },
+    {
+      "requirement": "Familiarity with intent-based and generative AI",
+      "evidence": "Daily practitioner of Claude Code, ChatGPT/GPT-4, and Google Gemini since 2022; led delivery for a startup building fine-tuned LLM models on these same platforms against proprietary datasets"
+    }
+  ],
+  "the_stack": {
+    "description": "Implementation and integration tooling used daily or with direct delivery experience",
+    "tools": [
+      "Salesforce (CRM Integration)",
+      "Claude AI / Claude Code",
+      "ChatGPT / GPT-4",
+      "Google Gemini",
+      "Stripe / WooPay / ApplePay APIs",
+      "Printify API",
+      "Jira",
+      "Azure DevOps",
+      "Confluence",
+      "Smartsheet",
+      "GitHub Actions (CI/CD)"
+    ]
+  },
+  "when_things_break": [
+    {
+      "scenario": "A client implementation stalls because requirements were never fully understood before configuration began",
+      "response": "At Understood.org, I inherited a distressed, multi-year program and led technical discovery to fully understand the CRM integration and replatform requirements before proceeding — delivering with zero critical regressions after taking over in its final crucial months."
+    },
+    {
+      "scenario": "Multiple concurrent client/team implementations start competing for the same limited technical resources",
+      "response": "At Eptura, I coordinated SaaS platform adoption and configuration across ~10 distributed teams spanning two continents, standardizing cadences and building executive dashboards so leadership could see where resourcing conflicts were emerging before they became blockers."
+    },
+    {
+      "scenario": "A solo implementation needs to integrate multiple third-party APIs with no dedicated engineering team",
+      "response": "At OVRSTCH, I personally configured and integrated payment APIs (Stripe, WooPay, ApplePay) and automated fulfillment (Printify API) as the platform's founder, then diagnosed and resolved a production bottleneck that was costing 25% of fulfillment cycle time."
+    }
+  ],
+  "how_i_run_a_room": [
+    "Every implementation starts with structured technical discovery — understanding the client's actual requirements before any configuration begins",
+    "Client-facing status updates translate technical progress into business terms before the client has to ask",
+    "RAID log maintained and reviewed at every client touchpoint; integration risks named before they become blockers",
+    "Configuration decisions are documented as they're made, not reconstructed after the fact",
+    "Retrospectives after each implementation feed directly into faster time-to-value on the next one",
+    "Upsell/cross-sell opportunities get flagged as they surface during discovery, not left for account management to find later"
+  ],
+  "sr_pm_partner": {
+    "before": "Client implementations stall in discovery, technical requirements get lost in translation to the account team, and time-to-value slips past what was promised in the sales cycle",
+    "after": "Clear discovery-to-configuration process, technical decisions translated into business terms as they happen, and a client relationship that survives the handoff from sales to delivery"
+  },
+  "the_ramp": {
+    "day_one": "Review the current client implementation pipeline, shadow an active onboarding call, and read existing configuration documentation for the core Level AI products — Auto-QA, Analytics, Voice of the Customer, Agent Assist, Screen Recording",
+    "thirty_days": "Own end-to-end implementation for at least one active client account; identify 2-3 process improvements in the current onboarding workflow; establish working relationships with sales, product, and engineering counterparts"
+  }
+}
