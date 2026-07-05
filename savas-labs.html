@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RJ Valeo — For Savas Labs</title>
+<style>
+  :root {
+    --bg: #FAFAF8;
+    --bg-card: #FFFFFF;
+    --ink: #1A1A1A;
+    --ink-soft: #4A4A4A;
+    --ink-faint: #8A8A85;
+    --accent: #0F6E56;
+    --accent-soft: #E8F2EF;
+    --border: #E5E3DD;
+    --serif: Georgia, 'Times New Roman', serif;
+    --sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--sans);
+    line-height: 1.55;
+    font-size: 16px;
+  }
+  a { color: inherit; }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 0 32px; }
+
+  /* NAV */
+  header.nav {
+    padding: 28px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .nav .wrap { display: flex; justify-content: space-between; align-items: center; }
+  .logo { font-weight: 700; font-size: 15px; letter-spacing: 0.06em; text-transform: uppercase; }
+  .logo span { color: var(--accent); }
+  nav.links { display: flex; gap: 28px; font-size: 13px; letter-spacing: 0.03em; text-transform: uppercase; }
+  nav.links a { text-decoration: none; color: var(--ink-soft); }
+  nav.links a:hover { color: var(--accent); }
+
+  /* HERO */
+  .hero { padding: 96px 0 72px; }
+  .eyebrow {
+    display: inline-block; font-size: 13px; letter-spacing: 0.08em; text-transform: uppercase;
+    color: var(--accent); font-weight: 700; margin-bottom: 20px;
+    border: 1px solid var(--accent); border-radius: 100px; padding: 6px 16px;
+  }
+  h1.headline {
+    font-family: var(--serif); font-size: 52px; line-height: 1.12; font-weight: 400;
+    max-width: 780px; margin-bottom: 28px; color: var(--ink);
+  }
+  h1.headline em { font-style: italic; color: var(--accent); }
+  .hero-sub { font-size: 19px; color: var(--ink-soft); max-width: 640px; margin-bottom: 32px; }
+  .cta-row { display: flex; gap: 14px; flex-wrap: wrap; }
+  .btn {
+    display: inline-block; padding: 13px 26px; border-radius: 6px; font-size: 14px;
+    font-weight: 600; text-decoration: none; letter-spacing: 0.01em;
+  }
+  .btn-primary { background: var(--accent); color: #fff; }
+  .btn-secondary { background: transparent; color: var(--ink); border: 1px solid var(--border); }
+
+  /* SECTION LABELS */
+  .section { padding: 72px 0; border-top: 1px solid var(--border); }
+  .section-label {
+    font-size: 13px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent);
+    font-weight: 700; margin-bottom: 12px;
+  }
+  .section-title {
+    font-family: var(--serif); font-size: 34px; font-weight: 400; margin-bottom: 16px; max-width: 640px;
+  }
+  .section-sub { color: var(--ink-soft); max-width: 620px; margin-bottom: 44px; font-size: 16px; }
+
+  /* FOUR PRACTICES GRID */
+  .practices { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
+  .practice-card {
+    background: var(--bg-card); border: 1px solid var(--border); border-radius: 10px;
+    padding: 28px 22px; transition: border-color 0.15s;
+  }
+  .practice-card:hover { border-color: var(--accent); }
+  .practice-num { font-size: 12px; color: var(--ink-faint); font-weight: 700; letter-spacing: 0.05em; margin-bottom: 14px; }
+  .practice-name { font-size: 18px; font-weight: 700; margin-bottom: 10px; }
+  .practice-desc { font-size: 14px; color: var(--ink-soft); margin-bottom: 14px; }
+  .practice-proof { font-size: 13px; color: var(--accent); font-weight: 600; }
+
+  /* CASE STUDY CARDS */
+  .cases { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+  .case-card {
+    background: var(--bg-card); border: 1px solid var(--border); border-radius: 10px; padding: 30px;
+  }
+  .case-client { font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink-faint); font-weight: 700; margin-bottom: 8px; }
+  .case-role { font-size: 17px; font-weight: 700; margin-bottom: 14px; }
+  .case-body { font-size: 14.5px; color: var(--ink-soft); margin-bottom: 16px; }
+  .case-stat { font-size: 14px; font-weight: 700; color: var(--accent); border-top: 1px solid var(--border); padding-top: 14px; }
+
+  /* CLIENT GRID */
+  .client-grid {
+    display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px;
+  }
+  .client-chip {
+    background: var(--accent-soft); color: var(--accent); border-radius: 6px; padding: 16px 14px;
+    text-align: center; font-weight: 700; font-size: 14px;
+  }
+
+  /* FROM THE FIELD */
+  .field-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+  .field-card { padding-right: 8px; }
+  .field-tag { font-size: 12px; color: var(--ink-faint); text-transform: uppercase; letter-spacing: 0.06em; font-weight: 700; margin-bottom: 10px; }
+  .field-title { font-family: var(--serif); font-size: 20px; margin-bottom: 10px; }
+  .field-body { font-size: 14.5px; color: var(--ink-soft); }
+
+  /* CTA */
+  .cta-section { background: var(--ink); color: #fff; padding: 80px 0; text-align: center; }
+  .cta-section .section-title { color: #fff; margin: 0 auto 16px; }
+  .cta-section .hero-sub { color: #C9C9C4; margin: 0 auto 32px; }
+  .cta-section .cta-row { justify-content: center; }
+  .cta-section .btn-secondary { color: #fff; border-color: #444; }
+
+  /* FOOTER */
+  footer { padding: 48px 0 64px; }
+  .footer-grid { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 24px; }
+  .footer-note { font-size: 13px; color: var(--ink-faint); max-width: 420px; }
+  .footer-contact { font-size: 14px; }
+  .footer-contact a { text-decoration: none; color: var(--accent); font-weight: 600; }
+  .roost { font-style: italic; color: var(--ink-faint); font-size: 13px; margin-top: 6px; }
+
+  @media (max-width: 900px) {
+    .practices, .cases, .field-grid { grid-template-columns: repeat(2, 1fr); }
+    .client-grid { grid-template-columns: repeat(2, 1fr); }
+    h1.headline { font-size: 38px; }
+    nav.links { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap">
+    <div class="logo">RJ VALEO <span>·</span> FOR SAVAS LABS</div>
+    <nav class="links">
+      <a href="#practices">Practices</a>
+      <a href="#cases">Case Studies</a>
+      <a href="#clients">Clients</a>
+      <a href="#field">From the Field</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <span class="eyebrow">Prepared for Savas Labs — Project &amp; Product Manager</span>
+    <h1 class="headline">I ship results <em>that matter.</em></h1>
+    <p class="hero-sub">15+ years owning client relationships, project budgets, and delivery outcomes across digital
+      agencies and consultancies — from production roots at @radical.media and SapientNitro through AI-native
+      delivery work today. Three practices, one person: strategy, delivery, and hands-on engineering, applied to
+      every client engagement.</p>
+    <div class="cta-row">
+      <a href="#practices" class="btn btn-primary">See how I work</a>
+      <a href="mailto:rjvaleo@gmail.com" class="btn btn-secondary">Let's talk</a>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="practices">
+  <div class="wrap">
+    <div class="section-label">How I Work</div>
+    <h2 class="section-title">Four practices, one project lead.</h2>
+    <p class="section-sub">Frontier technology. Applied intelligence. Human-centered delivery — the same
+      positioning Savas Labs builds its practice around, and the way I've operated for 15 years.</p>
+    <div class="practices">
+      <div class="practice-card">
+        <div class="practice-num">01 — STRATEGY</div>
+        <div class="practice-name">Client Relationships &amp; Product Thinking</div>
+        <div class="practice-desc">Own the client relationship end to end — kickoffs, status, retrospectives — and
+          bring product thinking focused on real user and business outcomes, not just scope compliance.</div>
+        <div class="practice-proof">Eptura Operations Board · Understood.org VP Eng · Crocs retailer leadership</div>
+      </div>
+      <div class="practice-card">
+        <div class="practice-num">02 — DELIVERY</div>
+        <div class="practice-name">Budgets, Timelines &amp; Cross-Functional Teams</div>
+        <div class="practice-desc">Own project budgets and profitability, forecast needs, track actuals, manage
+          change orders, and flag risk before it becomes a problem — across design, engineering, and strategy.</div>
+        <div class="practice-proof">~10 distributed teams at Eptura · 12+ countries at Understood.org</div>
+      </div>
+      <div class="practice-card">
+        <div class="practice-num">03 — ENGINEERING</div>
+        <div class="practice-name">AI-Assisted Building</div>
+        <div class="practice-desc">Daily Claude Code practitioner since 2022. Build internal tools, prototypes, and
+          workflow automations myself — not just direct people who do.</div>
+        <div class="practice-proof">6 production apps shipped in 2026 · Jira AI &amp; Copilot embedded at Crocs</div>
+      </div>
+      <div class="practice-card">
+        <div class="practice-num">04 — GROWTH</div>
+        <div class="practice-name">Team Building &amp; Business Development</div>
+        <div class="practice-desc">Recruited and onboarded talent as a founder with no HR department. Supported
+          business development across most of my agency career — scoping, pricing, client insight.</div>
+        <div class="practice-proof">OVRSTCH hiring &amp; BD · Bushwick Art Project / BAPLAB · agency-era BD support</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="cases">
+  <div class="wrap">
+    <div class="section-label">The Case</div>
+    <h2 class="section-title">Proof, not promises.</h2>
+    <p class="section-sub">Every practice above, backed by a specific engagement with a specific outcome.</p>
+    <div class="cases">
+      <div class="case-card">
+        <div class="case-client">Eptura · Enterprise SaaS</div>
+        <div class="case-role">Senior Delivery Consultant / Agile Coach</div>
+        <div class="case-body">Owned delivery coordination across ~10 distributed teams spanning Marketing, UX,
+          Engineering, and Data in a PI-aligned environment with onshore/offshore execution.</div>
+        <div class="case-stat">35%+ delivery efficiency gain · 20% sprint carryover reduction</div>
+      </div>
+      <div class="case-card">
+        <div class="case-client">Crocs, Inc. · Public Retailer</div>
+        <div class="case-role">Project Delivery Consultant / Release Governance Lead</div>
+        <div class="case-body">Owned the client relationship and release governance cadence for a publicly traded
+          retailer under live audit review, embedding AI tools directly into the delivery workflow.</div>
+        <div class="case-stat">~30% administrative overhead reduction via Jira AI &amp; Copilot</div>
+      </div>
+      <div class="case-card">
+        <div class="case-client">OVRSTCH · Founder</div>
+        <div class="case-role">Founder / Project &amp; Product Lead</div>
+        <div class="case-body">Founded and operated an AI-native commerce platform solo — product, budget, hiring,
+          and business development all owned personally, with no team to hand any of it to.</div>
+        <div class="case-stat">~25% cycle-time reduction via bottleneck diagnosis</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="clients">
+  <div class="wrap">
+    <div class="section-label">The Roster</div>
+    <h2 class="section-title">Companies I've delivered for.</h2>
+    <p class="section-sub">From public retailers to AI startups to Fortune 500 agency clients — range, not a single
+      industry specialty.</p>
+    <div class="client-grid">
+      <div class="client-chip">Crocs</div>
+      <div class="client-chip">Meta</div>
+      <div class="client-chip">Eptura</div>
+      <div class="client-chip">A&amp;E Networks</div>
+      <div class="client-chip">Understood.org</div>
+      <div class="client-chip">SunTrust</div>
+      <div class="client-chip">Unilever</div>
+      <div class="client-chip">Toyota</div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="field">
+  <div class="wrap">
+    <div class="section-label">From the Field</div>
+    <h2 class="section-title">Notes from the work.</h2>
+    <p class="section-sub">Three moments that show how I actually operate under pressure, not just what I claim.</p>
+    <div class="field-grid">
+      <div class="field-card">
+        <div class="field-tag">Compliance</div>
+        <div class="field-title">On Owning the Seams</div>
+        <div class="field-body">At Crocs, I designed SOX-compliant Segregation of Duties controls and built them
+          directly into the sprint workflow — not a separate compliance gate, but part of the definition of done.
+          The team stayed fast. The audit trail stayed clean. That's the seam a good project lead owns.</div>
+      </div>
+      <div class="field-card">
+        <div class="field-tag">Founder</div>
+        <div class="field-title">Founding Without a Team</div>
+        <div class="field-body">At OVRSTCH, I was the only person. I recruited contract talent, drove business
+          development myself, and shipped a full commerce platform end to end. There's no substitute for having
+          actually run the whole thing yourself before asking anyone else to.</div>
+      </div>
+      <div class="field-card">
+        <div class="field-tag">Crisis Recovery</div>
+        <div class="field-title">Stabilizing in the Final Months</div>
+        <div class="field-body">At Understood.org, I inherited a distressed, 12+-country program in its final
+          crucial months. Daily executive syncs, a visible recovery plan, rebuilt reporting transparency — delivered
+          on time with zero critical regressions.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-section">
+  <div class="wrap">
+    <h2 class="section-title">Let's ship something that matters.</h2>
+    <p class="hero-sub">I'd like to hear which client relationship on your current roster has the most room for a
+      project lead who brings product thinking and hands-on AI fluency — not just status reports.</p>
+    <div class="cta-row">
+      <a href="mailto:rjvaleo@gmail.com" class="btn btn-primary">rjvaleo@gmail.com</a>
+      <a href="tel:917-664-1750" class="btn btn-secondary">917-664-1750</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="footer-grid">
+      <div class="footer-note">
+        Prepared specifically for Savas Labs — Project &amp; Product Manager. Not a template — built for this role.
+        <div class="roost">Currently roosting in Georgetown, CO.</div>
+      </div>
+      <div class="footer-contact">
+        Richard J. Valeo, CSM<br>
+        <a href="mailto:rjvaleo@gmail.com">rjvaleo@gmail.com</a><br>
+        <a href="https://linkedin.com/in/rjvaleo">linkedin.com/in/rjvaleo</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
