@@ -153,9 +153,7 @@ section { padding: 88px 0; }
 .proof-row {
   display: grid; grid-template-columns: 1fr 1fr auto; gap: 24px; align-items: start;
   padding: 22px 0; border-bottom: 1px solid var(--line); cursor: pointer; position: relative;
-  opacity: 0; transform: translateY(8px); transition: all 0.5s ease;
 }
-.proof-row.visible { opacity: 1; transform: none; }
 .proof-need { font-weight: 700; font-size: 15px; }
 .proof-answer { font-size: 14.5px; color: var(--graphite); }
 .proof-toggle {
