@@ -32,6 +32,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v5
+      - name: Validate job configs against pitch.js schema
+        run: python3 validate_job_config.py
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
