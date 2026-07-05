@@ -1,0 +1,179 @@
+{
+  "slug": "triluxtech",
+  "company": "Triluxtech",
+  "role": "Demand Intake Owner & Scrum Master",
+  "subtitle": "Portfolio Governance & Agile Delivery, One Seat",
+  "hero_title": "Demand intake owner<br>and Scrum Master.<br><em>Same seat.</em>",
+  "hero_sub": "10+ years bridging business stakeholders, Product Owners, IT teams, and executive leadership — managing the demand pipeline from intake through governance approval, then running the Agile ceremonies that turn an approved initiative into delivered work.",
+
+  "the_case": [
+    {
+      "need": "Demand intake collection, review, and organization with business justification and strategic alignment",
+      "answer": "At Eptura, managed technology demand intake across an Agile PMO — collecting and evaluating initiative requests, assessing business justification and strategic alignment, and consolidating IT capacity and dependency analysis to support leadership prioritization.",
+      "detail": "This is the single closest direct analog to the target role in my entire career — the same function, at enterprise SaaS scale, across ~10 distributed teams spanning India and California."
+    },
+    {
+      "need": "Operations Board support: preparing and presenting technology demand portfolios",
+      "answer": "Prepared and presented portfolio reporting to senior leadership with business, technical, and resource context at Eptura. At Crocs, ran go/no-go governance — readiness checkpoints, CAB-style change approval — the operational equivalent of Operations Board facilitation.",
+      "detail": "Every decision was documented and communicated to all parties — not verbal alignment that evaporates after the meeting."
+    },
+    {
+      "need": "Scrum Master ceremonies, PO partnership, impediment removal, coaching",
+      "answer": "Deep Scrum Master practice throughout a 15-year career — facilitating ceremonies, coaching Product Owners on backlog discipline, removing impediments, and monitoring delivery metrics.",
+      "detail": "At Eptura, I served as Scrum Master for assigned product teams simultaneously with owning PMO-wide demand intake — the same dual function this role asks for, already proven in one seat."
+    },
+    {
+      "need": "Stakeholder alignment across business, Product Owners, IT, and executive leadership",
+      "answer": "Trusted liaison between business and technology throughout my career — communicating risk, capacity constraints, and portfolio status clearly to senior leadership at Eptura, Crocs, and Understood.org.",
+      "detail": "At Understood.org, I was the primary liaison between engineering leadership and executive stakeholders across a 12+-country distributed program."
+    },
+    {
+      "need": "Post-approval coordination: transitioning approved initiatives into backlog development and delivery",
+      "answer": "At Eptura, facilitated prioritization/sequencing decisions and communicated approved priorities to Product Owners and delivery teams for transition into execution, maintaining transparency into the demand pipeline throughout.",
+      "detail": "Governance without a clean handoff to delivery is just a meeting — I own the transition, not just the decision."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The governance & delivery toolkit.",
+    "subhead": "Tools used daily to keep demand, capacity, and delivery visible in one place.",
+    "nodes": [
+      {
+        "label": "Jira & Jira AI",
+        "desc": "Demand pipeline tracking, dashboards, AI-assisted reporting",
+        "pm_role": "Built PMO-wide demand and delivery dashboards at Eptura across ~10 teams; embedded Jira AI at Crocs for a ~30% administrative overhead reduction."
+      },
+      {
+        "label": "Azure DevOps (ADO)",
+        "desc": "Cross-team dependency and capacity tracking",
+        "pm_role": "Consolidated status, risk, dependency, and capacity data into stakeholder-ready dashboards at Crocs."
+      },
+      {
+        "label": "Confluence & Smartsheet",
+        "desc": "Governance documentation, decision records, portfolio reporting",
+        "pm_role": "Used across every engagement for RAID logs and executive-facing portfolio reporting."
+      },
+      {
+        "label": "Claude Code & AI Tools",
+        "desc": "Claude AI/Claude Code, ChatGPT, Microsoft Copilot",
+        "pm_role": "Daily practitioner since 2022. Embedded Copilot directly into governance reporting workflows at Crocs."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "Leadership can't see the full demand pipeline, capacity, and risk picture in one place",
+      "response": [
+        "At Eptura, built Jira, Azure DevOps, and Smartsheet dashboards leadership could read without my narration",
+        "Consolidated IT capacity, dependency analysis, and demand intake into a single integrated view",
+        "Kept the system current as a living artifact, not a one-time snapshot",
+        "Result: leadership made prioritization decisions with real data, not guesswork"
+      ]
+    },
+    {
+      "scenario": "A release governance process is slowing delivery without actually reducing risk",
+      "response": [
+        "At Crocs, ran go/no-go governance with readiness checkpoints and CAB-style change approval",
+        "Embedded Jira AI and Microsoft Copilot into the reporting workflow",
+        "Cut administrative overhead ~30% while making the output sharper, not slower",
+        "Result: on-time go-live with clean post-launch stabilization"
+      ]
+    },
+    {
+      "scenario": "A distressed, multi-country program needs a single point of accountability fast",
+      "response": [
+        "At Understood.org, became the primary liaison between engineering leadership and executive stakeholders across 12+ countries",
+        "Communicated delivery status, risk, and capacity constraints clearly at every level",
+        "Coordinated third-party vendors and tracked all post-approval commitments",
+        "Result: on-time launch with no critical regressions"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Every intake request gets evaluated for business justification and strategic alignment before it reaches governance review",
+    "IT capacity and dependency data are consolidated continuously, not reconstructed for each board meeting",
+    "Governance decisions get documented and communicated to every stakeholder, not just the room that made them",
+    "Approved initiatives get a clean, tracked handoff into backlog development — nothing gets lost between approval and execution",
+    "Agile ceremonies produce real decisions and coaching, not just status updates",
+    "Risk and capacity constraints are communicated clearly at every level, from Product Owner to executive leadership"
+  ],
+
+  "track_record": [
+    {
+      "company": "Eptura",
+      "role": "Agile Coach & Senior Scrum Master — Demand Intake & PMO Governance",
+      "period": "2022–2023",
+      "points": [
+        "Managed technology demand intake across an Agile PMO spanning ~10 distributed teams",
+        "Prepared and presented portfolio reporting to senior leadership",
+        "Served as Scrum Master for assigned product teams simultaneously",
+        "Drove 35%+ delivery efficiency gain, 20% sprint carryover reduction"
+      ]
+    },
+    {
+      "company": "Crocs, Inc.",
+      "role": "Scrum Master & PM — Governance, Release Control & Delivery",
+      "period": "2026",
+      "points": [
+        "Ran go/no-go governance cadence for a publicly traded retailer",
+        "Consolidated status, risk, and dependencies into stakeholder-ready dashboards",
+        "Partnered with Product Owner on intake business justification",
+        "Reduced administrative overhead ~30% via Jira AI and Copilot"
+      ]
+    },
+    {
+      "company": "OVRSTCH",
+      "role": "Founder / Scrum Master & Delivery Lead",
+      "period": "2024–2026",
+      "points": [
+        "Owned the full demand intake lifecycle solo, as founder",
+        "Assessed feasibility against capacity and dependencies",
+        "Sequenced work into delivery cycles and tracked commitments to resolution",
+        "Reduced order-to-fulfillment cycle time ~25%"
+      ]
+    },
+    {
+      "company": "Understood.org",
+      "role": "Digital Producer & Scrum Master",
+      "period": "2019–2020",
+      "points": [
+        "Primary liaison between engineering leadership and executive stakeholders",
+        "Managed a distressed program across 12+ countries",
+        "Coordinated third-party vendors and post-approval commitments",
+        "Delivered on-time launch with no critical regressions"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "Demand requests pile up with no clear justification or prioritization process",
+      "Governance boards make decisions without full capacity or dependency visibility",
+      "Approved initiatives stall in the handoff between governance and delivery",
+      "Scrum ceremonies happen but don't connect back to portfolio-level priorities"
+    ],
+    "after": [
+      "Every intake request arrives with business justification and strategic alignment already assessed",
+      "Governance decisions are made with real-time capacity and dependency data",
+      "Approved initiatives transition cleanly into backlog development with nothing lost",
+      "Scrum ceremonies and portfolio governance operate as one connected system, not two"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Day One",
+      "deliverable": "Review the current demand intake pipeline, Operations Board cadence, and existing governance documentation; meet with Product Owners and IT leadership to understand current capacity constraints."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Begin facilitating ceremonies for assigned teams; identify the first gap in intake documentation or capacity visibility."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Own the full demand intake and Operations Board preparation cadence; deliver the first improved portfolio reporting format; establish working relationships with Product Owners, IT leadership, and executive stakeholders."
+    }
+  ]
+}
