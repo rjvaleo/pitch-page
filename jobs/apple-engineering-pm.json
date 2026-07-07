@@ -1,0 +1,179 @@
+{
+  "slug": "apple-engineering-pm",
+  "company": "Apple",
+  "role": "Engineering Project Manager, Customer Systems",
+  "subtitle": "Requirements Through Release, With Engineering Fluency",
+  "hero_title": "Engineering project manager.<br>Software background.<br><em>ML-adjacent delivery.</em>",
+  "hero_sub": "10+ years owning technical initiatives from business requirements through release — with a hands-on software development background and direct project-delivery experience on a machine learning fine-tuning engagement.",
+
+  "the_case": [
+    {
+      "need": "4+ years of experience in engineering project management",
+      "answer": "10+ years owning technical delivery end to end — most recently at Crocs, running release governance from technical design discussions through build, UAT, and cutover for a publicly traded retailer.",
+      "detail": "The Crocs engagement compressed a full release lifecycle into a hard external deadline — the same execution discipline this role asks for."
+    },
+    {
+      "need": "Experience with application of machine learning techniques",
+      "answer": "Led project delivery for a team fine-tuning Google Gemini, ChatGPT, and Claude (all via API) on proprietary customer datasets to reduce hallucination rates at a stealth-mode AI startup.",
+      "detail": "Honest framing: I led the delivery of that ML work — backlogs, KPIs, pipeline throughput — not the model fine-tuning code itself."
+    },
+    {
+      "need": "Background in software development, either as an engineer or exposed to SDLC",
+      "answer": "Started as a front-end engineer hand-coding HTML, PHP, and JavaScript for Bloomingdale's e-commerce platform; in 2026 shipped 6 production applications solo using Claude Code across the full build-to-deploy pipeline.",
+      "detail": "Current, hands-on: audio DSP, real-time 3D graphics, a physics-based game, a secure Next.js site — with CI/CD via GitHub Actions."
+    },
+    {
+      "need": "Bringing engineers, product managers, and designers together to deliver results",
+      "answer": "Career-long pattern: Crocs (Engineering/QA/Change/Business), Eptura (~10 distributed teams across Product/UX/Engineering/Data), Stealth AI startup (Data Scientists/Engineers/C-Suite).",
+      "detail": "The cross-functional facilitation muscle is the same one that runs Scrum ceremonies — just applied to a project-management seat instead of an SM seat."
+    },
+    {
+      "need": "Track record managing budgets and forecasting resource needs",
+      "answer": "Solo budget and resource allocation across concurrent workstreams as OVRSTCH founder; recurring executive dashboards at Eptura tracking delivery KPIs and program health for leadership resourcing decisions.",
+      "detail": "Real commercial constraints, not theoretical budget exercises — OVRSTCH's fulfillment cycle time cut ~25% came directly from resourcing a bottleneck correctly."
+    }
+  ],
+
+  "the_stack": {
+    "headline": "The delivery toolkit.",
+    "subhead": "Tools used daily to keep engineering, product, and design moving in one direction.",
+    "nodes": [
+      {
+        "label": "Jira & Jira AI",
+        "desc": "Delivery tracking, dashboards, AI-assisted reporting",
+        "pm_role": "Built release and dependency dashboards at Crocs and Eptura; embedded Jira AI at Crocs for a ~30% administrative overhead reduction."
+      },
+      {
+        "label": "Azure DevOps & GitHub Actions",
+        "desc": "Cross-team dependency tracking; CI/CD pipelines",
+        "pm_role": "Owned CI/CD pipelines for 6 shipped applications in 2026, and dependency tracking across enterprise delivery engagements."
+      },
+      {
+        "label": "Claude Code & AI Tools",
+        "desc": "Claude AI/Claude Code, ChatGPT, Microsoft Copilot",
+        "pm_role": "Daily practitioner since 2022. Led delivery for a team fine-tuning Gemini/ChatGPT/Claude via API; embedded Copilot into governance reporting at Crocs."
+      },
+      {
+        "label": "Confluence & Smartsheet",
+        "desc": "Requirements documentation, executive reporting",
+        "pm_role": "Used across every engagement for requirements traceability and stakeholder-ready portfolio reporting."
+      }
+    ]
+  },
+
+  "when_things_break": [
+    {
+      "scenario": "A technical design conversation needs someone who can follow the engineering, not just schedule around it",
+      "response": [
+        "Draws on direct front-end engineering background (Organic Inc.) and current full-stack AI-assisted development (6 apps shipped in 2026)",
+        "Asks the technical question a non-technical PM wouldn't know to ask",
+        "Translates the engineering tradeoff into a business-facing decision for stakeholders",
+        "Result: design discussions move faster because the PM isn't the bottleneck for technical context"
+      ]
+    },
+    {
+      "scenario": "An ML-adjacent engineering team needs delivery structure, not just a status tracker",
+      "response": [
+        "At a stealth-mode AI startup, translated ambiguous research objectives into structured backlogs and measurable KPIs",
+        "Diagnosed a data pipeline bottleneck and re-sequenced the workflow",
+        "Kept Data Scientists, Engineers, and C-Suite aligned on sequencing and priorities",
+        "Result: ~30% improvement in data processing throughput and predictable delivery"
+      ]
+    },
+    {
+      "scenario": "A release deadline is fixed and every dependent team has to hit it simultaneously",
+      "response": [
+        "At Crocs, ran go/no-go governance with readiness checkpoints and CAB-style change approval",
+        "Built Release Radar for real-time cross-environment dependency visibility",
+        "Coordinated Engineering, QA, Change Management, and Business through build, UAT, and cutover",
+        "Result: on-time go-live with clean post-launch stabilization"
+      ]
+    }
+  ],
+
+  "how_i_run_a_room": [
+    "Every project starts with requirements analysis grounded in a direct conversation with engineering, not a spec handed down secondhand",
+    "Technical design discussions get a PM who can ask the right follow-up question, not just take notes",
+    "Budget and resource forecasting happen continuously, not as a one-time exercise at kickoff",
+    "Cross-functional teams get one integrated view of status, risk, and dependencies — not three different trackers",
+    "Deadlines get protected through readiness checkpoints and go/no-go discipline, not last-minute heroics",
+    "Every decision is documented and communicated to the people it affects, not just the room that made it"
+  ],
+
+  "track_record": [
+    {
+      "company": "Crocs, Inc.",
+      "role": "Engineering Project Manager — Release Governance & Change Control (Contract)",
+      "period": "2026",
+      "points": [
+        "Owned technical design discussions through build, UAT, and cutover for a publicly traded global retailer",
+        "Ran go/no-go governance cadence across Engineering, QA, Change Management, and Business",
+        "Built Release Radar for real-time cross-environment dependency visibility",
+        "Reduced administrative overhead ~30% via Jira AI and Microsoft Copilot"
+      ]
+    },
+    {
+      "company": "Stealth-Mode AI Startup",
+      "role": "Strategic Project Lead / Scrum Master",
+      "period": "2024",
+      "points": [
+        "Led delivery for a team fine-tuning Gemini, ChatGPT, and Claude via API to reduce hallucination rates",
+        "Translated ambiguous research objectives into structured backlogs and measurable KPIs",
+        "Diagnosed and re-sequenced a data pipeline bottleneck",
+        "Improved data processing throughput ~30%"
+      ]
+    },
+    {
+      "company": "OVRSTCH",
+      "role": "Founder / Release Train Engineer & Delivery Lead",
+      "period": "2024–2026",
+      "points": [
+        "Owned solo budget and resource allocation across concurrent workstreams",
+        "Integrated payment and fulfillment systems under strict scope and schedule",
+        "Diagnosed a production bottleneck and re-sequenced the delivery pipeline",
+        "Reduced order-to-fulfillment cycle time ~25%"
+      ]
+    },
+    {
+      "company": "Eptura",
+      "role": "Agile Coach & Senior Scrum Master",
+      "period": "2022–2023",
+      "points": [
+        "Coordinated project delivery across ~10 distributed teams spanning India and California",
+        "Produced recurring executive dashboards tracking delivery KPIs and program health",
+        "Acted as escalation point for delivery risk and cross-team blockers",
+        "Drove 35%+ increase in delivery efficiency"
+      ]
+    }
+  ],
+
+  "sr_partner": {
+    "before": [
+      "Technical design discussions stall because the PM can't follow the engineering tradeoffs",
+      "ML-adjacent engineering work drifts without delivery structure or measurable KPIs",
+      "Budget and resource decisions get made reactively, after a bottleneck already hurt the schedule",
+      "Cross-functional teams work from three different versions of the truth"
+    ],
+    "after": [
+      "Technical design discussions move faster because the PM asks the right engineering question",
+      "ML-adjacent work gets structured backlogs, clear KPIs, and a path from experiment to shipped result",
+      "Budget and resource forecasting happen continuously, catching bottlenecks before they cost a deadline",
+      "Engineering, product, and design operate from one integrated view of status and risk"
+    ]
+  },
+
+  "the_ramp": [
+    {
+      "timeframe": "Day One",
+      "deliverable": "Review the current Customer Systems project portfolio, existing technical design documentation, and stakeholder map; meet with engineering leads to understand active technical decisions."
+    },
+    {
+      "timeframe": "Week 2",
+      "deliverable": "Begin facilitating cross-functional coordination for assigned projects; identify the first gap in requirements documentation or dependency visibility."
+    },
+    {
+      "timeframe": "Day 30",
+      "deliverable": "Own end-to-end delivery for assigned feature areas; deliver the first improved status/dependency reporting format; establish working relationships with engineering, product, and design leads."
+    }
+  ]
+}
